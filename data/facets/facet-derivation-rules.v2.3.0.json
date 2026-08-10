@@ -1,0 +1,379 @@
+{
+  "schemaVersion": 2,
+  "version": "2026.08.10-v2",
+  "purpose": "Generate canonical search facets from explicit tags, structured fields, reviewed overrides, and cautious numeric derivation.",
+  "precedence": [
+    "manual_review",
+    "structured_field",
+    "numeric_derived",
+    "legacy_tag"
+  ],
+  "evidencePolicy": {
+    "manual_review": {
+      "confidence": 0.93,
+      "displayEligible": true
+    },
+    "structured_field": {
+      "confidenceRange": [
+        0.74,
+        0.88
+      ],
+      "displayEligible": true
+    },
+    "numeric_derived": {
+      "confidence": 0.62,
+      "displayEligible": false
+    },
+    "legacy_tag": {
+      "confidence": 0.88,
+      "displayEligible": true
+    },
+    "defaultPlaceholderMayGenerateFacet": false,
+    "unknownMayGenerateFacet": false
+  },
+  "numericThresholds": {
+    "rich": {
+      "path": "taste.richness.typical",
+      "op": ">=",
+      "value": 3.5
+    },
+    "light": {
+      "all": [
+        [
+          "taste.richness.typical",
+          "<=",
+          2.3
+        ],
+        [
+          "taste.oiliness.typical",
+          "<=",
+          2.3
+        ]
+      ]
+    },
+    "spicy": {
+      "any": [
+        [
+          "taste.heat.typical",
+          ">=",
+          2.5
+        ],
+        [
+          "taste.spiceIntensity.typical",
+          ">=",
+          3.0
+        ]
+      ]
+    },
+    "seafood_forward": {
+      "path": "taste.seafoodIntensity.typical",
+      "op": ">=",
+      "value": 3.5
+    },
+    "animal_forward": {
+      "path": "taste.animalIntensity.typical",
+      "op": ">=",
+      "value": 3.5
+    },
+    "roasted": {
+      "path": "taste.roastedAroma.typical",
+      "op": ">=",
+      "value": 3.2
+    },
+    "garlic": {
+      "path": "taste.garlicIntensity.typical",
+      "op": ">=",
+      "value": 2.5
+    },
+    "fermented": {
+      "path": "taste.fermentation.typical",
+      "op": ">=",
+      "value": 2.5
+    },
+    "umami_forward": {
+      "path": "taste.umami.typical",
+      "op": ">=",
+      "value": 4.0
+    },
+    "sweet_savory": {
+      "all": [
+        [
+          "taste.sweetness.typical",
+          ">=",
+          2.8
+        ],
+        [
+          "taste.saltiness.typical",
+          ">=",
+          2.5
+        ]
+      ]
+    },
+    "sour": {
+      "path": "taste.sourness.typical",
+      "op": ">=",
+      "value": 2.2
+    },
+    "thick_noodle": {
+      "path": "noodle.thickness",
+      "op": ">=",
+      "value": 3.5,
+      "requiresEvidenceNot": "default_only"
+    },
+    "extra_thick_noodle": {
+      "path": "noodle.thickness",
+      "op": ">=",
+      "value": 4.4,
+      "requiresEvidenceNot": "default_only"
+    },
+    "thin_noodle": {
+      "path": "noodle.thickness",
+      "op": "<=",
+      "value": 2.2,
+      "requiresEvidenceNot": "default_only"
+    },
+    "flat_noodle": {
+      "path": "noodle.width",
+      "op": ">=",
+      "value": 3.7,
+      "requiresEvidenceNot": "default_only"
+    },
+    "firm_noodle": {
+      "path": "noodle.firmness",
+      "op": ">=",
+      "value": 3.6,
+      "requiresEvidenceNot": "default_only"
+    },
+    "soft_noodle": {
+      "path": "noodle.firmness",
+      "op": "<=",
+      "value": 2.2,
+      "requiresEvidenceNot": "default_only"
+    },
+    "elastic_noodle": {
+      "path": "noodle.elasticity",
+      "op": ">=",
+      "value": 3.7,
+      "requiresEvidenceNot": "default_only"
+    }
+  },
+  "servingPolicy": {
+    "nonSoupForm": "trusted_structured_field",
+    "japanLocalRamenWithoutContraryExplicitForm": "soup_search_only",
+    "worldNoodleSoupCollection": "soup_search_only",
+    "worldNoodleOtherDefaultSoup": "unknown"
+  },
+  "nameExplicitRules": [
+    {
+      "pattern": "カレー",
+      "facetIds": [
+        "curry"
+      ],
+      "evidence": "name_contains:カレー"
+    },
+    {
+      "pattern": "味噌",
+      "facetIds": [
+        "miso",
+        "fermented"
+      ],
+      "evidence": "name_contains:味噌"
+    },
+    {
+      "pattern": "塩",
+      "facetIds": [
+        "salt"
+      ],
+      "evidence": "name_contains:塩"
+    },
+    {
+      "pattern": "醤油|しょうゆ|中華そば|東京ラーメン",
+      "facetIds": [
+        "soy_sauce"
+      ],
+      "evidence": "name_explicit:醤油系"
+    },
+    {
+      "pattern": "豚骨|とんこつ",
+      "facetIds": [
+        "pork_bone",
+        "animal_forward"
+      ],
+      "evidence": "name_explicit:豚骨"
+    },
+    {
+      "pattern": "鶏白湯",
+      "facetIds": [
+        "chicken_paitan",
+        "animal_forward"
+      ],
+      "evidence": "name_explicit:鶏白湯"
+    },
+    {
+      "pattern": "煮干|焼き干し|焼干し|あごだし|節系",
+      "facetIds": [
+        "niboshi",
+        "seafood_forward",
+        "dashi_forward"
+      ],
+      "evidence": "name_explicit:魚介乾物"
+    },
+    {
+      "pattern": "牛骨",
+      "facetIds": [
+        "beef_bone",
+        "animal_forward"
+      ],
+      "evidence": "name_explicit:牛骨"
+    },
+    {
+      "pattern": "しじみ|牡蠣|さんま|まぐろ|かつお|干貝柱|海鮮|磯|ほたて|帆立|えび|海老|いか|烏賊",
+      "facetIds": [
+        "seafood_ingredient",
+        "seafood_forward"
+      ],
+      "evidence": "name_explicit:魚介素材"
+    },
+    {
+      "pattern": "辛|タンタン|担々|ベトコン",
+      "facetIds": [
+        "spicy"
+      ],
+      "evidence": "name_explicit:辛味"
+    },
+    {
+      "pattern": "つけ麺|つけそば",
+      "facetIds": [
+        "dipping"
+      ],
+      "evidence": "name_explicit:つけ"
+    },
+    {
+      "pattern": "油そば|まぜそば|汁なし",
+      "facetIds": [
+        "brothless"
+      ],
+      "evidence": "name_explicit:汁なし"
+    },
+    {
+      "pattern": "冷やし|冷麺|冷丼",
+      "facetIds": [
+        "cold"
+      ],
+      "evidence": "name_explicit:冷製"
+    },
+    {
+      "pattern": "焼きラーメン|焼ラーメン|焼きそば|焼そば|ローメン",
+      "facetIds": [
+        "fried_griddle"
+      ],
+      "evidence": "name_explicit:焼き・炒め"
+    },
+    {
+      "pattern": "あんかけ|餡かけ",
+      "facetIds": [
+        "ankake"
+      ],
+      "evidence": "name_explicit:あんかけ"
+    },
+    {
+      "pattern": "もつ|ホルメン|ホルモン",
+      "facetIds": [
+        "offal",
+        "meat_ingredient"
+      ],
+      "evidence": "name_explicit:もつ・ホルモン"
+    },
+    {
+      "pattern": "豆腐",
+      "facetIds": [
+        "tofu"
+      ],
+      "evidence": "name_explicit:豆腐"
+    },
+    {
+      "pattern": "ミルキー|牛乳",
+      "facetIds": [
+        "dairy"
+      ],
+      "evidence": "name_explicit:乳製品"
+    },
+    {
+      "pattern": "天ぷら|カツ|トンカツ",
+      "facetIds": [
+        "tempura"
+      ],
+      "evidence": "name_explicit:揚げ物"
+    },
+    {
+      "pattern": "生姜|しょうが",
+      "facetIds": [
+        "ginger"
+      ],
+      "evidence": "name_explicit:生姜"
+    },
+    {
+      "pattern": "背脂",
+      "facetIds": [
+        "backfat"
+      ],
+      "evidence": "name_explicit:背脂"
+    },
+    {
+      "pattern": "酒粕",
+      "facetIds": [
+        "sake_lees",
+        "fermented"
+      ],
+      "evidence": "name_explicit:酒粕"
+    },
+    {
+      "pattern": "茶ラーメン|茶そば",
+      "facetIds": [
+        "tea"
+      ],
+      "evidence": "name_explicit:茶"
+    },
+    {
+      "pattern": "玉子|卵",
+      "facetIds": [
+        "egg"
+      ],
+      "evidence": "name_explicit:卵"
+    },
+    {
+      "pattern": "タンメン|ちゃんぽん|ガタタン",
+      "facetIds": [
+        "vegetables"
+      ],
+      "evidence": "name_explicit:野菜系"
+    },
+    {
+      "pattern": "沖縄そば",
+      "facetIds": [
+        "okinawa_soba_noodle"
+      ],
+      "evidence": "name_explicit:沖縄そば麺"
+    },
+    {
+      "pattern": "太平燕",
+      "facetIds": [
+        "glass_noodle"
+      ],
+      "evidence": "name_explicit:春雨・でん粉麺"
+    },
+    {
+      "pattern": "雲呑|ワンタン",
+      "facetIds": [
+        "wonton"
+      ],
+      "evidence": "name_explicit:雲呑"
+    }
+  ],
+  "output": {
+    "facetIndex": "data/facets/facet-index.seed.json",
+    "flatEvidence": "data/facets/facet-evidence.csv",
+    "manualOverrides": "data/facets/manual-review-overrides.json",
+    "reviewQueue": "data/facets/review-queue.csv"
+  }
+}

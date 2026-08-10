@@ -1,0 +1,55 @@
+{
+  "appVersion": "2.3.0",
+  "dataVersion": "2026.08.10-v2.3.0-researched-data-v1",
+  "catalogSchemaVersion": 3,
+  "featureTagVersion": "2026.08.10-v2.3.0-density-v1",
+  "lastReviewed": "2026-08-10",
+  "generatedAt": "2026-08-09T00:00:00.000Z",
+  "counts": {
+    "total": 291,
+    "japan": 261,
+    "world": 30,
+    "regionalExampleRelations": 86,
+    "byCategory": {
+      "ramen": 188,
+      "udon": 24,
+      "soba": 19,
+      "yakisoba": 18,
+      "world_noodle": 28,
+      "other": 14
+    },
+    "byCulturalScope": {
+      "regional": 239,
+      "standard": 20,
+      "international": 30,
+      "contemporary": 2
+    }
+  },
+  "expected": {
+    "legacyCatalog": 215,
+    "researchedRegionalAdditions": 54,
+    "researchedRegionalByCategory": {
+      "udon": 19,
+      "soba": 15,
+      "yakisoba": 12,
+      "other": 8
+    },
+    "standardStyles": 20,
+    "standardByCategory": {
+      "ramen": 8,
+      "udon": 5,
+      "soba": 4,
+      "yakisoba": 3
+    },
+    "publicCatalog": 291,
+    "regionalExampleRelations": 86,
+    "contemporaryStyles": 2
+  },
+  "notes": [
+    "料理名と地域は公開資料を参照しています。",
+    "味覚値と推薦用特徴量はEpsilonLabによる編集データです。",
+    "定番スタイルは特定地域の一料理ではないため、都道府県と座標を持ちません。",
+    "一部の料理は公開資料の確認を継続しています。",
+    "アレルギーや食事制限を保証するデータではありません。"
+  ]
+}

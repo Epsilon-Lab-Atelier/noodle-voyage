@@ -1,0 +1,128 @@
+{
+  "package": "Noodle Voyage v2.3.0 researched data update",
+  "dataVersion": "2026.08.10-v2.3.0-researched-data-v1",
+  "createdAt": "2026-08-10T01:36:12+00:00",
+  "counts": {
+    "baseFacetRecords": 215,
+    "facetEvidenceRows": 984,
+    "manualReviewedAnchors": 19,
+    "reviewQueueRecords": 196,
+    "contemporaryStyles": 2,
+    "sourceRecords": 24,
+    "expectedPublicConcepts": 291
+  },
+  "densityAfter": {
+    "schemaVersion": 1,
+    "sourceVersion": "v2.1.2",
+    "researchDataVersion": "2026.08.10-v2.3.0-researched-facets-v1",
+    "auditedDishes": 215,
+    "manualReviewedAnchors": 19,
+    "facetEvidenceRows": 984,
+    "dishesWithAtLeastOneFacet": 215,
+    "averageFacetCount": 4.577,
+    "medianFacetCount": 4,
+    "completeness": {
+      "taste": {
+        "known": 90,
+        "derived": 125,
+        "unknown": 0,
+        "knownOrDerivedRatio": 1.0
+      },
+      "brothSeasoning": {
+        "known": 110,
+        "derived": 14,
+        "unknown": 91,
+        "knownOrDerivedRatio": 0.5767
+      },
+      "noodle": {
+        "known": 19,
+        "derived": 39,
+        "unknown": 157,
+        "knownOrDerivedRatio": 0.2698
+      },
+      "servingForm": {
+        "known": 214,
+        "derived": 0,
+        "unknown": 1,
+        "knownOrDerivedRatio": 0.9953
+      },
+      "ingredients": {
+        "known": 70,
+        "derived": 0,
+        "unknown": 145,
+        "knownOrDerivedRatio": 0.3256
+      }
+    },
+    "regressions": {
+      "richAndThick": {
+        "matchCount": 4,
+        "matches": [
+          {
+            "id": "jp-072",
+            "name": "つけ麺"
+          },
+          {
+            "id": "jp-075",
+            "name": "家系ラーメン"
+          },
+          {
+            "id": "jp-087",
+            "name": "燕背脂ラーメン"
+          },
+          {
+            "id": "jp-147",
+            "name": "広島つけ麺"
+          }
+        ],
+        "note": "All matches retain provenance. Numeric-derived facets are search-only unless separately reviewed."
+      }
+    },
+    "interpretation": [
+      "All 215 records now have at least one canonical facet, but this does not mean every facet dimension is manually researched.",
+      "Taste profiles are known or derived for all records; 125 rely primarily on the existing rule-derived numeric profile.",
+      "Noodle evidence remains unknown for 157 records. This is reported, not filled with placeholder claims.",
+      "The 90 percent noodle-density goal is not used as a release blocker until source-backed review is completed."
+    ]
+  },
+  "validation": {
+    "checks": 19,
+    "passed": 19,
+    "failed": 0,
+    "privacyScan": "PASS",
+    "jsonParse": "PASS",
+    "csvCounts": "PASS"
+  },
+  "files": [
+    "CATALOG.md",
+    "CLAUDE_CODE_V2.3.0_DATA_UPDATE_PROMPT.txt",
+    "DATA_METHOD.md",
+    "IMPLEMENTATION_HANDOFF.md",
+    "README.md",
+    "checklists/V2.3.0_ACCEPTANCE_CHECKLIST.csv",
+    "data/contemporary-styles/dish-tags.csv",
+    "data/contemporary-styles/dishes.csv",
+    "data/contemporary-styles/public-preview.json",
+    "data/contemporary-styles/relations.csv",
+    "data/contemporary-styles/research-notes.csv",
+    "data/contemporary-styles/sources.csv",
+    "data/contemporary-styles/taste-scores.csv",
+    "data/facets/base-215-density-audit.csv",
+    "data/facets/base-215-enrichment-summary.csv",
+    "data/facets/density-before-after.json",
+    "data/facets/facet-derivation-rules.v2.3.0.json",
+    "data/facets/facet-evidence.csv",
+    "data/facets/facet-index.seed.json",
+    "data/facets/feature-tag-taxonomy.v2.3.0.patch.json",
+    "data/facets/legacy-tag-coverage.json",
+    "data/facets/manual-review-overrides.csv",
+    "data/facets/manual-review-overrides.json",
+    "data/facets/merge-manifest.json",
+    "data/facets/review-queue.csv",
+    "data/private-place-menu-schema.json",
+    "data/sources/sources.csv",
+    "decision-records/ADR-023-public-venue-and-ranking-policy.md",
+    "spec/Noodle_Voyage_v2.3.0_implementation_spec_revised.md",
+    "validation-summary.csv",
+    "validation-summary.json"
+  ]
+}

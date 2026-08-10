@@ -1,0 +1,795 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-08-10",
+  "records": [
+    {
+      "id": "jp-001",
+      "name": "札幌ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "中太の縮れ麺",
+        "thickness": 3.4,
+        "width": 2.9,
+        "firmness": 4.1,
+        "elasticity": 4.0
+      },
+      "brothBases": [
+        "豚骨",
+        "鶏ガラ"
+      ],
+      "seasonings": [
+        "味噌だれ"
+      ],
+      "ingredients": [
+        "炒め野菜",
+        "もやし",
+        "ひき肉",
+        "ねぎ",
+        "チャーシュー",
+        "メンマ"
+      ],
+      "facetIds": [
+        "rich",
+        "miso",
+        "animal_forward",
+        "firm_noodle",
+        "vegetables",
+        "garlic",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-sapporo"
+      ],
+      "reviewNote": "中太で歯ごたえのある縮れ麺、味噌、ラード、にんにく、炒め野菜を中心像として確認。醤油・塩の店もあるため味噌は代表的特徴として扱う。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-002",
+      "name": "旭川ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "低加水の細め〜中細縮れ麺",
+        "thickness": 2.5,
+        "width": 2.5,
+        "firmness": 3.4,
+        "elasticity": 2.8
+      },
+      "brothBases": [
+        "豚骨",
+        "魚介",
+        "煮干し"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "ingredients": [
+        "ねぎ",
+        "チャーシュー",
+        "メンマ"
+      ],
+      "facetIds": [
+        "soy_sauce",
+        "double_broth",
+        "seafood_forward",
+        "animal_forward",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-asahikawa"
+      ],
+      "reviewNote": "低加水縮れ麺と、豚骨を主に魚介を合わせる醤油スープを確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-003",
+      "name": "函館ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "縮れの少ない中細麺",
+        "thickness": 2.4,
+        "width": 2.4,
+        "firmness": 3.0,
+        "elasticity": 2.8
+      },
+      "brothBases": [
+        "豚骨",
+        "鶏ガラ"
+      ],
+      "seasonings": [
+        "塩だれ"
+      ],
+      "ingredients": [
+        "ねぎ",
+        "チャーシュー",
+        "メンマ"
+      ],
+      "facetIds": [
+        "light",
+        "salt",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-hakodade"
+      ],
+      "reviewNote": "透明で澄んだ塩味と縮れの少ない麺を中心像として確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-040",
+      "name": "米沢ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "多加水の細い手もみ縮れ麺",
+        "thickness": 2.1,
+        "width": 2.3,
+        "firmness": 3.3,
+        "elasticity": 4.1
+      },
+      "brothBases": [
+        "鶏ガラ",
+        "豚骨",
+        "煮干し"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "ingredients": [
+        "ねぎ",
+        "チャーシュー",
+        "メンマ",
+        "なると",
+        "のり"
+      ],
+      "facetIds": [
+        "light",
+        "soy_sauce",
+        "thin_noodle",
+        "high_hydration_curly",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-yonezawa"
+      ],
+      "reviewNote": "多加水の細縮れ麺と、鶏・豚・煮干し等のあっさり醤油スープを確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-043",
+      "name": "白河ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "多加水の幅広い手打ち・手もみ縮れ麺",
+        "thickness": 3.2,
+        "width": 4.2,
+        "firmness": 3.8,
+        "elasticity": 4.2
+      },
+      "brothBases": [
+        "豚骨",
+        "鶏ガラ"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "ingredients": [
+        "ねぎ",
+        "チャーシュー",
+        "メンマ",
+        "なると",
+        "ほうれん草"
+      ],
+      "facetIds": [
+        "light",
+        "soy_sauce",
+        "flat_noodle",
+        "firm_noodle",
+        "handmade",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-shirakawa"
+      ],
+      "reviewNote": "幅広い多加水縮れ麺と澄んだ濃いめの醤油スープを確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-053",
+      "name": "佐野ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "青竹打ちの高加水平打ち麺",
+        "thickness": 3.0,
+        "width": 4.0,
+        "firmness": 2.8,
+        "elasticity": 3.8
+      },
+      "brothBases": [
+        "鶏ガラ",
+        "豚骨",
+        "魚介（店による）"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "ingredients": [
+        "ねぎ",
+        "チャーシュー",
+        "メンマ",
+        "なると"
+      ],
+      "facetIds": [
+        "light",
+        "soy_sauce",
+        "flat_noodle",
+        "handmade",
+        "smooth_noodle",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-sano"
+      ],
+      "reviewNote": "青竹打ちの平打ち高加水麺と、あっさり澄んだ醤油味を中心像として確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-042",
+      "name": "喜多方ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "太めの多加水平打ち縮れ麺",
+        "thickness": 3.8,
+        "width": 4.0,
+        "firmness": 3.6,
+        "elasticity": 4.4
+      },
+      "brothBases": [
+        "豚骨",
+        "鶏ガラ",
+        "煮干し"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "ingredients": [
+        "ねぎ",
+        "チャーシュー",
+        "メンマ"
+      ],
+      "facetIds": [
+        "light",
+        "soy_sauce",
+        "thick_noodle",
+        "flat_noodle",
+        "elastic_noodle",
+        "breakfast_culture",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-kitakata"
+      ],
+      "reviewNote": "太めの多加水平打ち縮れ麺、澄んだ醤油味、朝に食べる文化を確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-069",
+      "name": "東京ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "中細〜中太の縮れまたはストレート麺",
+        "thickness": 2.7,
+        "width": 2.6,
+        "firmness": 3.0,
+        "elasticity": 3.0
+      },
+      "brothBases": [
+        "鶏ガラ",
+        "豚骨",
+        "和風だし"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "ingredients": [
+        "ねぎ",
+        "チャーシュー",
+        "なると",
+        "ほうれん草",
+        "メンマ"
+      ],
+      "facetIds": [
+        "soy_sauce",
+        "double_broth",
+        "dashi_forward",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-tokyo"
+      ],
+      "reviewNote": "澄んだ動物系スープへ和風だしを合わせる中庸な醤油ラーメンとして確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-075",
+      "name": "家系ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "コシのある太めのストレート麺",
+        "thickness": 3.8,
+        "width": 3.5,
+        "firmness": 4.0,
+        "elasticity": 3.6
+      },
+      "brothBases": [
+        "豚骨",
+        "鶏ガラ"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "ingredients": [
+        "チャーシュー",
+        "ほうれん草",
+        "のり",
+        "ねぎ"
+      ],
+      "facetIds": [
+        "rich",
+        "pork_bone",
+        "animal_forward",
+        "soy_sauce",
+        "thick_noodle",
+        "firm_noodle",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-yokohama"
+      ],
+      "reviewNote": "濃厚な豚骨醤油とコシのある太麺という家系の中核構造を確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-112",
+      "name": "高山ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "細い縮れ麺",
+        "thickness": 2.0,
+        "width": 3.2,
+        "firmness": 3.4,
+        "elasticity": 2.8
+      },
+      "brothBases": [
+        "鶏ガラ",
+        "煮干し",
+        "かつお節",
+        "野菜"
+      ],
+      "seasonings": [
+        "醤油",
+        "みりん"
+      ],
+      "ingredients": [
+        "ねぎ",
+        "チャーシュー",
+        "メンマ"
+      ],
+      "facetIds": [
+        "light",
+        "soy_sauce",
+        "dashi_forward",
+        "seafood_forward",
+        "thin_noodle",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-takayama"
+      ],
+      "reviewNote": "和風だしを含む澄んだ醤油スープと細縮れ麺を確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-124",
+      "name": "京都ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "中くらいのストレート麺",
+        "thickness": 2.9,
+        "width": 2.6,
+        "firmness": 2.2,
+        "elasticity": 2.7
+      },
+      "brothBases": [
+        "豚",
+        "鶏",
+        "背脂（系統による）"
+      ],
+      "seasonings": [
+        "濃口醤油"
+      ],
+      "ingredients": [
+        "ねぎ",
+        "チャーシュー",
+        "メンマ",
+        "もやし"
+      ],
+      "facetIds": [
+        "rich",
+        "soy_sauce",
+        "animal_forward",
+        "soft_noodle",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-kyoto"
+      ],
+      "reviewNote": "濃い醤油、鶏・豚や背脂を使う濃厚な複数系統と、比較的やわらかい中麺を確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-136",
+      "name": "和歌山ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "細めのストレート麺",
+        "thickness": 2.2,
+        "width": 2.3,
+        "firmness": 2.2,
+        "elasticity": 2.6
+      },
+      "brothBases": [
+        "豚骨",
+        "鶏ガラ"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "ingredients": [
+        "チャーシュー",
+        "メンマ",
+        "ねぎ",
+        "かまぼこ"
+      ],
+      "facetIds": [
+        "pork_bone",
+        "soy_sauce",
+        "animal_forward",
+        "thin_noodle",
+        "soft_noodle",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-wakayama"
+      ],
+      "reviewNote": "豚骨醤油を中心とするスープと細めのストレート麺を確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-149",
+      "name": "尾道ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "少加水の中細ストレート麺",
+        "thickness": 2.5,
+        "width": 2.4,
+        "firmness": 3.4,
+        "elasticity": 2.8
+      },
+      "brothBases": [
+        "鶏ガラ",
+        "瀬戸内の小魚",
+        "豚骨（店による）"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "ingredients": [
+        "背脂",
+        "ねぎ",
+        "チャーシュー",
+        "メンマ"
+      ],
+      "facetIds": [
+        "soy_sauce",
+        "seafood_forward",
+        "backfat",
+        "thin_noodle",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-onomichi"
+      ],
+      "reviewNote": "鶏ガラ醤油、小魚だし、表面の脂と背脂、中細少加水麺を中心像として確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-146",
+      "name": "広島ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "細め〜中細のストレート麺",
+        "thickness": 2.1,
+        "width": 2.2,
+        "firmness": 2.2,
+        "elasticity": 2.5
+      },
+      "brothBases": [
+        "豚骨",
+        "鶏ガラ",
+        "魚介"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "ingredients": [
+        "チャーシュー",
+        "ねぎ",
+        "もやし",
+        "メンマ"
+      ],
+      "facetIds": [
+        "rich",
+        "pork_bone",
+        "double_broth",
+        "seafood_forward",
+        "thin_noodle",
+        "soft_noodle",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-hiroshima"
+      ],
+      "reviewNote": "豚骨・鶏ガラと魚介を合わせる白濁寄りの醤油スープ、細めの麺を中心像として確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-155",
+      "name": "徳島ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "細め〜中細のストレート麺",
+        "thickness": 2.3,
+        "width": 2.3,
+        "firmness": 2.1,
+        "elasticity": 2.5
+      },
+      "brothBases": [
+        "豚骨"
+      ],
+      "seasonings": [
+        "甘辛い醤油だれ"
+      ],
+      "ingredients": [
+        "豚ばら肉",
+        "生卵",
+        "ねぎ",
+        "もやし"
+      ],
+      "facetIds": [
+        "rich",
+        "pork_bone",
+        "animal_forward",
+        "sweet_savory",
+        "thin_noodle",
+        "soft_noodle",
+        "meat_ingredient",
+        "egg",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-tokushima"
+      ],
+      "reviewNote": "豚骨醤油の濃い甘辛いスープ、豚ばら肉、生卵、細めの麺を代表的構成として確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-162",
+      "name": "博多ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "極細の低加水ストレート麺",
+        "thickness": 1.2,
+        "width": 1.3,
+        "firmness": 4.2,
+        "elasticity": 2.4
+      },
+      "brothBases": [
+        "豚骨"
+      ],
+      "seasonings": [
+        "塩・醤油だれ（店による）"
+      ],
+      "ingredients": [
+        "チャーシュー",
+        "ねぎ",
+        "きくらげ",
+        "紅しょうが",
+        "ごま"
+      ],
+      "facetIds": [
+        "rich",
+        "pork_bone",
+        "animal_forward",
+        "thin_noodle",
+        "firm_noodle",
+        "garlic",
+        "kaedama",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-hakata"
+      ],
+      "reviewNote": "白濁豚骨、極細低加水麺、替え玉文化を確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-165",
+      "name": "久留米ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "細めのストレート麺",
+        "thickness": 1.8,
+        "width": 1.7,
+        "firmness": 3.7,
+        "elasticity": 2.6
+      },
+      "brothBases": [
+        "豚骨"
+      ],
+      "seasonings": [
+        "塩・醤油だれ（店による）"
+      ],
+      "ingredients": [
+        "チャーシュー",
+        "ねぎ",
+        "きくらげ",
+        "のり等"
+      ],
+      "facetIds": [
+        "rich",
+        "pork_bone",
+        "animal_forward",
+        "thin_noodle",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-kurume"
+      ],
+      "reviewNote": "濃厚な豚骨白湯と細めの麺を確認。博多より麺幅や具材に幅がある。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-173",
+      "name": "熊本ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "中細〜中太のストレート麺",
+        "thickness": 3.0,
+        "width": 2.7,
+        "firmness": 3.5,
+        "elasticity": 3.0
+      },
+      "brothBases": [
+        "豚骨",
+        "鶏ガラ"
+      ],
+      "seasonings": [
+        "塩・醤油だれ"
+      ],
+      "ingredients": [
+        "焦がしにんにく",
+        "マー油",
+        "チャーシュー",
+        "きくらげ",
+        "ねぎ"
+      ],
+      "facetIds": [
+        "rich",
+        "pork_bone",
+        "animal_forward",
+        "roasted",
+        "garlic",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-kumamoto"
+      ],
+      "reviewNote": "豚骨スープ、比較的太めの麺、焦がしにんにく・マー油を確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    },
+    {
+      "id": "jp-181",
+      "name": "鹿児島ラーメン",
+      "form": "soup",
+      "noodle": {
+        "shape": "中くらい〜太めで比較的やわらかい麺",
+        "thickness": 3.0,
+        "width": 2.8,
+        "firmness": 2.0,
+        "elasticity": 2.5
+      },
+      "brothBases": [
+        "豚骨",
+        "鶏ガラ",
+        "野菜",
+        "魚介（店による）"
+      ],
+      "seasonings": [
+        "塩・醤油だれ（店による）"
+      ],
+      "ingredients": [
+        "チャーシュー",
+        "ねぎ",
+        "もやし",
+        "焦がしねぎ等"
+      ],
+      "facetIds": [
+        "pork_bone",
+        "animal_forward",
+        "soft_noodle",
+        "soup",
+        "traditional"
+      ],
+      "sourceIds": [
+        "src-v230-jra-2025",
+        "src-v230-ramenmuseum-kagoshima"
+      ],
+      "reviewNote": "豚骨を基盤としつつ鶏・野菜等を合わせる穏やかなスープと、やわらかめの麺を確認。",
+      "verificationLevel": "reviewed",
+      "reviewedAt": "2026-08-10"
+    }
+  ]
+}

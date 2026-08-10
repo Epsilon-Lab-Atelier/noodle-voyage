@@ -1,0 +1,5 @@
+﻿dataset,category,count,status,note
+v2.1.2_existing_catalog,existing,215,preserve,v2.1.2で公開済みの日本ご当地ラーメン185件と世界の麺料理30件
+researched_regional_additions,regional,53,integrated_or_add,調査済みのご当地うどん18、そば15、焼きそば12、その他8
+researched_standard_styles,standard,20,add,今回追加する定番ラーメン8、うどん5、そば4、焼きそば3
+v2.2.0_public_catalog,total,288,expected,全データがpublishedのまま統合できた場合の公開総数

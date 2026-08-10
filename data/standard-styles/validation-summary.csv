@@ -1,0 +1,19 @@
+﻿check,status,detail
+定番スタイル件数,PASS,"{""actual"": 20, ""expected"": 20}"
+カテゴリ件数,PASS,"{""ramen"": 8, ""soba"": 4, ""udon"": 5, ""yakisoba"": 3}"
+指定IDの完全一致,PASS,"{""missing"": [], ""unexpected"": []}"
+ID重複,PASS,"{""duplicates"": 0}"
+slug重複,PASS,"{""duplicates"": 0}"
+名称重複,PASS,"{""duplicates"": 0}"
+既存268件とのID衝突,PASS,[]
+定番スタイルは地理情報を持たない,PASS,全件整合
+公開・レビュー状態,PASS,全件published/reviewed
+情報源ID重複,PASS,"{""duplicates"": 0}"
+公開情報源,PASS,全件2件以上、権威的・専門的情報源を含む
+味覚値・麺指標,PASS,17味覚×3値と6麺指標が全件0〜5で整合
+料理間参照,PASS,全参照が既存268件または定番20件へ解決
+ご当地麺parent_style_ids解決,PASS,"{""resolved"": [""jp-style-soba-kake"", ""jp-style-soba-mori-zaru"", ""jp-style-udon-bukkake"", ""jp-style-udon-kake"", ""jp-style-udon-kamaage"", ""jp-style-udon-zaru"", ""jp-style-yakisoba-ankake"", ""jp-style-yakisoba-salt"", ""jp-style-yakisoba-sauce""], ""unexpected"": [], ""unresolved"": []}"
+定番からご当地への逆引き,PASS,全parent_style関係にregional_example逆引きを付与
+必須項目,PASS,全件充足
+調査ノート,PASS,全件reviewed
+公開文面の機密・仮文言,PASS,該当なし

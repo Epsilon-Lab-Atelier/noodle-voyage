@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 1,
+  "baseTaxonomyVersion": "2026.08.10",
+  "patchVersion": "2026.08.10-v2.3.0-density-v1",
+  "addFilters": [
+    {
+      "id": "backfat",
+      "labelJa": "背脂",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "スープや表面に背脂を使う料理です。",
+      "rawTagIds": [
+        "backfat"
+      ],
+      "legacyJapaneseTags": [
+        "背脂",
+        "油のコク"
+      ],
+      "searchAliasesJa": [
+        "背あぶら"
+      ],
+      "quick": false,
+      "sortOrder": 125
+    },
+    {
+      "id": "ginger",
+      "labelJa": "生姜が効く",
+      "groupId": "taste_aroma",
+      "descriptionJa": "生姜の香りや辛味が特徴です。",
+      "rawTagIds": [
+        "ginger"
+      ],
+      "legacyJapaneseTags": [
+        "生姜"
+      ],
+      "searchAliasesJa": [
+        "しょうが",
+        "ジンジャー"
+      ],
+      "quick": false,
+      "sortOrder": 115
+    },
+    {
+      "id": "beef_bone",
+      "labelJa": "牛骨",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "牛骨や牛のうま味をスープの軸にします。",
+      "rawTagIds": [
+        "beef_bone"
+      ],
+      "legacyJapaneseTags": [
+        "牛骨"
+      ],
+      "searchAliasesJa": [
+        "牛だし"
+      ],
+      "quick": false,
+      "sortOrder": 135
+    },
+    {
+      "id": "tofu",
+      "labelJa": "豆腐を使う",
+      "groupId": "ingredient",
+      "descriptionJa": "豆腐が代表的な具材です。",
+      "rawTagIds": [
+        "tofu"
+      ],
+      "legacyJapaneseTags": [
+        "豆腐"
+      ],
+      "searchAliasesJa": [
+        "とうふ"
+      ],
+      "quick": false,
+      "sortOrder": 115
+    },
+    {
+      "id": "tea",
+      "labelJa": "茶を使う",
+      "groupId": "ingredient",
+      "descriptionJa": "茶を麺やスープ、調味に使います。",
+      "rawTagIds": [
+        "tea"
+      ],
+      "legacyJapaneseTags": [
+        "茶"
+      ],
+      "searchAliasesJa": [
+        "お茶",
+        "茶麺"
+      ],
+      "quick": false,
+      "sortOrder": 120
+    },
+    {
+      "id": "sake_lees",
+      "labelJa": "酒粕を使う",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "酒粕の発酵香やコクを生かします。",
+      "rawTagIds": [
+        "sake_lees"
+      ],
+      "legacyJapaneseTags": [
+        "酒粕"
+      ],
+      "searchAliasesJa": [
+        "さけかす"
+      ],
+      "quick": false,
+      "sortOrder": 145
+    },
+    {
+      "id": "wonton",
+      "labelJa": "雲呑を使う",
+      "groupId": "ingredient",
+      "descriptionJa": "雲呑・ワンタンが代表的な具材です。",
+      "rawTagIds": [
+        "wonton"
+      ],
+      "legacyJapaneseTags": [
+        "雲呑"
+      ],
+      "searchAliasesJa": [
+        "ワンタン"
+      ],
+      "quick": false,
+      "sortOrder": 125
+    },
+    {
+      "id": "kaedama",
+      "labelJa": "替え玉文化",
+      "groupId": "culture",
+      "descriptionJa": "麺を追加注文する替え玉文化と結び付きます。",
+      "rawTagIds": [
+        "kaedama"
+      ],
+      "legacyJapaneseTags": [
+        "替え玉文化"
+      ],
+      "searchAliasesJa": [
+        "替玉"
+      ],
+      "quick": false,
+      "sortOrder": 100
+    },
+    {
+      "id": "breakfast_culture",
+      "labelJa": "朝に食べる文化",
+      "groupId": "culture",
+      "descriptionJa": "朝食や朝ラーメンとして親しまれます。",
+      "rawTagIds": [
+        "breakfast_culture"
+      ],
+      "legacyJapaneseTags": [
+        "朝食"
+      ],
+      "searchAliasesJa": [
+        "朝ラー",
+        "朝ラーメン"
+      ],
+      "quick": false,
+      "sortOrder": 110
+    },
+    {
+      "id": "high_hydration_curly",
+      "labelJa": "多加水の縮れ麺",
+      "groupId": "noodle",
+      "descriptionJa": "水分量が多く、もちもちした縮れ麺です。",
+      "rawTagIds": [
+        "high_hydration_curly"
+      ],
+      "legacyJapaneseTags": [
+        "多加水の縮れ麺"
+      ],
+      "searchAliasesJa": [
+        "多加水麺",
+        "縮れ麺"
+      ],
+      "quick": false,
+      "sortOrder": 155
+    },
+    {
+      "id": "glass_noodle",
+      "labelJa": "春雨・でん粉麺",
+      "groupId": "noodle",
+      "descriptionJa": "春雨やでん粉を主原料とする麺です。",
+      "rawTagIds": [
+        "glass_noodle"
+      ],
+      "legacyJapaneseTags": [
+        "春雨"
+      ],
+      "searchAliasesJa": [
+        "春雨麺",
+        "でん粉麺"
+      ],
+      "quick": false,
+      "sortOrder": 165
+    },
+    {
+      "id": "okinawa_soba_noodle",
+      "labelJa": "沖縄そば麺",
+      "groupId": "noodle",
+      "descriptionJa": "かんすい等を使う沖縄そば独自の小麦麺です。",
+      "rawTagIds": [
+        "okinawa_soba_noodle"
+      ],
+      "legacyJapaneseTags": [
+        "沖縄そば麺"
+      ],
+      "searchAliasesJa": [
+        "沖縄麺"
+      ],
+      "quick": false,
+      "sortOrder": 175
+    },
+    {
+      "id": "instant_noodle",
+      "labelJa": "即席麺",
+      "groupId": "noodle",
+      "descriptionJa": "インスタント麺・即席麺の文化と結び付きます。",
+      "rawTagIds": [
+        "instant_noodle"
+      ],
+      "legacyJapaneseTags": [
+        "即席麺"
+      ],
+      "searchAliasesJa": [
+        "インスタント麺"
+      ],
+      "quick": false,
+      "sortOrder": 185
+    },
+    {
+      "id": "street_food",
+      "labelJa": "屋台文化",
+      "groupId": "culture",
+      "descriptionJa": "屋台や路上の食文化と結び付きます。",
+      "rawTagIds": [
+        "street_food"
+      ],
+      "legacyJapaneseTags": [
+        "屋台"
+      ],
+      "searchAliasesJa": [
+        "屋台料理"
+      ],
+      "quick": false,
+      "sortOrder": 120
+    },
+    {
+      "id": "beans",
+      "labelJa": "豆を使う",
+      "groupId": "ingredient",
+      "descriptionJa": "豆類が代表的な素材です。",
+      "rawTagIds": [
+        "beans"
+      ],
+      "legacyJapaneseTags": [
+        "豆"
+      ],
+      "searchAliasesJa": [
+        "豆類"
+      ],
+      "quick": false,
+      "sortOrder": 130
+    },
+    {
+      "id": "multicultural",
+      "labelJa": "多文化の影響",
+      "groupId": "culture",
+      "descriptionJa": "複数の民族・地域文化の影響を受けた料理です。",
+      "rawTagIds": [
+        "multicultural"
+      ],
+      "legacyJapaneseTags": [
+        "多文化"
+      ],
+      "searchAliasesJa": [
+        "多国籍",
+        "文化交流"
+      ],
+      "quick": false,
+      "sortOrder": 130
+    },
+    {
+      "id": "chinese_influenced",
+      "labelJa": "中華料理の影響",
+      "groupId": "culture",
+      "descriptionJa": "中国・中華料理の技法や文化との関係が明確です。",
+      "rawTagIds": [
+        "chinese_influenced"
+      ],
+      "legacyJapaneseTags": [
+        "中華系"
+      ],
+      "searchAliasesJa": [
+        "中国料理",
+        "中華風"
+      ],
+      "quick": false,
+      "sortOrder": 140
+    },
+    {
+      "id": "dark_broth",
+      "labelJa": "濃い色のスープ",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "濃口醤油などによりスープやたれの色が濃い料理です。",
+      "rawTagIds": [
+        "dark_broth"
+      ],
+      "legacyJapaneseTags": [
+        "濃い色"
+      ],
+      "searchAliasesJa": [
+        "黒いスープ",
+        "濃色"
+      ],
+      "quick": false,
+      "sortOrder": 155
+    },
+    {
+      "id": "separate_toppings",
+      "labelJa": "具材が別添え",
+      "groupId": "serving",
+      "descriptionJa": "具材や薬味を別皿・別容器で添えます。",
+      "rawTagIds": [
+        "separate_toppings"
+      ],
+      "legacyJapaneseTags": [
+        "別添え具材"
+      ],
+      "searchAliasesJa": [
+        "別皿"
+      ],
+      "quick": false,
+      "sortOrder": 115
+    },
+    {
+      "id": "double_broth",
+      "labelJa": "動物系と魚介の合わせだし",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "動物系スープと魚介だしを組み合わせます。",
+      "rawTagIds": [
+        "double_broth"
+      ],
+      "legacyJapaneseTags": [
+        "動物系と魚介の合わせ出汁"
+      ],
+      "searchAliasesJa": [
+        "Wスープ",
+        "ダブルスープ"
+      ],
+      "quick": false,
+      "sortOrder": 165
+    },
+    {
+      "id": "fish_powder",
+      "labelJa": "魚粉を使う",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "魚粉をつけ汁・スープ・具材として使います。",
+      "rawTagIds": [
+        "fish_powder"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "魚粉"
+      ],
+      "quick": false,
+      "sortOrder": 175
+    },
+    {
+      "id": "kombu_water",
+      "labelJa": "昆布水",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "昆布のうま味と粘りを含む水へ麺を浸します。",
+      "rawTagIds": [
+        "kombu_water"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "昆布水つけ麺"
+      ],
+      "quick": false,
+      "sortOrder": 185
+    }
+  ],
+  "policy": {
+    "rawEnglishTagMayBeRendered": false,
+    "unknownAsciiTagPolicy": "release_error",
+    "numericDerivedFacetDisplayEligible": false,
+    "numericDerivedFacetSearchEligible": true,
+    "manualReviewPrecedence": true
+  },
+  "addRawTags": [
+    {
+      "id": "regional_color_name",
+      "labelJa": "地域独自の色名",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "legacyJapaneseTags": [
+        "地域独自の色名"
+      ],
+      "descriptionJa": "地域や料理名に由来する独自の色表現です。検索条件には使用しません。"
+    }
+  ]
+}

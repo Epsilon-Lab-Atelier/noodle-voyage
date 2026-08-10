@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026.08.10-v2.3.0-researched-data-v1",
+  "checks": [
+    {
+      "check": "facet index records",
+      "status": "PASS",
+      "detail": "{\"actual\": 215, \"expected\": 215}"
+    },
+    {
+      "check": "facet index ID equality",
+      "status": "PASS",
+      "detail": "{\"extra\": [], \"missing\": []}"
+    },
+    {
+      "check": "all 215 have facet",
+      "status": "PASS",
+      "detail": "{\"zero\": []}"
+    },
+    {
+      "check": "facet IDs resolved",
+      "status": "PASS",
+      "detail": "{\"unresolved\": []}"
+    },
+    {
+      "check": "legacy tag coverage",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "manual reviews",
+      "status": "PASS",
+      "detail": "{\"actual\": 19, \"expected\": 19}"
+    },
+    {
+      "check": "manual review sources resolved",
+      "status": "PASS",
+      "detail": "all source ids resolved"
+    },
+    {
+      "check": "review queue",
+      "status": "PASS",
+      "detail": "{\"actual\": 196, \"expected\": 196}"
+    },
+    {
+      "check": "rich x thick regression",
+      "status": "PASS",
+      "detail": "[[\"jp-072\", \"つけ麺\"], [\"jp-075\", \"家系ラーメン\"], [\"jp-087\", \"燕背脂ラーメン\"], [\"jp-147\", \"広島つけ麺\"]]"
+    },
+    {
+      "check": "numeric-derived hidden",
+      "status": "PASS",
+      "detail": "all numeric-derived displayEligible=false"
+    },
+    {
+      "check": "default-only noodle excluded",
+      "status": "PASS",
+      "detail": "no numeric noodle facets from default-only values"
+    },
+    {
+      "check": "contemporary count",
+      "status": "PASS",
+      "detail": "{\"actual\": 2, \"expected\": 2}"
+    },
+    {
+      "check": "contemporary ID collisions",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "contemporary source refs",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "contemporary relation targets",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "source URLs HTTPS",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "check": "expected public total",
+      "status": "PASS",
+      "detail": "291"
+    },
+    {
+      "check": "reviewed manual noodle count",
+      "status": "PASS",
+      "detail": "{\"derived\": 39, \"known\": 19, \"knownOrDerivedRatio\": 0.2698, \"unknown\": 157}"
+    },
+    {
+      "check": "serving coverage",
+      "status": "PASS",
+      "detail": "{\"derived\": 0, \"known\": 214, \"knownOrDerivedRatio\": 0.9953, \"unknown\": 1}"
+    }
+  ],
+  "summary": {
+    "total": 19,
+    "passed": 19,
+    "failed": 0
+  },
+  "densityAfter": {
+    "schemaVersion": 1,
+    "sourceVersion": "v2.1.2",
+    "researchDataVersion": "2026.08.10-v2.3.0-researched-facets-v1",
+    "auditedDishes": 215,
+    "manualReviewedAnchors": 19,
+    "facetEvidenceRows": 984,
+    "dishesWithAtLeastOneFacet": 215,
+    "averageFacetCount": 4.577,
+    "medianFacetCount": 4,
+    "completeness": {
+      "taste": {
+        "known": 90,
+        "derived": 125,
+        "unknown": 0,
+        "knownOrDerivedRatio": 1.0
+      },
+      "brothSeasoning": {
+        "known": 110,
+        "derived": 14,
+        "unknown": 91,
+        "knownOrDerivedRatio": 0.5767
+      },
+      "noodle": {
+        "known": 19,
+        "derived": 39,
+        "unknown": 157,
+        "knownOrDerivedRatio": 0.2698
+      },
+      "servingForm": {
+        "known": 214,
+        "derived": 0,
+        "unknown": 1,
+        "knownOrDerivedRatio": 0.9953
+      },
+      "ingredients": {
+        "known": 70,
+        "derived": 0,
+        "unknown": 145,
+        "knownOrDerivedRatio": 0.3256
+      }
+    },
+    "regressions": {
+      "richAndThick": {
+        "matchCount": 4,
+        "matches": [
+          {
+            "id": "jp-072",
+            "name": "つけ麺"
+          },
+          {
+            "id": "jp-075",
+            "name": "家系ラーメン"
+          },
+          {
+            "id": "jp-087",
+            "name": "燕背脂ラーメン"
+          },
+          {
+            "id": "jp-147",
+            "name": "広島つけ麺"
+          }
+        ],
+        "note": "All matches retain provenance. Numeric-derived facets are search-only unless separately reviewed."
+      }
+    },
+    "interpretation": [
+      "All 215 records now have at least one canonical facet, but this does not mean every facet dimension is manually researched.",
+      "Taste profiles are known or derived for all records; 125 rely primarily on the existing rule-derived numeric profile.",
+      "Noodle evidence remains unknown for 157 records. This is reported, not filled with placeholder claims.",
+      "The 90 percent noodle-density goal is not used as a release blocker until source-backed review is completed."
+    ]
+  }
+}

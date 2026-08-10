@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "release": "2.2.1",
+  "baseline": "2.2.0",
+  "counts": {
+    "v2_1_2_existing_catalog": 215,
+    "researched_regional_additions": 54,
+    "regional_udon": 19,
+    "regional_soba": 15,
+    "regional_yakisoba": 12,
+    "other_regional_noodles": 8,
+    "researched_standard_styles": 20,
+    "expected_public_catalog_if_world_30_remain_published": 289,
+    "expected_regional_example_relations": 86
+  },
+  "relationRules": {
+    "standardToRegionalExampleCardinality": "0..n",
+    "stylesAllowedWithoutRegionalExample": [
+      "jp-style-soba-tempura",
+      "jp-style-soba-kamo-nanban"
+    ],
+    "allPublishedRelationTargetsMustResolve": true,
+    "hardcodeRelationCountInTests": false,
+    "relationCountSource": "manifest"
+  },
+  "tagTaxonomy": {
+    "version": "2026.08.10",
+    "file": "feature-tag-taxonomy.ja.json",
+    "rawEnglishTagMayBeRendered": false,
+    "publishedUnknownAsciiTagCount": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "release": "2.3.0",
+  "dataVersion": "2026.08.10-v2.3.0-researched-data-v1",
+  "mode": "additive_and_enrichment",
+  "basePublicConcepts": 289,
+  "contemporaryStylesAdded": 2,
+  "expectedPublicConcepts": 291,
+  "base215Enrichment": {
+    "records": 215,
+    "manualReviewedAnchors": 19,
+    "facetEvidenceRows": 984,
+    "reviewQueueRecords": 196,
+    "allRecordsHaveAtLeastOneFacet": true,
+    "densityReport": "data/facets/density-before-after.json",
+    "legacyTagCoverage": {
+      "unique": 129,
+      "filterMapped": 128,
+      "detailOnlyMapped": 1,
+      "unknown": 0
+    }
+  },
+  "publicConceptAdditions": {
+    "count": 2,
+    "ids": [
+      "jp-style-ramen-tsukemen-kombu-water",
+      "jp-style-ramen-tsukemen-rich-pork-seafood"
+    ],
+    "culturalScope": "contemporary",
+    "mapAndPassportPolicy": "exclude"
+  },
+  "files": {
+    "facetIndex": "data/facets/facet-index.seed.json",
+    "facetEvidence": "data/facets/facet-evidence.csv",
+    "facetSummary": "data/facets/base-215-enrichment-summary.csv",
+    "manualReviewOverrides": "data/facets/manual-review-overrides.json",
+    "manualReviewOverridesCsv": "data/facets/manual-review-overrides.csv",
+    "reviewQueue": "data/facets/review-queue.csv",
+    "taxonomyPatch": "data/facets/feature-tag-taxonomy.v2.3.0.patch.json",
+    "derivationRules": "data/facets/facet-derivation-rules.v2.3.0.json",
+    "sources": "data/sources/sources.csv",
+    "contemporaryDishes": "data/contemporary-styles/dishes.csv",
+    "contemporaryTaste": "data/contemporary-styles/taste-scores.csv",
+    "contemporaryRelations": "data/contemporary-styles/relations.csv",
+    "legacyTagCoverage": "data/facets/legacy-tag-coverage.json"
+  },
+  "releaseRules": [
+    "Do not overwrite existing dish IDs.",
+    "Do not treat numeric-derived facets as display tags.",
+    "Do not infer noodle facets from default placeholder values.",
+    "A zero-result combination is allowed when no evidence-backed match exists.",
+    "Unknown ASCII tags and unresolved filter IDs are release errors.",
+    "Private places, menus, and custom concepts are excluded from public catalog counts."
+  ],
+  "regressions": {
+    "rich_x_thick": {
+      "base215MatchCount": 4,
+      "base215Matches": [
+        "jp-072",
+        "jp-075",
+        "jp-087",
+        "jp-147"
+      ],
+      "mustInclude": [
+        "jp-075",
+        "jp-style-ramen-tsukemen-rich-pork-seafood"
+      ],
+      "minimumPublicMatchesAfterIntegration": 2
+    }
+  }
+}

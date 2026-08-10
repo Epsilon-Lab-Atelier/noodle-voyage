@@ -1,0 +1,43 @@
+﻿id,area,acceptance_criterion,priority
+DATA-01,215件監査,base-215-density-audit.csvを再生成でき、対象が215件である,required
+DATA-02,facet provenance,全facetにsourceとconfidenceとevidenceがある,required
+DATA-03,既定値保護,default_placeholderだけからfacetを生成しない,required
+DATA-04,濃厚x太麺,検索結果が2件以上でjp-075と新規濃厚魚介豚骨つけ麺を含む,required
+DATA-05,未知タグ,公開料理の未知ASCIIタグが0件,required
+DATA-06,現代スタイル,2件がcontemporaryとして公開される,required
+DATA-07,地理除外,contemporaryは地図・地域パスポートへ出ない,required
+DATA-08,公開件数,世界30件がpublishedならmanifestの公開件数が291,required
+PLACE-01,店舗保存,店名だけでprivate PlaceRecordを保存できる,required
+PLACE-02,メニュー保存,一店舗へ複数MenuRecordを保存できる,required
+PLACE-03,任意リンク,Google Maps、食べログ、公式URLを任意保存できる,required
+PLACE-04,危険URL,javascript:とdata:を拒否する,required
+PLACE-05,重複警告,Place ID、Maps URL、店名+住所で重複候補を警告する,required
+PLACE-06,private既定,利用者追加のvisibilityがprivateである,required
+PLACE-07,公開分離,private店舗・メニューが公開JSONへ出ない,required
+SAVE-01,食べたい,concept/place/menu/customConceptを保存できる,required
+SAVE-02,ごちそうさま,MealEntryへplaceId/menuIdを任意で結び付けられる,required
+SAVE-03,複数訪問,同じメニューを複数回記録できる,required
+SAVE-04,お気に入り,MealEntry.isFavoriteで抽出する,required
+MIG-01,v3移行,既存WishEntry/MealEntryのIDと意味を維持する,required
+MIG-02,旧バックアップ,v2/v3バックアップを読み込める,required
+MIG-03,v4往復,v4バックアップのexport/importが一致する,required
+EXT-01,Maps URL,APIキーなしでGoogle Maps検索を開ける,required
+EXT-02,外部評価非取得,食べログ・Googleの点数、口コミ、写真を取得しない,required
+EXT-03,位置権限,現在地ボタンを押した時だけ権限を求める,required
+UI-01,v2.2.2継承,Urban Food Travel Editorialを全画面へ適用する,required
+UI-02,ファーストビュー,利用者向けにヒーローという語を表示しない,required
+UI-03,モバイル,360pxで主要画面に横スクロールがない,required
+UI-04,下部ナビ,本文やCTAが固定ナビに隠れない,required
+UI-05,フォーム,店舗・メニュー追加をキーボードだけで完了できる,required
+UI-06,空状態,自分のお店が0件でも次の操作が分かる,required
+A11Y-01,フォーカス,明確なフォーカスリングがある,required
+A11Y-02,コントラスト,WCAG 2.2 AA目標の色コントラストを満たす,required
+A11Y-03,動き削減,prefers-reduced-motionとアプリ設定を尊重する,required
+SEC-01,XSS,利用者入力をHTMLとして描画しない,required
+SEC-02,外部リンク,noopener noreferrerを使用する,required
+SEC-03,プライバシー,公開物に個人情報、トークン、ローカルパスがない,required
+BUILD-01,データ検査,npm run check:dataが成功する,required
+BUILD-02,テスト,全テストが成功する,required
+BUILD-03,TypeScript,型検査が成功する,required
+BUILD-04,本番ビルド,Vite本番ビルドが成功する,required
+BUILD-05,release check,npm run release:checkが成功する,required

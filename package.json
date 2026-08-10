@@ -1,0 +1,54 @@
+{
+  "name": "noodle-voyage",
+  "private": true,
+  "version": "2.3.0",
+  "type": "module",
+  "description": "日本と世界の麺料理を、地域・麺の種類・味の特徴・自分の好みから探すNoodle Voyage PWA",
+  "author": "EpsilonLab",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npm run data:build && vite",
+    "data:build": "node scripts/build-data.mjs && node scripts/build-tokens.mjs",
+    "data:validate": "node scripts/validate-data.mjs",
+    "data:export-xlsx": "node scripts/export-xlsx.mjs",
+    "check:data": "npm run data:build && npm run data:validate",
+    "check:static": "node scripts/static-check.mjs",
+    "check:privacy": "node scripts/privacy-scan.mjs",
+    "check:pwa": "node scripts/check-pwa.mjs",
+    "test": "vitest run",
+    "build": "npm run check:data && tsc -b && vite build",
+    "preview": "vite preview",
+    "release:check": "npm run check:privacy && npm run check:static && npm test && npm run build && npm run check:pwa && npm run check:privacy -- --include-dist",
+    "release:zip": "node scripts/package-release.mjs"
+  },
+  "dependencies": {
+    "idb-keyval": "6.2.2",
+    "plotly.js-dist-min": "3.1.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "react-plotly.js": "2.6.0",
+    "react-router-dom": "7.8.0",
+    "zod": "4.0.17",
+    "zustand": "5.0.7"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.3",
+    "@types/node": "24.2.0",
+    "@types/plotly.js": "3.0.3",
+    "@types/react": "19.1.9",
+    "@types/react-dom": "19.1.7",
+    "@vitejs/plugin-react": "4.7.0",
+    "jsdom": "^26.1.0",
+    "typescript": "5.9.2",
+    "vite": "7.1.1",
+    "vite-plugin-pwa": "1.0.2",
+    "vitest": "3.2.4",
+    "xlsx": "0.18.5"
+  },
+  "engines": {
+    "node": ">=22.12.0",
+    "npm": ">=10"
+  },
+  "packageManager": "npm@10.9.2"
+}

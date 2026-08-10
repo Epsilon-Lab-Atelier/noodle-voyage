@@ -1,0 +1,9 @@
+﻿source_id,target_id,relation_type,note
+jp-style-ramen-tsukemen-rich-pork-seafood,jp-style-ramen-tsukemen,related_style,味・提供形式・調理構造が近い既存スタイル
+jp-style-ramen-tsukemen-rich-pork-seafood,jp-style-ramen-tonkotsu,related_style,味・提供形式・調理構造が近い既存スタイル
+jp-style-ramen-tsukemen-rich-pork-seafood,jp-style-ramen-niboshi,related_style,味・提供形式・調理構造が近い既存スタイル
+jp-style-ramen-tsukemen-rich-pork-seafood,jp-style-ramen-tsukemen,parent_style,つけ麺の現代的な派生スタイル
+jp-style-ramen-tsukemen-kombu-water,jp-style-ramen-tsukemen,related_style,味・提供形式・調理構造が近い既存スタイル
+jp-style-ramen-tsukemen-kombu-water,jp-style-ramen-shio,related_style,味・提供形式・調理構造が近い既存スタイル
+jp-style-ramen-tsukemen-kombu-water,jp-style-ramen-shoyu,related_style,味・提供形式・調理構造が近い既存スタイル
+jp-style-ramen-tsukemen-kombu-water,jp-style-ramen-tsukemen,parent_style,つけ麺の現代的な派生スタイル

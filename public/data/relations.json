@@ -1,0 +1,5839 @@
+{
+  "jp-001": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-035",
+      "jp-047",
+      "jp-052",
+      "jp-094",
+      "jp-102",
+      "jp-111"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-002": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-034",
+      "jp-070",
+      "jp-149",
+      "jp-154",
+      "jp-038",
+      "jp-009"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-003": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-082",
+      "jp-107",
+      "jp-069",
+      "jp-132",
+      "jp-184",
+      "jp-125"
+    ],
+    "bridgeIds": [
+      "world-022",
+      "world-025",
+      "world-003"
+    ]
+  },
+  "jp-004": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-112",
+      "jp-040",
+      "jp-084",
+      "jp-029",
+      "jp-069",
+      "jp-073"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-002",
+      "world-003"
+    ]
+  },
+  "jp-005": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-088",
+      "jp-115",
+      "jp-015",
+      "jp-148",
+      "jp-064",
+      "jp-081"
+    ],
+    "bridgeIds": [
+      "world-002",
+      "world-015",
+      "world-005"
+    ]
+  },
+  "jp-006": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018",
+      "jp-019"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-007": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-031",
+      "jp-030",
+      "jp-143",
+      "jp-008",
+      "jp-063",
+      "jp-100"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-008": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-063",
+      "jp-100",
+      "jp-122",
+      "jp-098",
+      "jp-099",
+      "jp-006"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-009": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-017",
+      "jp-140",
+      "jp-151",
+      "jp-080",
+      "jp-182",
+      "jp-171"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-010": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-036",
+      "jp-092",
+      "jp-138",
+      "jp-153",
+      "jp-030",
+      "jp-143"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-011": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018",
+      "jp-019"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-012": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-013",
+      "jp-014",
+      "jp-018",
+      "jp-019"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-013": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-014",
+      "jp-018",
+      "jp-019"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-014": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-018",
+      "jp-019"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-015": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-032",
+      "jp-115",
+      "jp-005",
+      "jp-088",
+      "jp-085",
+      "jp-035"
+    ],
+    "bridgeIds": [
+      "world-017",
+      "world-002",
+      "world-015"
+    ]
+  },
+  "jp-016": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-154",
+      "jp-070",
+      "jp-183",
+      "jp-151",
+      "jp-087",
+      "jp-009"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-017": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-009",
+      "jp-140",
+      "jp-151",
+      "jp-080",
+      "jp-182",
+      "jp-171"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-018": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-019"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-019": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-020": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-021": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-022": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-023": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-024": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-025": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-026": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-033",
+      "jp-093",
+      "jp-150",
+      "jp-178",
+      "jp-176",
+      "jp-043"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-025",
+      "world-030"
+    ]
+  },
+  "jp-027": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-028": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-029": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-004",
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-003",
+      "world-028"
+    ]
+  },
+  "jp-030": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-143",
+      "jp-007",
+      "jp-031",
+      "jp-008",
+      "jp-063",
+      "jp-100"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-031": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-007",
+      "jp-030",
+      "jp-143",
+      "jp-008",
+      "jp-063",
+      "jp-100"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-032": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-015",
+      "jp-081",
+      "jp-095",
+      "jp-180",
+      "jp-059",
+      "jp-077"
+    ],
+    "bridgeIds": [
+      "world-005",
+      "world-007",
+      "world-008"
+    ]
+  },
+  "jp-033": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-093",
+      "jp-150",
+      "jp-178",
+      "jp-082",
+      "jp-107",
+      "jp-132"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-030",
+      "world-004"
+    ]
+  },
+  "jp-034": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-002",
+      "jp-070",
+      "jp-154",
+      "jp-038",
+      "jp-009",
+      "jp-017"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-035": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-047",
+      "jp-052",
+      "jp-094",
+      "jp-102",
+      "jp-111",
+      "jp-114"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-036": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-010",
+      "jp-092",
+      "jp-138",
+      "jp-153",
+      "jp-030",
+      "jp-143"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-037": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-126",
+      "jp-130",
+      "jp-137",
+      "jp-161",
+      "jp-166",
+      "jp-125"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-038": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-080",
+      "jp-182",
+      "jp-009",
+      "jp-017",
+      "jp-140",
+      "jp-034"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-039": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-040": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-004",
+      "jp-112",
+      "jp-084",
+      "jp-069",
+      "jp-043",
+      "jp-029"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-002",
+      "world-003"
+    ]
+  },
+  "jp-041": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-042": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-043",
+      "jp-105",
+      "jp-040",
+      "jp-069",
+      "jp-053",
+      "jp-073"
+    ],
+    "bridgeIds": [
+      "world-002",
+      "world-025",
+      "world-004"
+    ]
+  },
+  "jp-043": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-042",
+      "jp-053",
+      "jp-040",
+      "jp-069",
+      "jp-073",
+      "jp-086"
+    ],
+    "bridgeIds": [
+      "world-002",
+      "world-025",
+      "world-004"
+    ]
+  },
+  "jp-044": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-045": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-128",
+      "jp-168",
+      "jp-179",
+      "jp-181",
+      "jp-165",
+      "jp-163"
+    ],
+    "bridgeIds": [
+      "world-015",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-046": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-058",
+      "jp-097",
+      "jp-127",
+      "jp-073",
+      "jp-086",
+      "jp-122"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-047": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-035",
+      "jp-052",
+      "jp-094",
+      "jp-102",
+      "jp-111",
+      "jp-114"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-048": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-045",
+      "jp-128",
+      "jp-168",
+      "jp-179",
+      "jp-181",
+      "jp-136"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-049": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-050": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-051": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-052": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-035",
+      "jp-047",
+      "jp-094",
+      "jp-102",
+      "jp-111",
+      "jp-114"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-053": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-043",
+      "jp-057",
+      "jp-105",
+      "jp-006",
+      "jp-011",
+      "jp-012"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-054": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-055": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-160",
+      "jp-164",
+      "jp-071",
+      "jp-061",
+      "jp-110",
+      "jp-064"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-056": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-057": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-053",
+      "jp-105",
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-058": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-046",
+      "jp-097",
+      "jp-127",
+      "jp-073",
+      "jp-086",
+      "jp-122"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-059": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-077",
+      "jp-081",
+      "jp-095",
+      "jp-180",
+      "world-007",
+      "jp-148"
+    ],
+    "bridgeIds": [
+      "world-007",
+      "world-005",
+      "world-008"
+    ]
+  },
+  "jp-060": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-118",
+      "jp-119",
+      "jp-081",
+      "jp-095",
+      "jp-180",
+      "jp-059"
+    ],
+    "bridgeIds": [
+      "world-005",
+      "world-007",
+      "world-008"
+    ]
+  },
+  "jp-061": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-110",
+      "jp-071",
+      "jp-073",
+      "jp-086",
+      "jp-122",
+      "jp-055"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-030",
+      "world-004"
+    ]
+  },
+  "jp-062": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-063": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-008",
+      "jp-100",
+      "jp-122",
+      "jp-098",
+      "jp-099",
+      "jp-006"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-064": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-005",
+      "jp-088",
+      "jp-115",
+      "jp-015",
+      "jp-148",
+      "jp-055"
+    ],
+    "bridgeIds": [
+      "world-017",
+      "world-002",
+      "world-015"
+    ]
+  },
+  "jp-065": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-066": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-067": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-096",
+      "jp-035",
+      "jp-047",
+      "jp-052",
+      "jp-094",
+      "jp-102"
+    ],
+    "bridgeIds": [
+      "world-027",
+      "world-023",
+      "world-006"
+    ]
+  },
+  "jp-068": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-078",
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-069": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-082",
+      "jp-107",
+      "jp-003",
+      "jp-084",
+      "jp-125",
+      "jp-073"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-022",
+      "world-003"
+    ]
+  },
+  "jp-070": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-154",
+      "jp-034",
+      "jp-002",
+      "jp-016",
+      "jp-151",
+      "jp-087"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-071": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-061",
+      "jp-055",
+      "jp-160",
+      "jp-164",
+      "jp-110",
+      "jp-030"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-072": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-147",
+      "jp-127",
+      "jp-110",
+      "jp-133",
+      "jp-134",
+      "jp-139"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-073": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-086",
+      "jp-084",
+      "jp-069",
+      "jp-006",
+      "jp-011",
+      "jp-012"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-002",
+      "world-004"
+    ]
+  },
+  "jp-074": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-124",
+      "jp-149",
+      "jp-030",
+      "jp-143",
+      "jp-007",
+      "jp-031"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-075": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-124",
+      "jp-045",
+      "jp-128",
+      "jp-168",
+      "jp-179",
+      "jp-136"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-076": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-077": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-059",
+      "jp-081",
+      "jp-095",
+      "jp-180",
+      "world-007",
+      "jp-148"
+    ],
+    "bridgeIds": [
+      "world-007",
+      "world-005",
+      "world-008"
+    ]
+  },
+  "jp-078": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-105",
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-026"
+    ]
+  },
+  "jp-079": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-080": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-182",
+      "jp-009",
+      "jp-017",
+      "jp-140",
+      "jp-038",
+      "jp-171"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-081": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-095",
+      "jp-180",
+      "jp-059",
+      "jp-077",
+      "world-007",
+      "jp-148"
+    ],
+    "bridgeIds": [
+      "world-007",
+      "world-005",
+      "world-008"
+    ]
+  },
+  "jp-082": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-107",
+      "jp-069",
+      "jp-003",
+      "jp-125",
+      "jp-132",
+      "jp-184"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-022",
+      "world-003"
+    ]
+  },
+  "jp-083": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-121",
+      "jp-174",
+      "jp-173",
+      "jp-098",
+      "jp-099",
+      "jp-006"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-084": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-112",
+      "jp-004",
+      "jp-069",
+      "jp-073",
+      "jp-086",
+      "jp-040"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-002",
+      "world-004"
+    ]
+  },
+  "jp-085": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-035",
+      "jp-047",
+      "jp-052",
+      "jp-094",
+      "jp-102",
+      "jp-111"
+    ],
+    "bridgeIds": [
+      "world-027",
+      "world-015",
+      "world-021"
+    ]
+  },
+  "jp-086": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-073",
+      "jp-084",
+      "jp-069",
+      "jp-006",
+      "jp-011",
+      "jp-012"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-002",
+      "world-004"
+    ]
+  },
+  "jp-087": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-149",
+      "jp-070",
+      "jp-016",
+      "jp-074",
+      "jp-154",
+      "jp-183"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-088": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-005",
+      "jp-115",
+      "jp-015",
+      "jp-148",
+      "jp-064",
+      "jp-081"
+    ],
+    "bridgeIds": [
+      "world-002",
+      "world-015",
+      "world-005"
+    ]
+  },
+  "jp-089": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-090": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-091": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-092": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-010",
+      "jp-036",
+      "jp-138",
+      "jp-153",
+      "jp-030",
+      "jp-143"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-093": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-033",
+      "jp-150",
+      "jp-178",
+      "jp-082",
+      "jp-107",
+      "jp-132"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-030",
+      "world-004"
+    ]
+  },
+  "jp-094": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-035",
+      "jp-047",
+      "jp-052",
+      "jp-102",
+      "jp-111",
+      "jp-114"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-095": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-081",
+      "jp-180",
+      "jp-059",
+      "jp-077",
+      "world-007",
+      "jp-148"
+    ],
+    "bridgeIds": [
+      "world-007",
+      "world-005",
+      "world-008"
+    ]
+  },
+  "jp-096": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-067",
+      "jp-035",
+      "jp-047",
+      "jp-052",
+      "jp-094",
+      "jp-102"
+    ],
+    "bridgeIds": [
+      "world-027",
+      "world-025",
+      "world-004"
+    ]
+  },
+  "jp-097": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-046",
+      "jp-058",
+      "jp-127",
+      "jp-073",
+      "jp-086",
+      "jp-122"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-098": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-099",
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-099": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-098",
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-100": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-008",
+      "jp-063",
+      "jp-122",
+      "jp-098",
+      "jp-099",
+      "jp-006"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-101": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-102": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-035",
+      "jp-047",
+      "jp-052",
+      "jp-094",
+      "jp-111",
+      "jp-114"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-103": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-104": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-105": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-078",
+      "jp-134",
+      "jp-139",
+      "jp-158",
+      "jp-167",
+      "jp-169"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-026"
+    ]
+  },
+  "jp-106": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-107": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-082",
+      "jp-069",
+      "jp-003",
+      "jp-125",
+      "jp-132",
+      "jp-184"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-022",
+      "world-003"
+    ]
+  },
+  "jp-108": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-109": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-110": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-061",
+      "jp-071",
+      "jp-055",
+      "jp-160",
+      "jp-164",
+      "jp-006"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-111": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-035",
+      "jp-047",
+      "jp-052",
+      "jp-094",
+      "jp-102",
+      "jp-114"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-112": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-004",
+      "jp-084",
+      "jp-040",
+      "jp-069",
+      "jp-073",
+      "jp-086"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-002",
+      "world-004"
+    ]
+  },
+  "jp-113": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-114": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-035",
+      "jp-047",
+      "jp-052",
+      "jp-094",
+      "jp-102",
+      "jp-111"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-115": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-005",
+      "jp-088",
+      "jp-015",
+      "jp-148",
+      "jp-064",
+      "world-017"
+    ],
+    "bridgeIds": [
+      "world-017",
+      "world-002",
+      "world-015"
+    ]
+  },
+  "jp-116": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-117": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-030",
+      "jp-033",
+      "jp-093",
+      "jp-150",
+      "jp-178",
+      "jp-122"
+    ],
+    "bridgeIds": [
+      "world-030",
+      "world-025",
+      "world-004"
+    ]
+  },
+  "jp-118": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-060",
+      "jp-119",
+      "jp-081",
+      "jp-095",
+      "jp-180",
+      "jp-059"
+    ],
+    "bridgeIds": [
+      "world-005",
+      "world-007",
+      "world-008"
+    ]
+  },
+  "jp-119": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-118",
+      "jp-060",
+      "jp-148",
+      "jp-081",
+      "jp-095",
+      "jp-180"
+    ],
+    "bridgeIds": [
+      "world-005",
+      "world-007",
+      "world-008"
+    ]
+  },
+  "jp-120": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-121": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-083",
+      "jp-174",
+      "jp-173",
+      "jp-098",
+      "jp-099",
+      "jp-006"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-122": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-098",
+      "jp-099",
+      "jp-008",
+      "jp-063",
+      "jp-100",
+      "jp-006"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-123": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-124": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-074",
+      "jp-155",
+      "jp-136",
+      "jp-146",
+      "jp-181",
+      "jp-045"
+    ],
+    "bridgeIds": [
+      "world-017",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-125": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-003",
+      "jp-037",
+      "jp-126",
+      "jp-130",
+      "jp-137",
+      "jp-161"
+    ],
+    "bridgeIds": [
+      "world-003",
+      "world-014",
+      "world-028"
+    ]
+  },
+  "jp-126": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-037",
+      "jp-130",
+      "jp-137",
+      "jp-161",
+      "jp-166",
+      "jp-125"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-127": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-046",
+      "jp-058",
+      "jp-097",
+      "jp-072",
+      "jp-147",
+      "jp-073"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-128": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-045",
+      "jp-168",
+      "jp-179",
+      "jp-181",
+      "jp-165",
+      "jp-163"
+    ],
+    "bridgeIds": [
+      "world-015",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-129": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-130": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-037",
+      "jp-126",
+      "jp-137",
+      "jp-161",
+      "jp-166",
+      "jp-125"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-131": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-132": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-184",
+      "jp-003",
+      "jp-082",
+      "jp-107",
+      "jp-084",
+      "jp-069"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-133": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158",
+      "jp-167",
+      "jp-169",
+      "jp-172"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-134": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-139",
+      "jp-158",
+      "jp-167",
+      "jp-169",
+      "jp-172",
+      "jp-175"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-024",
+      "world-003"
+    ]
+  },
+  "jp-135": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-136": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-146",
+      "jp-155",
+      "jp-010",
+      "jp-036",
+      "jp-092",
+      "jp-045"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-137": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-037",
+      "jp-126",
+      "jp-130",
+      "jp-161",
+      "jp-166",
+      "jp-125"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-138": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-153",
+      "world-004",
+      "world-022",
+      "world-029",
+      "jp-010",
+      "jp-036"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-139": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-134",
+      "jp-158",
+      "jp-167",
+      "jp-169",
+      "jp-172",
+      "jp-175"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-024",
+      "world-003"
+    ]
+  },
+  "jp-140": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-009",
+      "jp-017",
+      "jp-151",
+      "jp-080",
+      "jp-182",
+      "jp-171"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-141": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-142": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-143": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-030",
+      "jp-007",
+      "jp-031",
+      "jp-008",
+      "jp-063",
+      "jp-100"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-144": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-145": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-146": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-136",
+      "jp-155",
+      "jp-010",
+      "jp-036",
+      "jp-092",
+      "jp-124"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-147": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-072",
+      "jp-127",
+      "jp-110",
+      "jp-133",
+      "jp-134",
+      "jp-139"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-148": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-119",
+      "jp-081",
+      "jp-095",
+      "jp-180",
+      "jp-059",
+      "jp-077"
+    ],
+    "bridgeIds": [
+      "world-007",
+      "world-005",
+      "world-008"
+    ]
+  },
+  "jp-149": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-087",
+      "jp-002",
+      "jp-034",
+      "jp-074",
+      "jp-183",
+      "jp-070"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-150": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-033",
+      "jp-093",
+      "jp-178",
+      "jp-082",
+      "jp-107",
+      "jp-132"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-030",
+      "world-004"
+    ]
+  },
+  "jp-151": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-009",
+      "jp-017",
+      "jp-140",
+      "jp-154",
+      "jp-080",
+      "jp-182"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-152": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-153": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-138",
+      "world-004",
+      "world-022",
+      "world-029",
+      "jp-010",
+      "jp-036"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-154": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-070",
+      "jp-151",
+      "jp-171",
+      "jp-009",
+      "jp-017",
+      "jp-140"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-155": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-136",
+      "jp-146",
+      "jp-124",
+      "jp-181",
+      "jp-048",
+      "jp-045"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-156": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-157": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-158": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-134",
+      "jp-139",
+      "jp-167",
+      "jp-169",
+      "jp-172",
+      "jp-175"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-024",
+      "world-003"
+    ]
+  },
+  "jp-159": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-035",
+      "jp-047",
+      "jp-052",
+      "jp-094",
+      "jp-102",
+      "jp-111"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-160": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-055",
+      "jp-164",
+      "jp-071",
+      "jp-061",
+      "jp-110",
+      "jp-064"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-161": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-037",
+      "jp-126",
+      "jp-130",
+      "jp-137",
+      "jp-166",
+      "jp-125"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-162": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-163",
+      "jp-165",
+      "jp-045",
+      "jp-128",
+      "jp-168",
+      "jp-179"
+    ],
+    "bridgeIds": [
+      "world-003",
+      "world-028",
+      "world-015"
+    ]
+  },
+  "jp-163": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-162",
+      "jp-165",
+      "jp-045",
+      "jp-128",
+      "jp-168",
+      "jp-179"
+    ],
+    "bridgeIds": [
+      "world-003",
+      "world-028",
+      "world-015"
+    ]
+  },
+  "jp-164": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-055",
+      "jp-160",
+      "jp-071",
+      "jp-061",
+      "jp-110",
+      "jp-064"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-165": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-163",
+      "jp-162",
+      "jp-045",
+      "jp-128",
+      "jp-168",
+      "jp-179"
+    ],
+    "bridgeIds": [
+      "world-015",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-166": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-037",
+      "jp-126",
+      "jp-130",
+      "jp-137",
+      "jp-161",
+      "jp-125"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-167": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158",
+      "jp-169",
+      "jp-172",
+      "jp-175"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-024",
+      "world-003"
+    ]
+  },
+  "jp-168": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-045",
+      "jp-128",
+      "jp-179",
+      "jp-181",
+      "jp-165",
+      "jp-163"
+    ],
+    "bridgeIds": [
+      "world-015",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-169": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158",
+      "jp-167",
+      "jp-172",
+      "jp-175"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-024",
+      "world-003"
+    ]
+  },
+  "jp-170": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-171": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-009",
+      "jp-017",
+      "jp-140",
+      "jp-080",
+      "jp-182",
+      "jp-154"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-172": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158",
+      "jp-167",
+      "jp-169",
+      "jp-175"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-024",
+      "world-003"
+    ]
+  },
+  "jp-173": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-174",
+      "jp-045",
+      "jp-128",
+      "jp-168",
+      "jp-179",
+      "jp-165"
+    ],
+    "bridgeIds": [
+      "world-015",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-174": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-173",
+      "jp-045",
+      "jp-128",
+      "jp-168",
+      "jp-179",
+      "jp-181"
+    ],
+    "bridgeIds": [
+      "world-015",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-175": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158",
+      "jp-167",
+      "jp-169",
+      "jp-172"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-024",
+      "world-003"
+    ]
+  },
+  "jp-176": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-057",
+      "jp-053",
+      "jp-029",
+      "jp-105",
+      "jp-026",
+      "jp-006"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-177": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-178": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-033",
+      "jp-093",
+      "jp-150",
+      "jp-082",
+      "jp-107",
+      "jp-132"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-030",
+      "world-004"
+    ]
+  },
+  "jp-179": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-045",
+      "jp-128",
+      "jp-168",
+      "jp-181",
+      "jp-165",
+      "jp-163"
+    ],
+    "bridgeIds": [
+      "world-015",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-180": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-081",
+      "jp-095",
+      "jp-059",
+      "jp-077",
+      "world-007",
+      "jp-148"
+    ],
+    "bridgeIds": [
+      "world-007",
+      "world-005",
+      "world-008"
+    ]
+  },
+  "jp-181": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-179",
+      "jp-045",
+      "jp-128",
+      "jp-168",
+      "jp-165",
+      "jp-174"
+    ],
+    "bridgeIds": [
+      "world-015",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-182": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-080",
+      "jp-009",
+      "jp-017",
+      "jp-140",
+      "jp-038",
+      "jp-171"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-183": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-016",
+      "jp-151",
+      "jp-154",
+      "jp-009",
+      "jp-017",
+      "jp-140"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-184": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-132",
+      "jp-003",
+      "jp-082",
+      "jp-107",
+      "jp-084",
+      "jp-069"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-185": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "world-001": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-011",
+      "world-012",
+      "world-019",
+      "world-002",
+      "world-026",
+      "jp-059"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ]
+  },
+  "world-002": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-015",
+      "world-026",
+      "world-017",
+      "world-024",
+      "world-025",
+      "jp-073"
+    ],
+    "bridgeIds": [
+      "jp-073",
+      "jp-086",
+      "jp-005"
+    ]
+  },
+  "world-003": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-028",
+      "world-014",
+      "world-009",
+      "world-013",
+      "world-021",
+      "world-022"
+    ],
+    "bridgeIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ]
+  },
+  "world-004": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-022",
+      "world-029",
+      "jp-138",
+      "jp-153",
+      "world-030",
+      "jp-010"
+    ],
+    "bridgeIds": [
+      "jp-138",
+      "jp-153",
+      "jp-010"
+    ]
+  },
+  "world-005": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-081",
+      "jp-095",
+      "jp-180",
+      "jp-059",
+      "jp-077",
+      "jp-148"
+    ],
+    "bridgeIds": [
+      "jp-081",
+      "jp-095",
+      "jp-180"
+    ]
+  },
+  "world-006": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-016",
+      "world-019",
+      "world-008",
+      "jp-032",
+      "world-012",
+      "world-018"
+    ],
+    "bridgeIds": [
+      "jp-032",
+      "jp-059",
+      "jp-077"
+    ]
+  },
+  "world-007": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-081",
+      "jp-095",
+      "jp-180",
+      "jp-059",
+      "jp-077",
+      "jp-148"
+    ],
+    "bridgeIds": [
+      "jp-081",
+      "jp-095",
+      "jp-180"
+    ]
+  },
+  "world-008": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-020",
+      "world-018",
+      "world-012",
+      "world-016",
+      "jp-059",
+      "jp-077"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ]
+  },
+  "world-009": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-003",
+      "world-013",
+      "world-014",
+      "world-028",
+      "jp-134",
+      "jp-139"
+    ],
+    "bridgeIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ]
+  },
+  "world-010": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-033",
+      "jp-093",
+      "jp-150",
+      "jp-178",
+      "world-030",
+      "jp-117"
+    ],
+    "bridgeIds": [
+      "jp-033",
+      "jp-093",
+      "jp-150"
+    ]
+  },
+  "world-011": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-014",
+      "world-001",
+      "world-023",
+      "world-003",
+      "world-013",
+      "world-028"
+    ],
+    "bridgeIds": [
+      "jp-138",
+      "jp-153",
+      "jp-082"
+    ]
+  },
+  "world-012": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-016",
+      "world-008",
+      "world-001",
+      "world-020",
+      "world-018",
+      "jp-059"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ]
+  },
+  "world-013": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-014",
+      "world-003",
+      "world-009",
+      "world-028",
+      "jp-134",
+      "jp-139"
+    ],
+    "bridgeIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ]
+  },
+  "world-014": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-003",
+      "world-013",
+      "world-028",
+      "world-009",
+      "world-011",
+      "world-022"
+    ],
+    "bridgeIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ]
+  },
+  "world-015": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-002",
+      "world-026",
+      "world-017",
+      "world-024",
+      "jp-005",
+      "jp-088"
+    ],
+    "bridgeIds": [
+      "jp-005",
+      "jp-088",
+      "jp-115"
+    ]
+  },
+  "world-016": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-006",
+      "world-012",
+      "world-008",
+      "world-019",
+      "world-020",
+      "world-018"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ]
+  },
+  "world-017": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-002",
+      "world-015",
+      "world-026",
+      "jp-115",
+      "jp-005",
+      "jp-088"
+    ],
+    "bridgeIds": [
+      "jp-115",
+      "jp-005",
+      "jp-088"
+    ]
+  },
+  "world-018": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-008",
+      "world-005",
+      "world-012",
+      "world-016",
+      "world-020",
+      "jp-059"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ]
+  },
+  "world-019": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-016",
+      "world-001",
+      "world-023",
+      "world-012",
+      "world-006",
+      "world-011"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ]
+  },
+  "world-020": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-008",
+      "world-012",
+      "world-016",
+      "world-018",
+      "world-003",
+      "jp-059"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ]
+  },
+  "world-021": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-003",
+      "jp-133",
+      "jp-183",
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ],
+    "bridgeIds": [
+      "jp-133",
+      "jp-183",
+      "jp-134"
+    ]
+  },
+  "world-022": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-004",
+      "world-029",
+      "jp-138",
+      "jp-153",
+      "world-030",
+      "world-003"
+    ],
+    "bridgeIds": [
+      "jp-138",
+      "jp-153",
+      "jp-010"
+    ]
+  },
+  "world-023": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-027",
+      "world-011",
+      "world-014",
+      "world-019",
+      "world-013",
+      "jp-096"
+    ],
+    "bridgeIds": [
+      "jp-096",
+      "jp-035",
+      "jp-047"
+    ]
+  },
+  "world-024": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-026",
+      "jp-078",
+      "jp-105",
+      "world-002",
+      "world-015",
+      "jp-134"
+    ],
+    "bridgeIds": [
+      "jp-078",
+      "jp-105",
+      "jp-134"
+    ]
+  },
+  "world-025": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012"
+    ]
+  },
+  "world-026": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-002",
+      "world-015",
+      "world-024",
+      "world-017",
+      "jp-078",
+      "jp-134"
+    ],
+    "bridgeIds": [
+      "jp-078",
+      "jp-134",
+      "jp-139"
+    ]
+  },
+  "world-027": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-023",
+      "jp-096",
+      "jp-085",
+      "jp-035",
+      "jp-047",
+      "jp-052"
+    ],
+    "bridgeIds": [
+      "jp-096",
+      "jp-085",
+      "jp-035"
+    ]
+  },
+  "world-028": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-003",
+      "world-014",
+      "world-009",
+      "world-013",
+      "world-022",
+      "jp-134"
+    ],
+    "bridgeIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ]
+  },
+  "world-029": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-004",
+      "world-022",
+      "jp-138",
+      "jp-153",
+      "world-030",
+      "world-003"
+    ],
+    "bridgeIds": [
+      "jp-138",
+      "jp-153",
+      "jp-010"
+    ]
+  },
+  "world-030": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-117",
+      "world-004",
+      "world-022",
+      "world-029",
+      "jp-138",
+      "jp-153"
+    ],
+    "bridgeIds": [
+      "jp-117",
+      "jp-138",
+      "jp-153"
+    ]
+  },
+  "jp-yakisoba-kitami-shio": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-salt"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-yakisoba-itoigawa-black",
+      "jp-style-yakisoba-salt",
+      "jp-other-nagasaki-saraudon",
+      "jp-yakisoba-otaru-ankake",
+      "jp-style-yakisoba-ankake",
+      "jp-style-yakisoba-sauce"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-024",
+      "world-025"
+    ]
+  },
+  "jp-yakisoba-otaru-ankake": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-ankake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-style-yakisoba-ankake",
+      "jp-other-nagasaki-saraudon",
+      "jp-yakisoba-itoigawa-black",
+      "jp-yakisoba-kitami-shio",
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-ishinomaki"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-025",
+      "world-003"
+    ]
+  },
+  "jp-soba-tsugaru": {
+    "parentStyleIds": [
+      "jp-style-soba-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-miyazaki-kamaage",
+      "jp-udon-hakata",
+      "jp-udon-naruchuru",
+      "jp-style-soba-kake",
+      "jp-soba-iya",
+      "jp-other-kishimen"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-023"
+    ]
+  },
+  "jp-soba-wanko": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-jindaiji",
+      "jp-soba-izushi",
+      "jp-soba-taishu",
+      "jp-soba-togakushi",
+      "jp-style-soba-mori-zaru",
+      "jp-style-soba-kake"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-021"
+    ]
+  },
+  "jp-yakisoba-ishinomaki": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-style-yakisoba-ankake",
+      "jp-yakisoba-yokote",
+      "jp-style-yakisoba-salt",
+      "jp-yakisoba-ota",
+      "jp-yakisoba-otaru-ankake",
+      "jp-yakisoba-sechi"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-002",
+      "world-015"
+    ]
+  },
+  "jp-udon-inaniwa": {
+    "parentStyleIds": [
+      "jp-style-udon-zaru",
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-himi",
+      "jp-other-kishimen",
+      "jp-udon-himokawa",
+      "jp-udon-goto",
+      "jp-style-soba-kake",
+      "jp-soba-jindaiji"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-021"
+    ]
+  },
+  "jp-yakisoba-yokote": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-yakisoba-ota",
+      "jp-yakisoba-sechi",
+      "jp-style-yakisoba-sauce",
+      "jp-other-kokura-yakiudon",
+      "jp-other-sobameshi",
+      "jp-yakisoba-ishinomaki"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-017",
+      "world-002"
+    ]
+  },
+  "jp-udon-hippari": {
+    "parentStyleIds": [
+      "jp-style-udon-kamaage"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-takato",
+      "jp-udon-okkirikomi",
+      "jp-style-ramen-shoyu",
+      "jp-soba-ita",
+      "jp-soba-wanko",
+      "jp-udon-saiki-gomadashi"
+    ],
+    "bridgeIds": [
+      "world-023",
+      "world-027",
+      "world-025"
+    ]
+  },
+  "jp-soba-tsumetai-niku": {
+    "parentStyleIds": [
+      "jp-style-soba-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-musashino",
+      "jp-soba-toji",
+      "jp-udon-kazo",
+      "jp-style-soba-kamo-nanban",
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-shio"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-soba-ita": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-tachi",
+      "jp-udon-kazo",
+      "jp-soba-echizen-oroshi",
+      "jp-soba-izumo",
+      "jp-udon-mizusawa",
+      "jp-udon-musashino"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-010",
+      "world-024"
+    ]
+  },
+  "jp-soba-tachi": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-iya",
+      "jp-soba-ita",
+      "jp-soba-taishu",
+      "jp-soba-izumo",
+      "jp-soba-echizen-oroshi",
+      "jp-soba-togakushi"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-010",
+      "world-024"
+    ]
+  },
+  "jp-yakisoba-namie": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-yakisoba-hita",
+      "jp-other-kokura-yakiudon",
+      "jp-yakisoba-ota",
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-fujinomiya",
+      "jp-style-ramen-aburasoba-mazesoba"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-017",
+      "world-007"
+    ]
+  },
+  "jp-udon-mimi": {
+    "parentStyleIds": [
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-shippoku",
+      "jp-udon-okkirikomi",
+      "jp-soba-iya",
+      "jp-style-udon-kake",
+      "jp-soba-toji",
+      "jp-udon-himokawa"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-003"
+    ]
+  },
+  "jp-udon-okkirikomi": {
+    "parentStyleIds": [
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-other-hoto",
+      "jp-udon-mimi",
+      "jp-udon-shippoku",
+      "jp-soba-toji",
+      "jp-other-kishimen",
+      "jp-soba-iya"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-udon-himokawa": {
+    "parentStyleIds": [
+      "jp-style-udon-kake",
+      "jp-style-udon-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-inaniwa",
+      "jp-other-kishimen",
+      "jp-style-soba-kake",
+      "jp-udon-himi",
+      "jp-soba-jindaiji",
+      "jp-udon-kazo"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-udon-mizusawa": {
+    "parentStyleIds": [
+      "jp-style-udon-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-kazo",
+      "jp-style-udon-zaru",
+      "jp-soba-hegi",
+      "jp-udon-himi",
+      "jp-style-udon-bukkake",
+      "jp-style-ramen-tsukemen-kombu-water"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-yakisoba-ota": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-sechi",
+      "jp-other-kokura-yakiudon",
+      "jp-yakisoba-yokote",
+      "jp-yakisoba-seto-shoyu",
+      "jp-other-sobameshi"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-017",
+      "world-002"
+    ]
+  },
+  "jp-udon-kazo": {
+    "parentStyleIds": [
+      "jp-style-udon-zaru",
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-mizusawa",
+      "jp-udon-himi",
+      "jp-style-udon-bukkake",
+      "jp-style-udon-zaru",
+      "jp-soba-hegi",
+      "jp-soba-ita"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-udon-musashino": {
+    "parentStyleIds": [
+      "jp-style-udon-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-yoshida",
+      "jp-soba-ita",
+      "jp-soba-tsumetai-niku",
+      "jp-udon-kazo",
+      "jp-udon-mizusawa",
+      "jp-udon-sanuki"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-soba-jindaiji": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru",
+      "jp-style-soba-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-izushi",
+      "jp-soba-wanko",
+      "jp-soba-togakushi",
+      "jp-style-soba-mori-zaru",
+      "jp-soba-taishu",
+      "jp-soba-izumo"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-021"
+    ]
+  },
+  "jp-soba-hegi": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-himi",
+      "jp-udon-mizusawa",
+      "jp-style-udon-zaru",
+      "jp-udon-kazo",
+      "jp-udon-goto",
+      "jp-udon-inaniwa"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-010"
+    ]
+  },
+  "jp-yakisoba-itoigawa-black": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce",
+      "jp-style-yakisoba-salt"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-yakisoba-kitami-shio",
+      "jp-other-nagasaki-saraudon",
+      "jp-yakisoba-otaru-ankake",
+      "jp-style-yakisoba-salt",
+      "jp-style-yakisoba-ankake",
+      "jp-yakisoba-seto-shoyu"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-024",
+      "world-003"
+    ]
+  },
+  "jp-udon-himi": {
+    "parentStyleIds": [
+      "jp-style-udon-zaru",
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-inaniwa",
+      "jp-soba-hegi",
+      "jp-udon-goto",
+      "jp-udon-kazo",
+      "jp-udon-mizusawa",
+      "jp-style-udon-bukkake"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-soba-echizen-oroshi": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-togakushi",
+      "jp-soba-izushi",
+      "jp-style-soba-mori-zaru",
+      "jp-soba-izumo",
+      "jp-soba-ita",
+      "jp-style-udon-zaru"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-010",
+      "world-024"
+    ]
+  },
+  "jp-udon-yoshida": {
+    "parentStyleIds": [
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-musashino",
+      "jp-soba-ita",
+      "jp-udon-sanuki",
+      "jp-udon-shippoku",
+      "jp-soba-tsumetai-niku",
+      "jp-udon-mimi"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-other-hoto": {
+    "parentStyleIds": [
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-okkirikomi",
+      "jp-udon-mimi",
+      "jp-other-kishimen",
+      "jp-udon-ise",
+      "jp-udon-shippoku",
+      "jp-style-yakisoba-ankake"
+    ],
+    "bridgeIds": [
+      "world-027",
+      "world-025",
+      "world-021"
+    ]
+  },
+  "jp-soba-toji": {
+    "parentStyleIds": [
+      "jp-style-soba-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-okkirikomi",
+      "jp-udon-shippoku",
+      "jp-soba-iya",
+      "jp-udon-mimi",
+      "jp-udon-himokawa",
+      "jp-soba-tsumetai-niku"
+    ],
+    "bridgeIds": [
+      "world-003",
+      "world-009",
+      "world-013"
+    ]
+  },
+  "jp-soba-togakushi": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-izumo",
+      "jp-soba-izushi",
+      "jp-style-soba-mori-zaru",
+      "jp-soba-taishu",
+      "jp-soba-echizen-oroshi",
+      "jp-soba-jindaiji"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-010",
+      "world-024"
+    ]
+  },
+  "jp-soba-takato": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-jindaiji",
+      "jp-soba-izushi",
+      "jp-soba-echizen-oroshi",
+      "jp-soba-wanko",
+      "jp-soba-togakushi",
+      "jp-soba-taishu"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-027"
+    ]
+  },
+  "jp-yakisoba-fujinomiya": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-yakisoba-hita",
+      "jp-other-kokura-yakiudon",
+      "jp-yakisoba-hiruzen",
+      "jp-yakisoba-namie",
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-ota"
+    ],
+    "bridgeIds": [
+      "world-017",
+      "world-024",
+      "world-002"
+    ]
+  },
+  "jp-yakisoba-seto-shoyu": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-style-yakisoba-salt",
+      "jp-yakisoba-ota",
+      "jp-style-yakisoba-sauce",
+      "jp-other-kokura-yakiudon",
+      "jp-style-yakisoba-ankake",
+      "jp-yakisoba-otaru-ankake"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-other-kishimen": {
+    "parentStyleIds": [
+      "jp-style-udon-kake",
+      "jp-style-udon-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-inaniwa",
+      "jp-udon-himokawa",
+      "jp-style-soba-kake",
+      "jp-udon-naruchuru",
+      "jp-udon-himi",
+      "jp-soba-jindaiji"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-udon-ise": {
+    "parentStyleIds": [
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-other-hoto",
+      "jp-udon-okkirikomi",
+      "jp-udon-miyazaki-kamaage",
+      "jp-udon-hakata",
+      "jp-udon-hippari",
+      "jp-soba-tsugaru"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-soba-izushi": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-togakushi",
+      "jp-style-soba-mori-zaru",
+      "jp-soba-jindaiji",
+      "jp-soba-wanko",
+      "jp-soba-echizen-oroshi",
+      "jp-soba-taishu"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-021"
+    ]
+  },
+  "jp-other-sobameshi": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-yakisoba-sechi",
+      "jp-other-kokura-yakiudon",
+      "jp-yakisoba-ota",
+      "jp-yakisoba-yokote",
+      "jp-style-yakisoba-sauce",
+      "jp-other-sayo-horumon-yakiudon"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-017",
+      "world-025"
+    ]
+  },
+  "jp-other-sayo-horumon-yakiudon": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-other-tsuyama-horumon-udon",
+      "jp-other-kokura-yakiudon",
+      "jp-other-sobameshi",
+      "jp-other-kawara-soba",
+      "jp-yakisoba-sechi",
+      "jp-yakisoba-hiruzen"
+    ],
+    "bridgeIds": [
+      "world-017",
+      "world-002",
+      "world-015"
+    ]
+  },
+  "jp-yakisoba-sechi": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-other-sobameshi",
+      "jp-other-kokura-yakiudon",
+      "jp-yakisoba-ota",
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-yokote",
+      "jp-yakisoba-ishinomaki"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-017",
+      "world-002"
+    ]
+  },
+  "jp-soba-izumo": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru",
+      "jp-style-soba-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-taishu",
+      "jp-soba-togakushi",
+      "jp-soba-jindaiji",
+      "jp-soba-izushi",
+      "jp-soba-echizen-oroshi",
+      "jp-style-soba-mori-zaru"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-010",
+      "world-024"
+    ]
+  },
+  "jp-yakisoba-hiruzen": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-other-tsuyama-horumon-udon",
+      "jp-yakisoba-fujinomiya",
+      "jp-other-kokura-yakiudon",
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-ota",
+      "jp-other-sayo-horumon-yakiudon"
+    ],
+    "bridgeIds": [
+      "world-017",
+      "world-002",
+      "world-015"
+    ]
+  },
+  "jp-other-tsuyama-horumon-udon": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-other-sayo-horumon-yakiudon",
+      "jp-other-kokura-yakiudon",
+      "jp-yakisoba-hiruzen",
+      "jp-other-sobameshi",
+      "jp-yakisoba-sechi",
+      "jp-other-kawara-soba"
+    ],
+    "bridgeIds": [
+      "world-017",
+      "world-002",
+      "world-015"
+    ]
+  },
+  "jp-other-kawara-soba": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-other-kokura-yakiudon",
+      "jp-other-sobameshi",
+      "jp-other-sayo-horumon-yakiudon",
+      "jp-other-nagasaki-saraudon",
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-seto-shoyu"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-024",
+      "world-017"
+    ]
+  },
+  "jp-udon-naruchuru": {
+    "parentStyleIds": [
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-tsugaru",
+      "jp-udon-miyazaki-kamaage",
+      "jp-other-kishimen",
+      "jp-udon-hakata",
+      "jp-udon-himokawa",
+      "jp-udon-inaniwa"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-soba-iya": {
+    "parentStyleIds": [
+      "jp-style-soba-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-tachi",
+      "jp-soba-taishu",
+      "jp-soba-ita",
+      "jp-soba-toji",
+      "jp-udon-mimi",
+      "jp-soba-tsugaru"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-010"
+    ]
+  },
+  "jp-udon-shippoku": {
+    "parentStyleIds": [
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-mimi",
+      "jp-style-udon-kake",
+      "jp-udon-okkirikomi",
+      "jp-style-soba-kake",
+      "jp-style-ramen-niboshi",
+      "jp-soba-toji"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-025",
+      "world-003"
+    ]
+  },
+  "jp-udon-sanuki": {
+    "parentStyleIds": [
+      "jp-style-udon-kake",
+      "jp-style-udon-bukkake",
+      "jp-style-udon-kamaage",
+      "jp-style-udon-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-mizusawa",
+      "jp-udon-kazo",
+      "jp-style-udon-kake",
+      "jp-soba-hegi",
+      "jp-udon-himi",
+      "jp-udon-shippoku"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-010"
+    ]
+  },
+  "jp-udon-hakata": {
+    "parentStyleIds": [
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-tsugaru",
+      "jp-udon-naruchuru",
+      "jp-udon-miyazaki-kamaage",
+      "jp-other-kishimen",
+      "jp-style-soba-kake",
+      "jp-soba-iya"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-003"
+    ]
+  },
+  "jp-other-kokura-yakiudon": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-yakisoba-sechi",
+      "jp-other-sobameshi",
+      "jp-other-sayo-horumon-yakiudon",
+      "jp-other-tsuyama-horumon-udon",
+      "jp-yakisoba-ota",
+      "jp-style-yakisoba-sauce"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-017",
+      "world-002"
+    ]
+  },
+  "jp-udon-goto": {
+    "parentStyleIds": [
+      "jp-style-udon-kamaage",
+      "jp-style-udon-zaru"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-udon-himi",
+      "jp-udon-inaniwa",
+      "jp-soba-hegi",
+      "jp-udon-mizusawa",
+      "jp-udon-kazo",
+      "jp-other-kishimen"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-025",
+      "world-003"
+    ]
+  },
+  "jp-soba-taishu": {
+    "parentStyleIds": [
+      "jp-style-soba-mori-zaru",
+      "jp-style-soba-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-soba-izumo",
+      "jp-soba-togakushi",
+      "jp-soba-tachi",
+      "jp-soba-jindaiji",
+      "jp-soba-izushi",
+      "jp-soba-wanko"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-010",
+      "world-024"
+    ]
+  },
+  "jp-other-nagasaki-saraudon": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-ankake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-yakisoba-otaru-ankake",
+      "jp-style-yakisoba-ankake",
+      "jp-yakisoba-itoigawa-black",
+      "jp-yakisoba-kitami-shio",
+      "jp-other-kokura-yakiudon",
+      "jp-other-kawara-soba"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-025",
+      "world-003"
+    ]
+  },
+  "jp-udon-saiki-gomadashi": {
+    "parentStyleIds": [
+      "jp-style-udon-kake"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-style-ramen-niboshi",
+      "jp-yakisoba-itoigawa-black",
+      "jp-yakisoba-kitami-shio",
+      "jp-yakisoba-otaru-ankake",
+      "jp-style-yakisoba-ankake",
+      "jp-other-nagasaki-saraudon"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-yakisoba-hita": {
+    "parentStyleIds": [
+      "jp-style-yakisoba-sauce"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-yakisoba-namie",
+      "jp-yakisoba-fujinomiya",
+      "jp-other-kokura-yakiudon",
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-ota",
+      "jp-yakisoba-sechi"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-017",
+      "world-002"
+    ]
+  },
+  "jp-udon-miyazaki-kamaage": {
+    "parentStyleIds": [
+      "jp-style-udon-kamaage"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-style-udon-kamaage",
+      "jp-soba-tsugaru",
+      "jp-udon-naruchuru",
+      "jp-udon-hakata",
+      "jp-soba-wanko",
+      "jp-other-kishimen"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-style-ramen-shoyu": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-084",
+      "jp-086"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-miso",
+      "jp-style-ramen-shio"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-shio",
+      "jp-style-ramen-niboshi",
+      "jp-style-ramen-miso",
+      "jp-yakisoba-seto-shoyu",
+      "jp-055",
+      "jp-160"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ]
+  },
+  "jp-style-ramen-shio": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-003",
+      "jp-132",
+      "jp-184"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-tori-paitan"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-niboshi",
+      "jp-110",
+      "jp-udon-mimi",
+      "jp-other-kishimen",
+      "jp-style-soba-kake"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-style-ramen-miso": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-001",
+      "jp-032",
+      "jp-085",
+      "jp-094",
+      "jp-111"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-tori-paitan",
+      "jp-style-udon-curry"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-shoyu",
+      "jp-style-udon-curry",
+      "jp-yakisoba-hiruzen",
+      "jp-other-tsuyama-horumon-udon",
+      "jp-style-ramen-tori-paitan",
+      "jp-other-sayo-horumon-yakiudon"
+    ],
+    "bridgeIds": [
+      "world-027",
+      "world-023",
+      "world-017"
+    ]
+  },
+  "jp-style-ramen-tonkotsu": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-128",
+      "jp-162",
+      "jp-165"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-tori-paitan",
+      "jp-style-ramen-tsukemen"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-tori-paitan",
+      "jp-163",
+      "jp-162",
+      "jp-165",
+      "jp-045",
+      "jp-128"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-style-ramen-tori-paitan": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-048"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-shio",
+      "jp-style-ramen-tonkotsu"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-tonkotsu",
+      "jp-other-sayo-horumon-yakiudon",
+      "jp-048",
+      "jp-045",
+      "jp-128",
+      "jp-168"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ]
+  },
+  "jp-style-ramen-niboshi": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-016"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-tsukemen"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-shio",
+      "jp-udon-shippoku",
+      "jp-style-ramen-shoyu",
+      "jp-style-soba-kake",
+      "jp-style-ramen-tsukemen-kombu-water",
+      "jp-style-udon-kake"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ]
+  },
+  "jp-style-ramen-tsukemen": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-072",
+      "jp-147"
+    ],
+    "derivedStyleIds": [
+      "jp-style-ramen-tsukemen-rich-pork-seafood",
+      "jp-style-ramen-tsukemen-kombu-water"
+    ],
+    "relatedStyleIds": [
+      "jp-style-ramen-aburasoba-mazesoba",
+      "jp-style-ramen-niboshi"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-tsukemen-rich-pork-seafood",
+      "jp-style-ramen-tsukemen-kombu-water",
+      "jp-style-ramen-aburasoba-mazesoba",
+      "jp-udon-musashino",
+      "jp-soba-tsumetai-niku",
+      "jp-udon-mizusawa"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-021",
+      "world-003"
+    ]
+  },
+  "jp-style-ramen-aburasoba-mazesoba": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-071",
+      "jp-119"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-tsukemen",
+      "jp-style-yakisoba-sauce"
+    ],
+    "relatedIds": [
+      "jp-yakisoba-namie",
+      "jp-style-ramen-tsukemen",
+      "jp-yakisoba-fujinomiya",
+      "jp-other-kokura-yakiudon",
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-hita"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-017",
+      "world-024"
+    ]
+  },
+  "jp-style-udon-kake": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-other-hoto",
+      "jp-other-kishimen",
+      "jp-udon-hakata",
+      "jp-udon-himi",
+      "jp-udon-himokawa",
+      "jp-udon-inaniwa",
+      "jp-udon-ise",
+      "jp-udon-kazo",
+      "jp-udon-mimi",
+      "jp-udon-naruchuru",
+      "jp-udon-okkirikomi",
+      "jp-udon-saiki-gomadashi",
+      "jp-udon-sanuki",
+      "jp-udon-shippoku",
+      "jp-udon-yoshida"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-udon-bukkake",
+      "jp-style-udon-kamaage",
+      "jp-style-udon-zaru"
+    ],
+    "relatedIds": [
+      "jp-style-soba-kake",
+      "jp-udon-shippoku",
+      "jp-udon-sanuki",
+      "jp-udon-kazo",
+      "jp-style-ramen-tsukemen-kombu-water",
+      "jp-udon-mizusawa"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-style-udon-bukkake": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-udon-sanuki"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-udon-kake",
+      "jp-style-udon-zaru",
+      "jp-style-soba-mori-zaru"
+    ],
+    "relatedIds": [
+      "jp-udon-kazo",
+      "jp-style-udon-zaru",
+      "jp-udon-mizusawa",
+      "jp-udon-himi",
+      "jp-soba-hegi",
+      "jp-soba-jindaiji"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-010",
+      "world-021"
+    ]
+  },
+  "jp-style-udon-kamaage": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-udon-goto",
+      "jp-udon-hippari",
+      "jp-udon-miyazaki-kamaage",
+      "jp-udon-sanuki"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-udon-kake",
+      "jp-style-udon-zaru"
+    ],
+    "relatedIds": [
+      "jp-udon-miyazaki-kamaage",
+      "jp-style-soba-mori-zaru",
+      "jp-soba-jindaiji",
+      "jp-style-udon-zaru",
+      "jp-udon-mizusawa",
+      "jp-soba-izushi"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-010"
+    ]
+  },
+  "jp-style-udon-zaru": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-other-kishimen",
+      "jp-udon-goto",
+      "jp-udon-himi",
+      "jp-udon-himokawa",
+      "jp-udon-inaniwa",
+      "jp-udon-kazo",
+      "jp-udon-mizusawa",
+      "jp-udon-musashino",
+      "jp-udon-sanuki"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-udon-bukkake",
+      "jp-style-udon-kamaage",
+      "jp-style-soba-mori-zaru"
+    ],
+    "relatedIds": [
+      "jp-udon-mizusawa",
+      "jp-style-soba-mori-zaru",
+      "jp-style-udon-bukkake",
+      "jp-udon-kazo",
+      "jp-soba-hegi",
+      "jp-udon-himi"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-010",
+      "world-024"
+    ]
+  },
+  "jp-style-udon-curry": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-udon-toyohashi-curry"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-udon-kake",
+      "jp-style-ramen-miso"
+    ],
+    "relatedIds": [
+      "jp-udon-toyohashi-curry",
+      "jp-style-ramen-miso",
+      "jp-yakisoba-ishinomaki",
+      "jp-064",
+      "jp-other-kokura-yakiudon",
+      "jp-yakisoba-namie"
+    ],
+    "bridgeIds": [
+      "world-005",
+      "world-018",
+      "world-007"
+    ]
+  },
+  "jp-style-soba-kake": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-soba-iya",
+      "jp-soba-izumo",
+      "jp-soba-jindaiji",
+      "jp-soba-taishu",
+      "jp-soba-toji",
+      "jp-soba-tsugaru",
+      "jp-soba-tsumetai-niku"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-soba-kamo-nanban",
+      "jp-style-soba-mori-zaru",
+      "jp-style-soba-tempura"
+    ],
+    "relatedIds": [
+      "jp-style-udon-kake",
+      "jp-other-kishimen",
+      "jp-style-soba-mori-zaru",
+      "jp-udon-inaniwa",
+      "jp-udon-himokawa",
+      "jp-soba-wanko"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-style-soba-mori-zaru": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-other-kawara-soba",
+      "jp-soba-echizen-oroshi",
+      "jp-soba-hegi",
+      "jp-soba-ita",
+      "jp-soba-izumo",
+      "jp-soba-izushi",
+      "jp-soba-jindaiji",
+      "jp-soba-tachi",
+      "jp-soba-taishu",
+      "jp-soba-takato",
+      "jp-soba-togakushi",
+      "jp-soba-wanko"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-soba-kake",
+      "jp-style-soba-tempura",
+      "jp-style-udon-bukkake",
+      "jp-style-udon-zaru"
+    ],
+    "relatedIds": [
+      "jp-style-udon-zaru",
+      "jp-soba-togakushi",
+      "jp-soba-izushi",
+      "jp-soba-jindaiji",
+      "jp-soba-echizen-oroshi",
+      "jp-style-soba-kake"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-010"
+    ]
+  },
+  "jp-style-soba-tempura": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-soba-kake",
+      "jp-style-soba-mori-zaru"
+    ],
+    "relatedIds": [
+      "jp-style-soba-kamo-nanban",
+      "jp-style-ramen-niboshi",
+      "jp-style-ramen-shio",
+      "jp-style-yakisoba-ankake",
+      "jp-style-ramen-shoyu",
+      "jp-yakisoba-kitami-shio"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-025",
+      "world-024"
+    ]
+  },
+  "jp-style-soba-kamo-nanban": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-soba-kake"
+    ],
+    "relatedIds": [
+      "jp-style-soba-tempura",
+      "jp-soba-tsumetai-niku",
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-tori-paitan",
+      "jp-style-ramen-shio",
+      "jp-style-yakisoba-ankake"
+    ],
+    "bridgeIds": [
+      "world-003",
+      "world-009",
+      "world-013"
+    ]
+  },
+  "jp-style-yakisoba-sauce": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-other-kokura-yakiudon",
+      "jp-other-sayo-horumon-yakiudon",
+      "jp-other-sobameshi",
+      "jp-other-tsuyama-horumon-udon",
+      "jp-yakisoba-fujinomiya",
+      "jp-yakisoba-hiruzen",
+      "jp-yakisoba-hita",
+      "jp-yakisoba-ishinomaki",
+      "jp-yakisoba-itoigawa-black",
+      "jp-yakisoba-namie",
+      "jp-yakisoba-ota",
+      "jp-yakisoba-sechi",
+      "jp-yakisoba-seto-shoyu",
+      "jp-yakisoba-yokote"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-yakisoba-ankake",
+      "jp-style-yakisoba-salt",
+      "jp-style-ramen-aburasoba-mazesoba"
+    ],
+    "relatedIds": [
+      "jp-yakisoba-ota",
+      "jp-other-kokura-yakiudon",
+      "jp-style-yakisoba-salt",
+      "jp-yakisoba-sechi",
+      "jp-yakisoba-yokote",
+      "jp-yakisoba-hita"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-017",
+      "world-002"
+    ]
+  },
+  "jp-style-yakisoba-salt": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-yakisoba-itoigawa-black",
+      "jp-yakisoba-kitami-shio"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-yakisoba-ankake",
+      "jp-style-yakisoba-sauce"
+    ],
+    "relatedIds": [
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-seto-shoyu",
+      "jp-style-yakisoba-ankake",
+      "jp-yakisoba-kitami-shio",
+      "jp-yakisoba-ota",
+      "jp-yakisoba-itoigawa-black"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-025",
+      "world-002"
+    ]
+  },
+  "jp-style-yakisoba-ankake": {
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-other-nagasaki-saraudon",
+      "jp-yakisoba-otaru-ankake"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-yakisoba-salt",
+      "jp-style-yakisoba-sauce",
+      "jp-other-nagasaki-saraudon"
+    ],
+    "relatedIds": [
+      "jp-yakisoba-otaru-ankake",
+      "jp-other-nagasaki-saraudon",
+      "jp-style-yakisoba-salt",
+      "jp-yakisoba-ishinomaki",
+      "jp-style-yakisoba-sauce",
+      "jp-055"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ]
+  },
+  "jp-udon-toyohashi-curry": {
+    "parentStyleIds": [
+      "jp-style-udon-curry"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-style-udon-curry",
+      "jp-yakisoba-fujinomiya",
+      "jp-yakisoba-ishinomaki",
+      "jp-064",
+      "jp-style-ramen-tsukemen",
+      "jp-style-ramen-aburasoba-mazesoba"
+    ],
+    "bridgeIds": [
+      "world-018",
+      "world-005",
+      "world-007"
+    ]
+  },
+  "jp-style-ramen-tsukemen-rich-pork-seafood": {
+    "parentStyleIds": [
+      "jp-style-ramen-tsukemen"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-tsukemen",
+      "jp-style-ramen-tonkotsu",
+      "jp-style-ramen-niboshi"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-tsukemen",
+      "jp-style-ramen-tsukemen-kombu-water",
+      "jp-udon-musashino",
+      "jp-style-ramen-miso",
+      "jp-style-ramen-tori-paitan",
+      "jp-style-ramen-niboshi"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-021",
+      "world-003"
+    ]
+  },
+  "jp-style-ramen-tsukemen-kombu-water": {
+    "parentStyleIds": [
+      "jp-style-ramen-tsukemen"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-tsukemen",
+      "jp-style-ramen-shio",
+      "jp-style-ramen-shoyu"
+    ],
+    "relatedIds": [
+      "jp-udon-mizusawa",
+      "jp-style-udon-zaru",
+      "jp-style-ramen-tsukemen",
+      "jp-style-udon-kake",
+      "jp-udon-kazo",
+      "jp-udon-shippoku"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-021",
+      "world-003"
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+[
+  {
+    "id": "jp-style-ramen-tsukemen-rich-pork-seafood",
+    "slug": "ramen-tsukemen-rich-pork-seafood",
+    "name": "濃厚魚介豚骨つけ麺",
+    "localName": null,
+    "aliases": [
+      "濃厚魚介つけ麺",
+      "魚介豚骨つけ麺"
+    ],
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "contemporary",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "dipping",
+    "formLabel": "つけ麺",
+    "categoryLabel": "現代のラーメン",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩"
+      ],
+      "shape": "極太から太めで、もちもち感と強い噛みごたえを持つ中華麺",
+      "notes": [
+        "極太から太めで、もちもち感と強い噛みごたえを持つ中華麺"
+      ],
+      "thickness": 4.7,
+      "width": 3.8,
+      "firmness": 4.2,
+      "elasticity": 4.4,
+      "chewiness": 4.7,
+      "smoothness": 3.1
+    },
+    "broth": {
+      "bases": [
+        "豚骨",
+        "鶏ガラ",
+        "煮干し",
+        "かつお節等"
+      ],
+      "seasonings": [
+        "醤油だれ",
+        "魚粉"
+      ],
+      "aromatics": [],
+      "clarity": "opaque"
+    },
+    "ingredients": [
+      "チャーシュー",
+      "メンマ",
+      "ねぎ",
+      "魚粉",
+      "のり等"
+    ],
+    "tags": [
+      "rich",
+      "dipping",
+      "thick_noodle",
+      "firm_noodle",
+      "pork_bone",
+      "seafood_forward",
+      "noodle_forward",
+      "fish_powder"
+    ],
+    "keywords": [
+      "濃厚魚介つけ麺",
+      "魚介豚骨つけ麺",
+      "現代スタイル",
+      "つけ麺"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 4.5,
+        "min": 3.7,
+        "max": 5
+      },
+      "oiliness": {
+        "typical": 3.4,
+        "min": 2.6,
+        "max": 4.2
+      },
+      "saltiness": {
+        "typical": 4,
+        "min": 3.2,
+        "max": 4.8
+      },
+      "sweetness": {
+        "typical": 2,
+        "min": 1.2,
+        "max": 2.8
+      },
+      "sourness": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.6
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "umami": {
+        "typical": 4.7,
+        "min": 3.9,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 2.8,
+        "max": 4.8
+      },
+      "seafoodIntensity": {
+        "typical": 4,
+        "min": 3,
+        "max": 5
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "herbalIntensity": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "fermentation": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "roastedAroma": {
+        "typical": 1.6,
+        "min": 0.8,
+        "max": 2.4
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.6
+      },
+      "dashiIntensity": {
+        "typical": 3.6,
+        "min": 2.8,
+        "max": 4.4
+      },
+      "sauceIntensity": {
+        "typical": 4.7,
+        "min": 3.9,
+        "max": 5
+      },
+      "noodleAroma": {
+        "typical": 4.1,
+        "min": 3.3,
+        "max": 4.9
+      }
+    },
+    "culture": {
+      "summary": "極太麺を、豚骨・鶏などの動物系と煮干し・かつおなどの魚介系を重ねた濃厚なつけ汁で味わう現代的なつけ麺スタイル。",
+      "background": "2000年代に「極太麺×濃厚つけダレ×魚粉」という構成が広く普及し、現代つけ麺の代表的な一類型になった。",
+      "tradition": 3.4,
+      "uniqueness": 4.6,
+      "adventure": 2.4
+    },
+    "variation": "動物系と魚介系の比率、粘度、甘味・酸味、魚粉、麺の太さ、スープ割りは店ごとの差が大きい。",
+    "allergenNote": "小麦・豚肉・鶏肉・魚・大豆を含むことが多い。卵、乳、ごま等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-contemporary-rich-seafood-pork-tsukemen-1",
+      "src-contemporary-rich-seafood-pork-tsukemen-2"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [
+      "jp-style-ramen-tsukemen"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-tsukemen",
+      "jp-style-ramen-tonkotsu",
+      "jp-style-ramen-niboshi"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-tsukemen",
+      "jp-style-ramen-tsukemen-kombu-water",
+      "jp-udon-musashino",
+      "jp-style-ramen-miso",
+      "jp-style-ramen-tori-paitan",
+      "jp-style-ramen-niboshi"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-021",
+      "world-003"
+    ],
+    "searchText": "濃厚魚介豚骨つけ麺 濃厚魚介つけ麺 魚介豚骨つけ麺 日本 rich dipping thick_noodle firm_noodle pork_bone seafood_forward noodle_forward fish_powder 現代スタイル つけ麺"
+  },
+  {
+    "id": "jp-style-ramen-tsukemen-kombu-water",
+    "slug": "ramen-tsukemen-kombu-water",
+    "name": "昆布水つけ麺",
+    "localName": null,
+    "aliases": [
+      "昆布水のつけ麺"
+    ],
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "contemporary",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "dipping",
+    "formLabel": "つけ麺",
+    "categoryLabel": "現代のラーメン",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩"
+      ],
+      "shape": "中細から太めの麺を粘りのある昆布水へ浸し、麺そのものの香りと滑らかさを生かす",
+      "notes": [
+        "中細から太めの麺を粘りのある昆布水へ浸し、麺そのものの香りと滑らかさを生かす"
+      ],
+      "thickness": 3.4,
+      "width": 3,
+      "firmness": 3.8,
+      "elasticity": 4,
+      "chewiness": 3.8,
+      "smoothness": 4.8
+    },
+    "broth": {
+      "bases": [
+        "昆布水",
+        "鶏・豚・魚介等のつけ汁（店による）"
+      ],
+      "seasonings": [
+        "塩",
+        "醤油",
+        "薬味等"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "昆布",
+      "薬味",
+      "チャーシュー",
+      "柑橘等（店による）"
+    ],
+    "tags": [
+      "dipping",
+      "dashi_forward",
+      "noodle_forward",
+      "smooth",
+      "cold_noodle_common",
+      "kombu_water"
+    ],
+    "keywords": [
+      "昆布水のつけ麺",
+      "現代スタイル",
+      "つけ麺"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.3,
+        "min": 1.5,
+        "max": 3.1
+      },
+      "oiliness": {
+        "typical": 1.1,
+        "min": 0.3,
+        "max": 1.9
+      },
+      "saltiness": {
+        "typical": 3.1,
+        "min": 2.3,
+        "max": 3.9
+      },
+      "sweetness": {
+        "typical": 1,
+        "min": 0.2,
+        "max": 1.8
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "umami": {
+        "typical": 4.3,
+        "min": 3.5,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 1.8,
+        "min": 0.8,
+        "max": 2.8
+      },
+      "seafoodIntensity": {
+        "typical": 2.5,
+        "min": 1.5,
+        "max": 3.5
+      },
+      "spiceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "herbalIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "fermentation": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "roastedAroma": {
+        "typical": 0.6,
+        "min": 0,
+        "max": 1.4
+      },
+      "garlicIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "dashiIntensity": {
+        "typical": 4.8,
+        "min": 4,
+        "max": 5
+      },
+      "sauceIntensity": {
+        "typical": 3.6,
+        "min": 2.8,
+        "max": 4.4
+      },
+      "noodleAroma": {
+        "typical": 4.4,
+        "min": 3.6,
+        "max": 5
+      }
+    },
+    "culture": {
+      "summary": "昆布のうま味と粘りを含む水へ麺を浸し、麺をそのまま、塩や薬味、別添えのつけ汁と段階的に味わう現代的なつけ麺技法。",
+      "background": "2000年代に生まれた昆布水のつけ麺は、麺の香り、昆布のうま味、つけ汁との変化を楽しむ技法として広く浸透した。",
+      "tradition": 3.4,
+      "uniqueness": 4.6,
+      "adventure": 2.4
+    },
+    "variation": "昆布の種類と濃度、麺、塩・薬味、つけ汁の動物・魚介構成、柑橘等は店ごとの差が大きい。",
+    "allergenNote": "小麦を含む。つけ汁は大豆、鶏・豚、魚介を含む場合があり、薬味や具材は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-contemporary-kombu-water-tsukemen-1",
+      "src-contemporary-kombu-water-tsukemen-2"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [
+      "jp-style-ramen-tsukemen"
+    ],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-tsukemen",
+      "jp-style-ramen-shio",
+      "jp-style-ramen-shoyu"
+    ],
+    "relatedIds": [
+      "jp-udon-mizusawa",
+      "jp-style-udon-zaru",
+      "jp-style-ramen-tsukemen",
+      "jp-style-udon-kake",
+      "jp-udon-kazo",
+      "jp-udon-shippoku"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-021",
+      "world-003"
+    ],
+    "searchText": "昆布水つけ麺 昆布水のつけ麺 日本 dipping dashi_forward noodle_forward smooth cold_noodle_common kombu_water 現代スタイル つけ麺"
+  }
+]

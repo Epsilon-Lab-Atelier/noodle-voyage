@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 3,
+  "noodleCategoryLabels": {
+    "ramen": "ラーメン",
+    "udon": "うどん",
+    "soba": "そば",
+    "yakisoba": "焼きそば",
+    "world_noodle": "世界の麺料理",
+    "other": "その他"
+  },
+  "culturalScopeLabels": {
+    "regional": "ご当地",
+    "standard": "定番スタイル",
+    "international": "世界の地域料理"
+  },
+  "standardStyleIds": [
+    "jp-style-ramen-shoyu",
+    "jp-style-ramen-shio",
+    "jp-style-ramen-miso",
+    "jp-style-ramen-tonkotsu",
+    "jp-style-ramen-tori-paitan",
+    "jp-style-ramen-niboshi",
+    "jp-style-ramen-tsukemen",
+    "jp-style-ramen-aburasoba-mazesoba",
+    "jp-style-udon-kake",
+    "jp-style-udon-bukkake",
+    "jp-style-udon-kamaage",
+    "jp-style-udon-zaru",
+    "jp-style-udon-curry",
+    "jp-style-soba-kake",
+    "jp-style-soba-mori-zaru",
+    "jp-style-soba-tempura",
+    "jp-style-soba-kamo-nanban",
+    "jp-style-yakisoba-sauce",
+    "jp-style-yakisoba-salt",
+    "jp-style-yakisoba-ankake"
+  ],
+  "contextualLabels": {
+    "japan.regional.other": "その他のご当地麺類"
+  },
+  "rules": [
+    "standardスタイルには都道府県、地方、市町村、緯度経度を付与しない。",
+    "standardスタイルは一覧、診断、比較、味覚マップへ含め、地図と地域パスポートへ含めない。",
+    "published料理のparent_style_ids、related_ids、bridge_idsはrelease:checkで全件解決する。"
+  ],
+  "standardStyleDisplayOrder": [
+    "jp-style-ramen-shoyu",
+    "jp-style-ramen-shio",
+    "jp-style-ramen-miso",
+    "jp-style-ramen-tonkotsu",
+    "jp-style-ramen-tori-paitan",
+    "jp-style-ramen-niboshi",
+    "jp-style-ramen-tsukemen",
+    "jp-style-ramen-aburasoba-mazesoba",
+    "jp-style-udon-kake",
+    "jp-style-udon-bukkake",
+    "jp-style-udon-kamaage",
+    "jp-style-udon-zaru",
+    "jp-style-udon-curry",
+    "jp-style-soba-kake",
+    "jp-style-soba-mori-zaru",
+    "jp-style-soba-tempura",
+    "jp-style-soba-kamo-nanban",
+    "jp-style-yakisoba-sauce",
+    "jp-style-yakisoba-salt",
+    "jp-style-yakisoba-ankake"
+  ]
+}

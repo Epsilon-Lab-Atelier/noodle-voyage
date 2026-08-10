@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "locale": "ja",
+  "brand": {
+    "wordmark": "NOODLE VOYAGE",
+    "credit": "by EpsilonLab",
+    "decorativeLine": "NOODLES / PLACES / STORIES",
+    "footerDescription": "日本と世界の麺料理をめぐる、味覚の旅。"
+  },
+  "home": {
+    "eyebrow": "NOODLES / PLACES / STORIES",
+    "title": "一杯から、旅をはじめよう。",
+    "lead": "味、麺、土地の物語から。日本と世界の麺料理を、あなたの好みでめぐれます。",
+    "primaryAction": "好みから探す",
+    "primaryActionMeta": "8問・約60秒",
+    "secondaryAction": "自由にめぐる",
+    "catalogBadge": "日本と世界の{{count}}件を収録",
+    "routeTitle": "気分に合う探し方を選ぶ"
+  },
+  "routeCard": {
+    "diagnosisTitle": "好みから見つける",
+    "diagnosisDescription": "直感で答える8つの質問から、相性のよい一杯を提案します。",
+    "filterTitle": "特徴で絞り込む",
+    "filterDescription": "だし、麺、辛さ、食べ方などを日本語の特徴から選べます。",
+    "mapTitle": "地図をめぐる",
+    "mapDescription": "旅行先や気になる地域から、土地に根付く麺料理を探します。",
+    "tasteMapTitle": "味で眺める",
+    "tasteMapDescription": "2つの味覚を比べて、近い一杯と意外な一杯を見つけます。"
+  },
+  "section": {
+    "dailyEyebrow": "TODAY'S DESTINATION",
+    "dailyTitle": "今日の一杯",
+    "recommendEyebrow": "FOR YOUR TASTE",
+    "recommendTitle": "好みに近い一杯",
+    "detourEyebrow": "TAKE A DETOUR",
+    "detourTitle": "寄り道の一杯",
+    "recentTitle": "最近見た一杯"
+  },
+  "page": {
+    "exploreTitle": "どんな一杯を探す？",
+    "exploreLead": "地域、味、麺の特徴から、気になる料理を見つけられます。",
+    "diagnosisTitle": "好みをたどって、次の一杯へ。",
+    "diagnosisLead": "むずかしい知識は不要です。直感で選ぶだけで、相性のよい麺料理を提案します。",
+    "compareTitle": "違いがわかると、選ぶのが楽しい。",
+    "compareLead": "味、麺、だし、文化を最大3件まで並べて比べます。",
+    "collectionTitle": "食べたい一杯を、忘れない。",
+    "collectionLead": "食べたい、ごちそうさま、お気に入りを、自分のペースで残せます。",
+    "guideTitle": "この旅を、安心して楽しむために。",
+    "guideLead": "データの見方、原材料とアレルギー、情報源について説明します。"
+  },
+  "navigation": {
+    "home": "ホーム",
+    "explore": "探す",
+    "diagnosis": "診断",
+    "collection": "保存",
+    "menu": "メニュー",
+    "guide": "ガイド",
+    "compare": "比較"
+  },
+  "exploreMode": {
+    "cards": "一覧",
+    "cardsDescription": "名前や特徴を見ながら探す",
+    "map": "地図",
+    "mapDescription": "地域から探す",
+    "taste": "味覚マップ",
+    "tasteDescription": "味の距離から探す"
+  },
+  "action": {
+    "openDetail": "詳しく見る",
+    "wishlist": "食べたい",
+    "compare": "比較に追加",
+    "imageSearch": "写真を見る",
+    "mapSearch": "地図で探す",
+    "reset": "条件をリセット",
+    "clear": "選択を解除"
+  },
+  "empty": {
+    "noResultsTitle": "条件に合う一杯が見つかりませんでした。",
+    "noResultsBody": "地域や特徴を少しゆるめると、別の候補が見つかるかもしれません。",
+    "noDiagnosisTitle": "診断すると、好みとの相性がわかります。",
+    "noSavedTitle": "まだ保存した一杯はありません。",
+    "offlineTitle": "オフラインで開いています。",
+    "offlineBody": "保存済みのデータから、検索と診断を続けられます。"
+  },
+  "external": {
+    "notice": "外部サイトを新しいタブで開きます。"
+  }
+}

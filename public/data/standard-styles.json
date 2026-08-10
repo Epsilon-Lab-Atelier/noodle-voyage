@@ -1,0 +1,4112 @@
+[
+  {
+    "id": "jp-style-ramen-shoyu",
+    "slug": "ramen-shoyu",
+    "name": "醤油ラーメン",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番ラーメン",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩",
+        "卵（製品による）"
+      ],
+      "shape": "細麺から太麺、直線から縮れまで幅広い中華麺",
+      "notes": [
+        "細麺から太麺、直線から縮れまで幅広い中華麺"
+      ],
+      "thickness": 2.8,
+      "width": 2.6,
+      "firmness": 3.2,
+      "elasticity": 3.1,
+      "chewiness": 3.1,
+      "smoothness": 3.3
+    },
+    "broth": {
+      "bases": [
+        "鶏",
+        "豚",
+        "魚介",
+        "昆布",
+        "野菜（店による）"
+      ],
+      "seasonings": [
+        "醤油だれ"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "チャーシュー",
+      "メンマ",
+      "ねぎ",
+      "なると",
+      "のり等"
+    ],
+    "tags": [
+      "soy_sauce",
+      "soup",
+      "classic",
+      "broad_variation",
+      "animal_or_seafood",
+      "japanese_seasoning"
+    ],
+    "keywords": [
+      "醤油",
+      "中華そば",
+      "しょうゆラーメン",
+      "定番ラーメン"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.8,
+        "min": 1.4,
+        "max": 4.2
+      },
+      "oiliness": {
+        "typical": 2.2,
+        "min": 0.8,
+        "max": 3.6
+      },
+      "saltiness": {
+        "typical": 3.3,
+        "min": 2.3,
+        "max": 4.3
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.3,
+        "max": 2.3
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.2
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.2
+      },
+      "umami": {
+        "typical": 3.9,
+        "min": 2.9,
+        "max": 4.9
+      },
+      "animalIntensity": {
+        "typical": 2.4,
+        "min": 1,
+        "max": 3.8
+      },
+      "seafoodIntensity": {
+        "typical": 1.9,
+        "min": 0.5,
+        "max": 3.3
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.5
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.3
+      },
+      "fermentation": {
+        "typical": 1.7,
+        "min": 0.7,
+        "max": 2.7
+      },
+      "roastedAroma": {
+        "typical": 1.1,
+        "min": 0.1,
+        "max": 2.1
+      },
+      "garlicIntensity": {
+        "typical": 0.7,
+        "min": 0,
+        "max": 1.7
+      },
+      "dashiIntensity": {
+        "typical": 2.9,
+        "min": 1.5,
+        "max": 4.3
+      },
+      "sauceIntensity": {
+        "typical": 4,
+        "min": 3,
+        "max": 5
+      },
+      "noodleAroma": {
+        "typical": 2.7,
+        "min": 1.7,
+        "max": 3.7
+      }
+    },
+    "culture": {
+      "summary": "醤油だれを味の軸に据えたラーメン。澄んだ鶏・魚介系から濃厚な動物系まで幅があり、日本で最も広く見られる基本スタイルの一つ。",
+      "background": "中国由来の麺料理へ日本の醤油文化が取り込まれて発達した。ご当地ラーメンにも醤油を主軸にする例が多く、特定地域に限定しない定番スタイルとして扱う。",
+      "tradition": 5,
+      "uniqueness": 2.4,
+      "adventure": 1
+    },
+    "variation": "醤油の種類、色、甘さ、香り、だし、油、麺、具材の幅が非常に大きい。淡麗な清湯から濃厚な豚骨醤油までを一つの代表値で完全には表せない。",
+    "allergenNote": "小麦・大豆を含むことが多い。卵、豚肉、鶏肉、魚介、乳、ごま等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-ramen-dictionary",
+      "src-standard-chinese-noodle",
+      "src-standard-maff-hokkaido-ramen"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-084",
+      "jp-086"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-miso",
+      "jp-style-ramen-shio"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-shio",
+      "jp-style-ramen-niboshi",
+      "jp-style-ramen-miso",
+      "jp-yakisoba-seto-shoyu",
+      "jp-055",
+      "jp-160"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-004",
+      "world-022"
+    ],
+    "searchText": "醤油ラーメン 日本 soy_sauce soup classic broad_variation animal_or_seafood japanese_seasoning 醤油 中華そば しょうゆラーメン 定番ラーメン"
+  },
+  {
+    "id": "jp-style-ramen-shio",
+    "slug": "ramen-shio",
+    "name": "塩ラーメン",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番ラーメン",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩",
+        "卵（製品による）"
+      ],
+      "shape": "細めから中太を中心に、直線・縮れの両方がある中華麺",
+      "notes": [
+        "細めから中太を中心に、直線・縮れの両方がある中華麺"
+      ],
+      "thickness": 2.5,
+      "width": 2.3,
+      "firmness": 3.1,
+      "elasticity": 3,
+      "chewiness": 2.9,
+      "smoothness": 3.5
+    },
+    "broth": {
+      "bases": [
+        "鶏",
+        "豚",
+        "魚介",
+        "昆布",
+        "貝",
+        "野菜（店による）"
+      ],
+      "seasonings": [
+        "塩だれ"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "チャーシュー",
+      "メンマ",
+      "ねぎ",
+      "のり",
+      "麩等"
+    ],
+    "tags": [
+      "salt_tare",
+      "soup",
+      "clear_broth_common",
+      "delicate",
+      "broad_variation"
+    ],
+    "keywords": [
+      "塩",
+      "しおラーメン",
+      "塩だれ",
+      "定番ラーメン"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.2,
+        "min": 0.9,
+        "max": 3.5
+      },
+      "oiliness": {
+        "typical": 1.8,
+        "min": 0.5,
+        "max": 3.1
+      },
+      "saltiness": {
+        "typical": 3.5,
+        "min": 2.6,
+        "max": 4.4
+      },
+      "sweetness": {
+        "typical": 0.9,
+        "min": 0,
+        "max": 1.8
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "umami": {
+        "typical": 3.7,
+        "min": 2.8,
+        "max": 4.6
+      },
+      "animalIntensity": {
+        "typical": 2,
+        "min": 0.7,
+        "max": 3.3
+      },
+      "seafoodIntensity": {
+        "typical": 2.1,
+        "min": 0.8,
+        "max": 3.4
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.3
+      },
+      "roastedAroma": {
+        "typical": 0.7,
+        "min": 0,
+        "max": 1.6
+      },
+      "garlicIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "dashiIntensity": {
+        "typical": 3.2,
+        "min": 1.9,
+        "max": 4.5
+      },
+      "sauceIntensity": {
+        "typical": 3.4,
+        "min": 2.5,
+        "max": 4.3
+      },
+      "noodleAroma": {
+        "typical": 2.7,
+        "min": 1.8,
+        "max": 3.6
+      }
+    },
+    "culture": {
+      "summary": "塩だれを味の軸にしたラーメン。透明感のある清湯が多い一方、鶏白湯や豚骨へ塩だれを合わせる例もある。",
+      "background": "塩味の麺スープは中国料理にも見られ、日本では函館などのご当地ラーメンとともに定番化した。だしや香味油が直接感じられやすいスタイル。",
+      "tradition": 4.8,
+      "uniqueness": 2.5,
+      "adventure": 1.2
+    },
+    "variation": "塩そのものの種類よりも、鶏・魚介・貝・昆布などのだし、油、白湯か清湯かで印象が大きく変わる。",
+    "allergenNote": "小麦を含むことが多い。卵、鶏・豚、魚介、貝、大豆、ごま等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-ramen-dictionary",
+      "src-standard-chinese-noodle",
+      "src-standard-maff-hokkaido-ramen"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-003",
+      "jp-132",
+      "jp-184"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-tori-paitan"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-niboshi",
+      "jp-110",
+      "jp-udon-mimi",
+      "jp-other-kishimen",
+      "jp-style-soba-kake"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ],
+    "searchText": "塩ラーメン 日本 salt_tare soup clear_broth_common delicate broad_variation 塩 しおラーメン 塩だれ 定番ラーメン"
+  },
+  {
+    "id": "jp-style-ramen-miso",
+    "slug": "ramen-miso",
+    "name": "味噌ラーメン",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番ラーメン",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩",
+        "卵（製品による）"
+      ],
+      "shape": "中太から太め、縮れ麺を含む中華麺",
+      "notes": [
+        "中太から太め、縮れ麺を含む中華麺"
+      ],
+      "thickness": 3.6,
+      "width": 3.1,
+      "firmness": 3.5,
+      "elasticity": 3.5,
+      "chewiness": 3.7,
+      "smoothness": 3
+    },
+    "broth": {
+      "bases": [
+        "豚",
+        "鶏",
+        "魚介",
+        "野菜（店による）"
+      ],
+      "seasonings": [
+        "味噌だれ",
+        "醤油・香辛料等の補助調味（店による）"
+      ],
+      "aromatics": [],
+      "clarity": "opaque"
+    },
+    "ingredients": [
+      "チャーシュー",
+      "炒め野菜",
+      "もやし",
+      "ねぎ",
+      "コーン",
+      "バター等"
+    ],
+    "tags": [
+      "miso",
+      "fermented",
+      "rich",
+      "vegetables_common",
+      "soup",
+      "warming"
+    ],
+    "keywords": [
+      "味噌",
+      "みそラーメン",
+      "札幌味噌",
+      "定番ラーメン"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.9,
+        "min": 2.7,
+        "max": 5
+      },
+      "oiliness": {
+        "typical": 3.1,
+        "min": 1.9,
+        "max": 4.3
+      },
+      "saltiness": {
+        "typical": 3.4,
+        "min": 2.5,
+        "max": 4.3
+      },
+      "sweetness": {
+        "typical": 2.3,
+        "min": 1.1,
+        "max": 3.5
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.4
+      },
+      "umami": {
+        "typical": 4.1,
+        "min": 3.2,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 2.6,
+        "min": 1.7,
+        "max": 3.5
+      },
+      "seafoodIntensity": {
+        "typical": 1.4,
+        "min": 0.5,
+        "max": 2.3
+      },
+      "spiceIntensity": {
+        "typical": 1.2,
+        "min": 0,
+        "max": 2.4
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 3.9,
+        "min": 3,
+        "max": 4.8
+      },
+      "roastedAroma": {
+        "typical": 2,
+        "min": 1.1,
+        "max": 2.9
+      },
+      "garlicIntensity": {
+        "typical": 1.5,
+        "min": 0.3,
+        "max": 2.7
+      },
+      "dashiIntensity": {
+        "typical": 2.5,
+        "min": 1.6,
+        "max": 3.4
+      },
+      "sauceIntensity": {
+        "typical": 4.5,
+        "min": 3.6,
+        "max": 5
+      },
+      "noodleAroma": {
+        "typical": 2.6,
+        "min": 1.7,
+        "max": 3.5
+      }
+    },
+    "culture": {
+      "summary": "味噌だれを主役にするラーメン。発酵由来の香りとコクがあり、炒め野菜や香味油を合わせた濃厚な構成が多い。",
+      "background": "札幌で定番化した味噌ラーメンが全国へ広がり、現在は地域や店ごとに多様な味噌・スープ・香辛料が使われる。",
+      "tradition": 4.8,
+      "uniqueness": 3.1,
+      "adventure": 1.3
+    },
+    "variation": "赤・白・合わせ味噌、甘さ、辛味、スープ濃度、野菜炒め、油、にんにく、バター等の差が大きい。",
+    "allergenNote": "小麦・大豆を含むことが多い。卵、豚・鶏、魚介、乳、ごま等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-ramen-dictionary",
+      "src-standard-maff-hokkaido-ramen",
+      "src-standard-chinese-noodle"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-001",
+      "jp-032",
+      "jp-085",
+      "jp-094",
+      "jp-111"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-tori-paitan",
+      "jp-style-udon-curry"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-shoyu",
+      "jp-style-udon-curry",
+      "jp-yakisoba-hiruzen",
+      "jp-other-tsuyama-horumon-udon",
+      "jp-style-ramen-tori-paitan",
+      "jp-other-sayo-horumon-yakiudon"
+    ],
+    "bridgeIds": [
+      "world-027",
+      "world-023",
+      "world-017"
+    ],
+    "searchText": "味噌ラーメン 日本 miso fermented rich vegetables_common soup warming 味噌 みそラーメン 札幌味噌 定番ラーメン"
+  },
+  {
+    "id": "jp-style-ramen-tonkotsu",
+    "slug": "ramen-tonkotsu",
+    "name": "豚骨ラーメン",
+    "localName": null,
+    "aliases": [
+      "とんこつラーメン"
+    ],
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番ラーメン",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩",
+        "卵（製品による）"
+      ],
+      "shape": "細い直麺が代表的だが、中太麺を用いる地域・店もある",
+      "notes": [
+        "細い直麺が代表的だが、中太麺を用いる地域・店もある"
+      ],
+      "thickness": 1.6,
+      "width": 1.5,
+      "firmness": 4.2,
+      "elasticity": 2.6,
+      "chewiness": 2.8,
+      "smoothness": 3.5
+    },
+    "broth": {
+      "bases": [
+        "豚骨"
+      ],
+      "seasonings": [
+        "塩だれまたは醤油だれ"
+      ],
+      "aromatics": [],
+      "clarity": "opaque"
+    },
+    "ingredients": [
+      "チャーシュー",
+      "ねぎ",
+      "きくらげ",
+      "紅しょうが",
+      "ごま等"
+    ],
+    "tags": [
+      "pork_bone",
+      "white_broth",
+      "emulsified",
+      "rich",
+      "animal_forward",
+      "thin_noodle_common"
+    ],
+    "keywords": [
+      "豚骨",
+      "とんこつ",
+      "白濁",
+      "九州ラーメン",
+      "定番ラーメン"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 4.5,
+        "min": 3.4,
+        "max": 5
+      },
+      "oiliness": {
+        "typical": 4,
+        "min": 2.9,
+        "max": 5
+      },
+      "saltiness": {
+        "typical": 3.1,
+        "min": 2,
+        "max": 4.2
+      },
+      "sweetness": {
+        "typical": 1.4,
+        "min": 0.6,
+        "max": 2.2
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "umami": {
+        "typical": 4.4,
+        "min": 3.6,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 4.9,
+        "min": 4.1,
+        "max": 5
+      },
+      "seafoodIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "fermentation": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "roastedAroma": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.6
+      },
+      "garlicIntensity": {
+        "typical": 1.5,
+        "min": 0.4,
+        "max": 2.6
+      },
+      "dashiIntensity": {
+        "typical": 1,
+        "min": 0.2,
+        "max": 1.8
+      },
+      "sauceIntensity": {
+        "typical": 2.9,
+        "min": 2.1,
+        "max": 3.7
+      },
+      "noodleAroma": {
+        "typical": 2.2,
+        "min": 1.4,
+        "max": 3
+      }
+    },
+    "culture": {
+      "summary": "豚骨を長時間炊き、脂肪やゼラチン質を乳化させた白濁スープを軸にするラーメン。強い豚のうま味と細麺の組み合わせが代表的。",
+      "background": "久留米を発祥地とする説明が広く知られ、九州各地で独自に発達した。現在は全国で濃度・香り・たれ・麺の異なる多様な豚骨ラーメンが提供される。",
+      "tradition": 4.8,
+      "uniqueness": 3.8,
+      "adventure": 2
+    },
+    "variation": "呼び戻し・取り切り、炊き時間、乳化、骨の部位、香り、塩・醤油だれ、麺の太さで大きく変わる。",
+    "allergenNote": "小麦・豚肉を含む。大豆、卵、ごま、魚介、乳等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-ramen-dictionary",
+      "src-standard-kurume-tonkotsu",
+      "src-standard-chinese-noodle"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-128",
+      "jp-162",
+      "jp-165"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-tori-paitan",
+      "jp-style-ramen-tsukemen"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-tori-paitan",
+      "jp-163",
+      "jp-162",
+      "jp-165",
+      "jp-045",
+      "jp-128"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ],
+    "searchText": "豚骨ラーメン とんこつラーメン 日本 pork_bone white_broth emulsified rich animal_forward thin_noodle_common 豚骨 とんこつ 白濁 九州ラーメン 定番ラーメン"
+  },
+  {
+    "id": "jp-style-ramen-tori-paitan",
+    "slug": "ramen-tori-paitan",
+    "name": "鶏白湯ラーメン",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番ラーメン",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩",
+        "卵（製品による）"
+      ],
+      "shape": "中細から中太の中華麺が多い",
+      "notes": [
+        "中細から中太の中華麺が多い"
+      ],
+      "thickness": 3,
+      "width": 2.8,
+      "firmness": 3.2,
+      "elasticity": 3.3,
+      "chewiness": 3.4,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "鶏ガラ",
+        "丸鶏",
+        "鶏皮・もみじ等",
+        "野菜・魚介（店による）"
+      ],
+      "seasonings": [
+        "塩だれまたは醤油だれ"
+      ],
+      "aromatics": [],
+      "clarity": "opaque"
+    },
+    "ingredients": [
+      "鶏チャーシュー",
+      "ねぎ",
+      "玉ねぎ",
+      "水菜",
+      "メンマ等"
+    ],
+    "tags": [
+      "chicken_paitan",
+      "white_broth",
+      "emulsified",
+      "creamy",
+      "animal_forward",
+      "rich"
+    ],
+    "keywords": [
+      "鶏白湯",
+      "とりぱいたん",
+      "白湯",
+      "鶏そば",
+      "定番ラーメン"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 4.2,
+        "min": 3,
+        "max": 5
+      },
+      "oiliness": {
+        "typical": 3.6,
+        "min": 2.4,
+        "max": 4.8
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.1,
+        "max": 3.9
+      },
+      "sweetness": {
+        "typical": 1.6,
+        "min": 0.7,
+        "max": 2.5
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "umami": {
+        "typical": 4.4,
+        "min": 3.5,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 4.6,
+        "min": 3.7,
+        "max": 5
+      },
+      "seafoodIntensity": {
+        "typical": 1,
+        "min": 0,
+        "max": 2.2
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "roastedAroma": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.7
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.7
+      },
+      "dashiIntensity": {
+        "typical": 1.8,
+        "min": 0.6,
+        "max": 3
+      },
+      "sauceIntensity": {
+        "typical": 3,
+        "min": 2.1,
+        "max": 3.9
+      },
+      "noodleAroma": {
+        "typical": 2.5,
+        "min": 1.6,
+        "max": 3.4
+      }
+    },
+    "culture": {
+      "summary": "鶏を長時間炊き、脂肪とゼラチン質を乳化させた白濁スープを使うラーメン。クリーミーな口当たりと凝縮した鶏のうま味が特徴。",
+      "background": "中華料理の白湯技法を基盤に、鶏を主体とした濃厚ラーメンとして広がった。塩・醤油・味噌、野菜ポタージュ、魚介との組み合わせもある。",
+      "tradition": 3.8,
+      "uniqueness": 3.6,
+      "adventure": 2
+    },
+    "variation": "鶏の部位、乳化度、粘度、野菜・魚介、たれ、香味油により、軽い泡系から非常に濃厚なタイプまで幅がある。",
+    "allergenNote": "小麦・鶏肉を含む。卵、大豆、魚介、乳、ごま等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-ramen-dictionary",
+      "src-standard-ryus-tori-paitan",
+      "src-standard-kofu-tori-paitan"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-048"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-shio",
+      "jp-style-ramen-tonkotsu"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-tonkotsu",
+      "jp-other-sayo-horumon-yakiudon",
+      "jp-048",
+      "jp-045",
+      "jp-128",
+      "jp-168"
+    ],
+    "bridgeIds": [
+      "world-004",
+      "world-022",
+      "world-029"
+    ],
+    "searchText": "鶏白湯ラーメン 日本 chicken_paitan white_broth emulsified creamy animal_forward rich 鶏白湯 とりぱいたん 白湯 鶏そば 定番ラーメン"
+  },
+  {
+    "id": "jp-style-ramen-niboshi",
+    "slug": "ramen-niboshi",
+    "name": "煮干しラーメン",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番ラーメン",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩",
+        "卵（製品による）"
+      ],
+      "shape": "細麺から太麺まで幅広い中華麺",
+      "notes": [
+        "細麺から太麺まで幅広い中華麺"
+      ],
+      "thickness": 2.8,
+      "width": 2.5,
+      "firmness": 3.4,
+      "elasticity": 3.1,
+      "chewiness": 3.2,
+      "smoothness": 3.1
+    },
+    "broth": {
+      "bases": [
+        "いわし煮干し",
+        "焼き干し",
+        "あじ・あご等の干物",
+        "動物系（店による）"
+      ],
+      "seasonings": [
+        "醤油だれ",
+        "塩だれ",
+        "味噌だれ（店による）"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "チャーシュー",
+      "ねぎ",
+      "メンマ",
+      "のり",
+      "煮干し粉等"
+    ],
+    "tags": [
+      "niboshi",
+      "dried_fish",
+      "seafood_forward",
+      "dashi_forward",
+      "soup",
+      "broad_variation"
+    ],
+    "keywords": [
+      "煮干し",
+      "にぼし",
+      "焼き干し",
+      "魚介ラーメン",
+      "定番ラーメン"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.9,
+        "min": 1.5,
+        "max": 4.3
+      },
+      "oiliness": {
+        "typical": 1.7,
+        "min": 0.3,
+        "max": 3.1
+      },
+      "saltiness": {
+        "typical": 3.2,
+        "min": 2.3,
+        "max": 4.1
+      },
+      "sweetness": {
+        "typical": 1.1,
+        "min": 0.2,
+        "max": 2
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "umami": {
+        "typical": 4.5,
+        "min": 3.6,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 1.4,
+        "min": 0,
+        "max": 2.8
+      },
+      "seafoodIntensity": {
+        "typical": 4.8,
+        "min": 3.4,
+        "max": 5
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.7,
+        "min": 0,
+        "max": 1.6
+      },
+      "roastedAroma": {
+        "typical": 1.6,
+        "min": 0.2,
+        "max": 3
+      },
+      "garlicIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.3
+      },
+      "dashiIntensity": {
+        "typical": 4.7,
+        "min": 3.8,
+        "max": 5
+      },
+      "sauceIntensity": {
+        "typical": 3.2,
+        "min": 2.3,
+        "max": 4.1
+      },
+      "noodleAroma": {
+        "typical": 2.8,
+        "min": 1.9,
+        "max": 3.7
+      }
+    },
+    "culture": {
+      "summary": "煮干し・焼き干しをだしの主役にするラーメン。穏やかな和風だしから、苦味や香りまで前面に出す濃厚タイプまで幅がある。",
+      "background": "煮干しはラーメンスープで広く用いられてきた魚介素材で、津軽などでは地域文化として強く発達した。",
+      "tradition": 4.4,
+      "uniqueness": 3.8,
+      "adventure": 2.5
+    },
+    "variation": "魚種、使用量、頭・内臓処理、抽出温度、動物系との混合、たれにより魚介感・苦味・濃厚さが大きく変わる。",
+    "allergenNote": "小麦・魚を含む。大豆、卵、豚・鶏、乳等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-ramen-dictionary",
+      "src-standard-aomori-niboshi",
+      "src-standard-chinese-noodle"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-016"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-tsukemen"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-shio",
+      "jp-udon-shippoku",
+      "jp-style-ramen-shoyu",
+      "jp-style-soba-kake",
+      "jp-style-ramen-tsukemen-kombu-water",
+      "jp-style-udon-kake"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-003",
+      "world-009"
+    ],
+    "searchText": "煮干しラーメン 日本 niboshi dried_fish seafood_forward dashi_forward soup broad_variation 煮干し にぼし 焼き干し 魚介ラーメン 定番ラーメン"
+  },
+  {
+    "id": "jp-style-ramen-tsukemen",
+    "slug": "ramen-tsukemen",
+    "name": "つけ麺",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "dipping",
+    "formLabel": "つけ麺",
+    "categoryLabel": "定番ラーメン",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩",
+        "卵（製品による）"
+      ],
+      "shape": "中太から極太、もちもち・強いコシを重視した中華麺が多い",
+      "notes": [
+        "中太から極太、もちもち・強いコシを重視した中華麺が多い"
+      ],
+      "thickness": 4.5,
+      "width": 3.8,
+      "firmness": 4.3,
+      "elasticity": 4.2,
+      "chewiness": 4.6,
+      "smoothness": 3.3
+    },
+    "broth": {
+      "bases": [
+        "鶏",
+        "豚",
+        "魚介",
+        "野菜等"
+      ],
+      "seasonings": [
+        "醤油だれ",
+        "塩だれ",
+        "味噌だれ",
+        "酢・砂糖・唐辛子等（店による）"
+      ],
+      "aromatics": [],
+      "clarity": "opaque"
+    },
+    "ingredients": [
+      "チャーシュー",
+      "メンマ",
+      "ねぎ",
+      "魚粉",
+      "のり等"
+    ],
+    "tags": [
+      "dipping",
+      "separate_soup",
+      "thick_noodle_common",
+      "strong_tare",
+      "cold_noodle_common",
+      "noodle_forward"
+    ],
+    "keywords": [
+      "つけ麺",
+      "つけめん",
+      "特製もりそば",
+      "濃厚つけだれ",
+      "定番ラーメン"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 4,
+        "min": 2.7,
+        "max": 5
+      },
+      "oiliness": {
+        "typical": 3,
+        "min": 1.7,
+        "max": 4.3
+      },
+      "saltiness": {
+        "typical": 4,
+        "min": 3.1,
+        "max": 4.9
+      },
+      "sweetness": {
+        "typical": 2.2,
+        "min": 1.3,
+        "max": 3.1
+      },
+      "sourness": {
+        "typical": 1.2,
+        "min": 0,
+        "max": 2.5
+      },
+      "heat": {
+        "typical": 0.6,
+        "min": 0,
+        "max": 1.9
+      },
+      "umami": {
+        "typical": 4.5,
+        "min": 3.6,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 3.1,
+        "min": 1.8,
+        "max": 4.4
+      },
+      "seafoodIntensity": {
+        "typical": 3.1,
+        "min": 1.8,
+        "max": 4.4
+      },
+      "spiceIntensity": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.7
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.7
+      },
+      "roastedAroma": {
+        "typical": 1.5,
+        "min": 0.6,
+        "max": 2.4
+      },
+      "garlicIntensity": {
+        "typical": 1,
+        "min": 0.1,
+        "max": 1.9
+      },
+      "dashiIntensity": {
+        "typical": 3.4,
+        "min": 2.5,
+        "max": 4.3
+      },
+      "sauceIntensity": {
+        "typical": 4.6,
+        "min": 3.7,
+        "max": 5
+      },
+      "noodleAroma": {
+        "typical": 4,
+        "min": 3.1,
+        "max": 4.9
+      }
+    },
+    "culture": {
+      "summary": "ゆでた中華麺と濃いめのつけ汁を別々に供し、麺をつけて食べるスタイル。冷水で締めた太麺と、酸味・甘味・辛味を含む強いつけ汁が代表的。",
+      "background": "特製もりそばなどを源流に発達し、現代では極太麺、濃厚な動物魚介、魚粉を使うタイプを含め独立した一大様式となった。",
+      "tradition": 3.9,
+      "uniqueness": 4.2,
+      "adventure": 1.8
+    },
+    "variation": "麺の温冷、太さ、つけ汁の濃度、酸味・甘味・辛味、動物魚介、清湯・白湯、スープ割りまで幅が大きい。",
+    "allergenNote": "小麦を含む。大豆、卵、豚・鶏、魚介、ごま、乳等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-ramen-dictionary",
+      "src-standard-ganja-tsukemen",
+      "src-standard-ganja-history"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-072",
+      "jp-147"
+    ],
+    "derivedStyleIds": [
+      "jp-style-ramen-tsukemen-rich-pork-seafood",
+      "jp-style-ramen-tsukemen-kombu-water"
+    ],
+    "relatedStyleIds": [
+      "jp-style-ramen-aburasoba-mazesoba",
+      "jp-style-ramen-niboshi"
+    ],
+    "relatedIds": [
+      "jp-style-ramen-tsukemen-rich-pork-seafood",
+      "jp-style-ramen-tsukemen-kombu-water",
+      "jp-style-ramen-aburasoba-mazesoba",
+      "jp-udon-musashino",
+      "jp-soba-tsumetai-niku",
+      "jp-udon-mizusawa"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-021",
+      "world-003"
+    ],
+    "searchText": "つけ麺 日本 dipping separate_soup thick_noodle_common strong_tare cold_noodle_common noodle_forward つけめん 特製もりそば 濃厚つけだれ 定番ラーメン"
+  },
+  {
+    "id": "jp-style-ramen-aburasoba-mazesoba",
+    "slug": "ramen-aburasoba-mazesoba",
+    "name": "油そば・まぜそば",
+    "localName": null,
+    "aliases": [
+      "油そば",
+      "まぜそば",
+      "汁なしラーメン"
+    ],
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "sauce",
+    "formLabel": "たれ・つゆだく",
+    "categoryLabel": "定番ラーメン",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩",
+        "卵（製品による）"
+      ],
+      "shape": "中太から極太の中華麺が多い",
+      "notes": [
+        "中太から極太の中華麺が多い"
+      ],
+      "thickness": 4,
+      "width": 3.3,
+      "firmness": 4,
+      "elasticity": 4,
+      "chewiness": 4.4,
+      "smoothness": 3
+    },
+    "broth": {
+      "bases": [
+        "少量のスープ・だしを使う場合がある"
+      ],
+      "seasonings": [
+        "醤油だれ",
+        "香味油",
+        "酢",
+        "辣油",
+        "肉味噌等（店による）"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "チャーシューまたはひき肉",
+      "ねぎ",
+      "のり",
+      "メンマ",
+      "卵黄",
+      "にんにく等"
+    ],
+    "tags": [
+      "brothless",
+      "mixed_noodle",
+      "oil_tare",
+      "strong_sauce",
+      "thick_noodle_common",
+      "customizable"
+    ],
+    "keywords": [
+      "油そば",
+      "まぜそば",
+      "汁なし",
+      "台湾まぜそば",
+      "定番ラーメン"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.8,
+        "min": 2.8,
+        "max": 4.8
+      },
+      "oiliness": {
+        "typical": 4.3,
+        "min": 2.8,
+        "max": 5
+      },
+      "saltiness": {
+        "typical": 3.8,
+        "min": 2.8,
+        "max": 4.8
+      },
+      "sweetness": {
+        "typical": 1.8,
+        "min": 0.8,
+        "max": 2.8
+      },
+      "sourness": {
+        "typical": 1,
+        "min": 0,
+        "max": 2
+      },
+      "heat": {
+        "typical": 1.2,
+        "min": 0,
+        "max": 2.7
+      },
+      "umami": {
+        "typical": 4.1,
+        "min": 3.1,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 2.2,
+        "min": 0.7,
+        "max": 3.7
+      },
+      "seafoodIntensity": {
+        "typical": 1.5,
+        "min": 0,
+        "max": 3
+      },
+      "spiceIntensity": {
+        "typical": 1.5,
+        "min": 0.5,
+        "max": 2.5
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.3
+      },
+      "fermentation": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.8
+      },
+      "roastedAroma": {
+        "typical": 2.8,
+        "min": 1.8,
+        "max": 3.8
+      },
+      "garlicIntensity": {
+        "typical": 2.4,
+        "min": 0.9,
+        "max": 3.9
+      },
+      "dashiIntensity": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.8
+      },
+      "sauceIntensity": {
+        "typical": 4.6,
+        "min": 3.6,
+        "max": 5
+      },
+      "noodleAroma": {
+        "typical": 3.8,
+        "min": 2.8,
+        "max": 4.8
+      }
+    },
+    "culture": {
+      "summary": "丼の底のたれと香味油を麺へ絡めて食べる、スープをほとんど持たない中華麺スタイル。油そばから肉味噌・香辛料を強く使うまぜそばまで含む。",
+      "background": "油そばとして発達した汁なし麺の系譜に、台湾まぜそばなど具材・辛味・にんにくを強めた派生が加わり、定番化した。",
+      "tradition": 3.6,
+      "uniqueness": 4.1,
+      "adventure": 2.2
+    },
+    "variation": "油の量、醤油だれ、酢・辣油、肉味噌、卵黄、魚粉、にんにく、辛味、追い飯など非常に幅が大きい。",
+    "allergenNote": "小麦・大豆を含むことが多い。卵、豚肉、魚介、ごま、乳、にんにく等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-ramen-dictionary",
+      "src-standard-chinese-noodle",
+      "src-standard-nagoya-taiwan-maze"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-071",
+      "jp-119"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-ramen-tsukemen",
+      "jp-style-yakisoba-sauce"
+    ],
+    "relatedIds": [
+      "jp-yakisoba-namie",
+      "jp-style-ramen-tsukemen",
+      "jp-yakisoba-fujinomiya",
+      "jp-other-kokura-yakiudon",
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-hita"
+    ],
+    "bridgeIds": [
+      "world-010",
+      "world-017",
+      "world-024"
+    ],
+    "searchText": "油そば・まぜそば 油そば まぜそば 汁なしラーメン 日本 brothless mixed_noodle oil_tare strong_sauce thick_noodle_common customizable 汁なし 台湾まぜそば 定番ラーメン"
+  },
+  {
+    "id": "jp-style-udon-kake",
+    "slug": "udon-kake",
+    "name": "かけうどん",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番うどん",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "食塩",
+        "水"
+      ],
+      "shape": "中太から太めのうどん",
+      "notes": [
+        "中太から太めのうどん"
+      ],
+      "thickness": 3.5,
+      "width": 3.2,
+      "firmness": 3.5,
+      "elasticity": 4,
+      "chewiness": 4,
+      "smoothness": 4
+    },
+    "broth": {
+      "bases": [
+        "いりこ",
+        "かつお節",
+        "昆布",
+        "さば節等"
+      ],
+      "seasonings": [
+        "醤油",
+        "塩",
+        "みりん"
+      ],
+      "aromatics": [],
+      "clarity": "clear"
+    },
+    "ingredients": [
+      "ねぎ",
+      "天かす",
+      "しょうが",
+      "かまぼこ等"
+    ],
+    "tags": [
+      "hot_soup",
+      "dashi_forward",
+      "simple",
+      "classic",
+      "udon"
+    ],
+    "keywords": [
+      "かけうどん",
+      "温うどん",
+      "だし",
+      "定番うどん"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 1.9,
+        "min": 1,
+        "max": 2.8
+      },
+      "oiliness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "saltiness": {
+        "typical": 2.7,
+        "min": 1.8,
+        "max": 3.6
+      },
+      "sweetness": {
+        "typical": 1.4,
+        "min": 0.5,
+        "max": 2.3
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "umami": {
+        "typical": 3.7,
+        "min": 2.8,
+        "max": 4.6
+      },
+      "animalIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "seafoodIntensity": {
+        "typical": 2.7,
+        "min": 1.8,
+        "max": 3.6
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "roastedAroma": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.3
+      },
+      "garlicIntensity": {
+        "typical": 0.1,
+        "min": 0,
+        "max": 1
+      },
+      "dashiIntensity": {
+        "typical": 4.2,
+        "min": 3.3,
+        "max": 5
+      },
+      "sauceIntensity": {
+        "typical": 2.2,
+        "min": 1.3,
+        "max": 3.1
+      },
+      "noodleAroma": {
+        "typical": 3,
+        "min": 2.1,
+        "max": 3.9
+      }
+    },
+    "culture": {
+      "summary": "ゆでたうどんへ温かいだしつゆをたっぷりかける、最も基本的なうどんスタイルの一つ。",
+      "background": "地域ごとにいりこ、かつお、昆布、醤油の組み合わせが異なり、麺とだしの違いを素直に比べやすい。",
+      "tradition": 5,
+      "uniqueness": 2,
+      "adventure": 0.8
+    },
+    "variation": "麺の太さ・硬さ、つゆの色・甘さ・塩味、だし、薬味、温度は地域・店で大きく異なる。",
+    "allergenNote": "小麦・大豆・魚介を含むことが多い。卵、練り物、ごま等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-udon-general",
+      "src-standard-kagawa-mainmenu"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-other-hoto",
+      "jp-other-kishimen",
+      "jp-udon-hakata",
+      "jp-udon-himi",
+      "jp-udon-himokawa",
+      "jp-udon-inaniwa",
+      "jp-udon-ise",
+      "jp-udon-kazo",
+      "jp-udon-mimi",
+      "jp-udon-naruchuru",
+      "jp-udon-okkirikomi",
+      "jp-udon-saiki-gomadashi",
+      "jp-udon-sanuki",
+      "jp-udon-shippoku",
+      "jp-udon-yoshida"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-udon-bukkake",
+      "jp-style-udon-kamaage",
+      "jp-style-udon-zaru"
+    ],
+    "relatedIds": [
+      "jp-style-soba-kake",
+      "jp-udon-shippoku",
+      "jp-udon-sanuki",
+      "jp-udon-kazo",
+      "jp-style-ramen-tsukemen-kombu-water",
+      "jp-udon-mizusawa"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ],
+    "searchText": "かけうどん 日本 hot_soup dashi_forward simple classic udon 温うどん だし 定番うどん"
+  },
+  {
+    "id": "jp-style-udon-bukkake",
+    "slug": "udon-bukkake",
+    "name": "ぶっかけうどん",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "sauce",
+    "formLabel": "たれ・つゆだく",
+    "categoryLabel": "定番うどん",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "食塩",
+        "水"
+      ],
+      "shape": "中太から太め、冷水で締めて強いコシを出すことが多い",
+      "notes": [
+        "中太から太め、冷水で締めて強いコシを出すことが多い"
+      ],
+      "thickness": 3.6,
+      "width": 3.2,
+      "firmness": 4.3,
+      "elasticity": 4.4,
+      "chewiness": 4.3,
+      "smoothness": 3.8
+    },
+    "broth": {
+      "bases": [
+        "濃いめのだし"
+      ],
+      "seasonings": [
+        "醤油",
+        "みりん",
+        "塩"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "ねぎ",
+      "大根おろし",
+      "しょうが",
+      "すだち・レモン",
+      "天かす等"
+    ],
+    "tags": [
+      "concentrated_dashi",
+      "poured_sauce",
+      "cold_or_hot",
+      "firm_noodle",
+      "mixed"
+    ],
+    "keywords": [
+      "ぶっかけうどん",
+      "濃いだし",
+      "大根おろし",
+      "定番うどん"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.1,
+        "min": 1.2,
+        "max": 3
+      },
+      "oiliness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "saltiness": {
+        "typical": 3.3,
+        "min": 2.4,
+        "max": 4.2
+      },
+      "sweetness": {
+        "typical": 1.8,
+        "min": 0.9,
+        "max": 2.7
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "umami": {
+        "typical": 3.6,
+        "min": 2.7,
+        "max": 4.5
+      },
+      "animalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.3
+      },
+      "seafoodIntensity": {
+        "typical": 2.5,
+        "min": 1.6,
+        "max": 3.4
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.6,
+        "min": 0,
+        "max": 1.5
+      },
+      "roastedAroma": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "garlicIntensity": {
+        "typical": 0.1,
+        "min": 0,
+        "max": 1
+      },
+      "dashiIntensity": {
+        "typical": 3.3,
+        "min": 2.4,
+        "max": 4.2
+      },
+      "sauceIntensity": {
+        "typical": 3.9,
+        "min": 3,
+        "max": 4.8
+      },
+      "noodleAroma": {
+        "typical": 3.5,
+        "min": 2.6,
+        "max": 4.4
+      }
+    },
+    "culture": {
+      "summary": "冷水で締めた麺などへ、濃いめのつけだしを直接かけ、薬味と混ぜて食べるうどん。温かい形もある。",
+      "background": "つけ汁を別添えにするざるうどんとは異なり、少量の濃いだしを麺へ直接かける提供形式として定着した。",
+      "tradition": 4.4,
+      "uniqueness": 3,
+      "adventure": 1
+    },
+    "variation": "温冷、だしの濃さ、醤油、甘さ、大根おろし、柑橘、天ぷら等の具は店で異なる。",
+    "allergenNote": "小麦・大豆・魚介を含むことが多い。天ぷら、卵、ごま等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-udon-general",
+      "src-standard-kagawa-mainmenu",
+      "src-standard-bukkake-recipe"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-udon-sanuki"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-udon-kake",
+      "jp-style-udon-zaru",
+      "jp-style-soba-mori-zaru"
+    ],
+    "relatedIds": [
+      "jp-udon-kazo",
+      "jp-style-udon-zaru",
+      "jp-udon-mizusawa",
+      "jp-udon-himi",
+      "jp-soba-hegi",
+      "jp-soba-jindaiji"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-010",
+      "world-021"
+    ],
+    "searchText": "ぶっかけうどん 日本 concentrated_dashi poured_sauce cold_or_hot firm_noodle mixed 濃いだし 大根おろし 定番うどん"
+  },
+  {
+    "id": "jp-style-udon-kamaage",
+    "slug": "udon-kamaage",
+    "name": "釜揚げうどん",
+    "localName": null,
+    "aliases": [
+      "釜あげうどん"
+    ],
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "dipping",
+    "formLabel": "つけ麺",
+    "categoryLabel": "定番うどん",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "食塩",
+        "水"
+      ],
+      "shape": "ゆで上げ後に水で締めない、ふんわりしたうどん",
+      "notes": [
+        "ゆで上げ後に水で締めない、ふんわりしたうどん"
+      ],
+      "thickness": 3.5,
+      "width": 3.2,
+      "firmness": 2.5,
+      "elasticity": 3.6,
+      "chewiness": 3.5,
+      "smoothness": 4.1
+    },
+    "broth": {
+      "bases": [
+        "つけだし"
+      ],
+      "seasonings": [
+        "醤油",
+        "みりん",
+        "塩"
+      ],
+      "aromatics": [],
+      "clarity": "clear"
+    },
+    "ingredients": [
+      "ねぎ",
+      "しょうが",
+      "ごま等"
+    ],
+    "tags": [
+      "hot_noodle_water",
+      "not_rinsed",
+      "dipping",
+      "soft",
+      "wheat_aroma"
+    ],
+    "keywords": [
+      "釜揚げうどん",
+      "釜あげ",
+      "ゆで湯",
+      "つけだし",
+      "定番うどん"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 1.7,
+        "min": 0.9,
+        "max": 2.5
+      },
+      "oiliness": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "saltiness": {
+        "typical": 2.8,
+        "min": 2,
+        "max": 3.6
+      },
+      "sweetness": {
+        "typical": 1.5,
+        "min": 0.7,
+        "max": 2.3
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "umami": {
+        "typical": 3.1,
+        "min": 2.3,
+        "max": 3.9
+      },
+      "animalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "seafoodIntensity": {
+        "typical": 2.2,
+        "min": 1.4,
+        "max": 3
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "fermentation": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "roastedAroma": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "garlicIntensity": {
+        "typical": 0.1,
+        "min": 0,
+        "max": 0.9
+      },
+      "dashiIntensity": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sauceIntensity": {
+        "typical": 3.3,
+        "min": 2.5,
+        "max": 4.1
+      },
+      "noodleAroma": {
+        "typical": 4,
+        "min": 3.2,
+        "max": 4.8
+      }
+    },
+    "culture": {
+      "summary": "ゆで上がったうどんを水で締めず、ゆで湯とともに器へ移し、温かいつけだしで食べるスタイル。",
+      "background": "冷水で締めないため、表面がやわらかく、ゆでたての小麦の香りとふんわりした食感を味わいやすい。",
+      "tradition": 4.8,
+      "uniqueness": 3.4,
+      "adventure": 0.9
+    },
+    "variation": "麺の太さ、ゆで加減、ゆで湯量、つけだしの甘さとだし、薬味は店で異なる。",
+    "allergenNote": "小麦・大豆・魚介を含むことが多い。ごま等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-udon-general",
+      "src-standard-kagawa-mainmenu"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-udon-goto",
+      "jp-udon-hippari",
+      "jp-udon-miyazaki-kamaage",
+      "jp-udon-sanuki"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-udon-kake",
+      "jp-style-udon-zaru"
+    ],
+    "relatedIds": [
+      "jp-udon-miyazaki-kamaage",
+      "jp-style-soba-mori-zaru",
+      "jp-soba-jindaiji",
+      "jp-style-udon-zaru",
+      "jp-udon-mizusawa",
+      "jp-soba-izushi"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-010"
+    ],
+    "searchText": "釜揚げうどん 釜あげうどん 日本 hot_noodle_water not_rinsed dipping soft wheat_aroma 釜あげ ゆで湯 つけだし 定番うどん"
+  },
+  {
+    "id": "jp-style-udon-zaru",
+    "slug": "udon-zaru",
+    "name": "ざるうどん",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "dipping",
+    "formLabel": "つけ麺",
+    "categoryLabel": "定番うどん",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "食塩",
+        "水"
+      ],
+      "shape": "ゆで後に冷水で締め、ざる等へ盛るうどん",
+      "notes": [
+        "ゆで後に冷水で締め、ざる等へ盛るうどん"
+      ],
+      "thickness": 3.5,
+      "width": 3.2,
+      "firmness": 4.5,
+      "elasticity": 4.3,
+      "chewiness": 4.2,
+      "smoothness": 4.4
+    },
+    "broth": {
+      "bases": [
+        "濃いめのつけだし"
+      ],
+      "seasonings": [
+        "醤油",
+        "みりん",
+        "塩"
+      ],
+      "aromatics": [],
+      "clarity": "clear"
+    },
+    "ingredients": [
+      "ねぎ",
+      "しょうが",
+      "ごま",
+      "のり等"
+    ],
+    "tags": [
+      "cold",
+      "rinsed",
+      "dipping",
+      "firm_noodle",
+      "smooth"
+    ],
+    "keywords": [
+      "ざるうどん",
+      "冷たいうどん",
+      "つけ汁",
+      "定番うどん"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 1.5,
+        "min": 0.7,
+        "max": 2.3
+      },
+      "oiliness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "saltiness": {
+        "typical": 3.1,
+        "min": 2.3,
+        "max": 3.9
+      },
+      "sweetness": {
+        "typical": 1.6,
+        "min": 0.8,
+        "max": 2.4
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "umami": {
+        "typical": 3.2,
+        "min": 2.4,
+        "max": 4
+      },
+      "animalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "seafoodIntensity": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "fermentation": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "roastedAroma": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "garlicIntensity": {
+        "typical": 0.1,
+        "min": 0,
+        "max": 0.9
+      },
+      "dashiIntensity": {
+        "typical": 3.1,
+        "min": 2.3,
+        "max": 3.9
+      },
+      "sauceIntensity": {
+        "typical": 3.6,
+        "min": 2.8,
+        "max": 4.4
+      },
+      "noodleAroma": {
+        "typical": 4,
+        "min": 3.2,
+        "max": 4.8
+      }
+    },
+    "culture": {
+      "summary": "ゆでたうどんを冷水で締め、ざるなどへ盛り、別添えの濃いめのつゆにつけて食べるスタイル。",
+      "background": "冷水で締めることで、コシ、弾力、なめらかさを直接楽しみやすい。薬味はねぎ、しょうが、ごま等が一般的。",
+      "tradition": 4.8,
+      "uniqueness": 2.8,
+      "adventure": 0.8
+    },
+    "variation": "麺の硬さ・太さ、つけだしの甘さ、のり、薬味、天ぷら等は店で異なる。",
+    "allergenNote": "小麦・大豆・魚介を含むことが多い。ごま、のり、天ぷら等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-udon-general",
+      "src-standard-kagawa-mainmenu"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-other-kishimen",
+      "jp-udon-goto",
+      "jp-udon-himi",
+      "jp-udon-himokawa",
+      "jp-udon-inaniwa",
+      "jp-udon-kazo",
+      "jp-udon-mizusawa",
+      "jp-udon-musashino",
+      "jp-udon-sanuki"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-udon-bukkake",
+      "jp-style-udon-kamaage",
+      "jp-style-soba-mori-zaru"
+    ],
+    "relatedIds": [
+      "jp-udon-mizusawa",
+      "jp-style-soba-mori-zaru",
+      "jp-style-udon-bukkake",
+      "jp-udon-kazo",
+      "jp-soba-hegi",
+      "jp-udon-himi"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-010",
+      "world-024"
+    ],
+    "searchText": "ざるうどん 日本 cold rinsed dipping firm_noodle smooth 冷たいうどん つけ汁 定番うどん"
+  },
+  {
+    "id": "jp-style-udon-curry",
+    "slug": "udon-curry",
+    "name": "カレーうどん",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番うどん",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "食塩",
+        "水"
+      ],
+      "shape": "中太から太めのうどん",
+      "notes": [
+        "中太から太めのうどん"
+      ],
+      "thickness": 3.7,
+      "width": 3.3,
+      "firmness": 3.5,
+      "elasticity": 3.8,
+      "chewiness": 4,
+      "smoothness": 3.3
+    },
+    "broth": {
+      "bases": [
+        "和風だし",
+        "肉・野菜のうま味"
+      ],
+      "seasonings": [
+        "カレー粉・カレールウ",
+        "醤油",
+        "みりん",
+        "塩"
+      ],
+      "aromatics": [],
+      "clarity": "opaque"
+    },
+    "ingredients": [
+      "豚肉・牛肉・鶏肉",
+      "玉ねぎ",
+      "ねぎ",
+      "油揚げ等"
+    ],
+    "tags": [
+      "curry",
+      "spiced",
+      "dashi_curry",
+      "thick_soup",
+      "warming",
+      "rich"
+    ],
+    "keywords": [
+      "カレーうどん",
+      "カレー南蛮",
+      "和風カレー",
+      "定番うどん"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 4,
+        "min": 2.7,
+        "max": 5
+      },
+      "oiliness": {
+        "typical": 2.8,
+        "min": 1.5,
+        "max": 4.1
+      },
+      "saltiness": {
+        "typical": 3.3,
+        "min": 2.4,
+        "max": 4.2
+      },
+      "sweetness": {
+        "typical": 2,
+        "min": 0.7,
+        "max": 3.3
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "heat": {
+        "typical": 1.9,
+        "min": 0.6,
+        "max": 3.2
+      },
+      "umami": {
+        "typical": 4.1,
+        "min": 3.2,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 1.9,
+        "min": 0.6,
+        "max": 3.2
+      },
+      "seafoodIntensity": {
+        "typical": 1.4,
+        "min": 0.5,
+        "max": 2.3
+      },
+      "spiceIntensity": {
+        "typical": 4.5,
+        "min": 3.2,
+        "max": 5
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.7
+      },
+      "roastedAroma": {
+        "typical": 2.2,
+        "min": 1.3,
+        "max": 3.1
+      },
+      "garlicIntensity": {
+        "typical": 1.2,
+        "min": 0.3,
+        "max": 2.1
+      },
+      "dashiIntensity": {
+        "typical": 3.5,
+        "min": 2.6,
+        "max": 4.4
+      },
+      "sauceIntensity": {
+        "typical": 4.2,
+        "min": 3.3,
+        "max": 5
+      },
+      "noodleAroma": {
+        "typical": 2.5,
+        "min": 1.6,
+        "max": 3.4
+      }
+    },
+    "culture": {
+      "summary": "和風だしとカレーを合わせ、とろみのある汁へうどんを入れる定番スタイル。肉、玉ねぎ、ねぎなどを使う形が多い。",
+      "background": "明治以降のカレー普及と麺文化が結び付き、そば店・うどん店で発達した。だしを感じる和風からカレーソースに近い濃厚型まで幅がある。",
+      "tradition": 4.3,
+      "uniqueness": 3.7,
+      "adventure": 1.2
+    },
+    "variation": "カレー粉・ルウ、だし、とろみ、辛さ、肉、乳製品、トマト等で味が大きく変わる。",
+    "allergenNote": "小麦・大豆を含むことが多い。肉、魚介だし、乳、卵、りんご、落花生等はルウと店舗で異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-udon-general",
+      "src-standard-curry-udon-history",
+      "src-standard-curry-udon-recipe"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-udon-toyohashi-curry"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-udon-kake",
+      "jp-style-ramen-miso"
+    ],
+    "relatedIds": [
+      "jp-udon-toyohashi-curry",
+      "jp-style-ramen-miso",
+      "jp-yakisoba-ishinomaki",
+      "jp-064",
+      "jp-other-kokura-yakiudon",
+      "jp-yakisoba-namie"
+    ],
+    "bridgeIds": [
+      "world-005",
+      "world-018",
+      "world-007"
+    ],
+    "searchText": "カレーうどん 日本 curry spiced dashi_curry thick_soup warming rich カレー南蛮 和風カレー 定番うどん"
+  },
+  {
+    "id": "jp-style-soba-kake",
+    "slug": "soba-kake",
+    "name": "かけそば",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番そば",
+    "noodle": {
+      "materials": [
+        "そば粉",
+        "小麦粉（配合は製品・店による）"
+      ],
+      "shape": "細めから中太のそば",
+      "notes": [
+        "細めから中太のそば"
+      ],
+      "thickness": 2.5,
+      "width": 2.3,
+      "firmness": 3.2,
+      "elasticity": 2.8,
+      "chewiness": 3.2,
+      "smoothness": 3.4
+    },
+    "broth": {
+      "bases": [
+        "かつお節",
+        "昆布",
+        "さば節等"
+      ],
+      "seasonings": [
+        "醤油",
+        "みりん",
+        "砂糖",
+        "塩"
+      ],
+      "aromatics": [],
+      "clarity": "clear"
+    },
+    "ingredients": [
+      "ねぎ",
+      "七味",
+      "かまぼこ等"
+    ],
+    "tags": [
+      "hot_soup",
+      "dashi_forward",
+      "classic",
+      "simple",
+      "soba"
+    ],
+    "keywords": [
+      "かけそば",
+      "温そば",
+      "そばつゆ",
+      "定番そば"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 1.9,
+        "min": 1,
+        "max": 2.8
+      },
+      "oiliness": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.3
+      },
+      "saltiness": {
+        "typical": 2.9,
+        "min": 2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.4,
+        "min": 0.5,
+        "max": 2.3
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "umami": {
+        "typical": 3.8,
+        "min": 2.9,
+        "max": 4.7
+      },
+      "animalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "seafoodIntensity": {
+        "typical": 2.7,
+        "min": 1.8,
+        "max": 3.6
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "roastedAroma": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.3
+      },
+      "garlicIntensity": {
+        "typical": 0.1,
+        "min": 0,
+        "max": 1
+      },
+      "dashiIntensity": {
+        "typical": 4.2,
+        "min": 3.3,
+        "max": 5
+      },
+      "sauceIntensity": {
+        "typical": 2.5,
+        "min": 1.6,
+        "max": 3.4
+      },
+      "noodleAroma": {
+        "typical": 3.8,
+        "min": 2.9,
+        "max": 4.7
+      }
+    },
+    "culture": {
+      "summary": "ゆでたそばへ温かいだしつゆをかける、代表的な温そばの基本スタイル。",
+      "background": "つゆにつけて食べるそばに対し、丼へ温かいつゆをかける食べ方として定着した。具を加える多くの温そばの土台になる。",
+      "tradition": 5,
+      "uniqueness": 2,
+      "adventure": 0.7
+    },
+    "variation": "そば粉比率、麺の太さ、つゆの濃さ・甘さ、だし、薬味は地域と店で異なる。",
+    "allergenNote": "そば・小麦・大豆・魚介を含むことが多い。練り物等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-soba-general",
+      "src-standard-tempura-soba"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-soba-iya",
+      "jp-soba-izumo",
+      "jp-soba-jindaiji",
+      "jp-soba-taishu",
+      "jp-soba-toji",
+      "jp-soba-tsugaru",
+      "jp-soba-tsumetai-niku"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-soba-kamo-nanban",
+      "jp-style-soba-mori-zaru",
+      "jp-style-soba-tempura"
+    ],
+    "relatedIds": [
+      "jp-style-udon-kake",
+      "jp-other-kishimen",
+      "jp-style-soba-mori-zaru",
+      "jp-udon-inaniwa",
+      "jp-udon-himokawa",
+      "jp-soba-wanko"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ],
+    "searchText": "かけそば 日本 hot_soup dashi_forward classic simple soba 温そば そばつゆ 定番そば"
+  },
+  {
+    "id": "jp-style-soba-mori-zaru",
+    "slug": "soba-mori-zaru",
+    "name": "もり・ざるそば",
+    "localName": null,
+    "aliases": [
+      "もりそば",
+      "ざるそば",
+      "せいろそば"
+    ],
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "dipping",
+    "formLabel": "つけ麺",
+    "categoryLabel": "定番そば",
+    "noodle": {
+      "materials": [
+        "そば粉",
+        "小麦粉（配合は製品・店による）"
+      ],
+      "shape": "冷水で締めた細めから中太のそば",
+      "notes": [
+        "冷水で締めた細めから中太のそば"
+      ],
+      "thickness": 2.5,
+      "width": 2.3,
+      "firmness": 3.8,
+      "elasticity": 3,
+      "chewiness": 3.5,
+      "smoothness": 3.7
+    },
+    "broth": {
+      "bases": [
+        "濃いめのそばつゆ"
+      ],
+      "seasonings": [
+        "醤油",
+        "みりん",
+        "砂糖"
+      ],
+      "aromatics": [],
+      "clarity": "clear"
+    },
+    "ingredients": [
+      "ねぎ",
+      "わさび",
+      "のり（ざるで用いる場合）"
+    ],
+    "tags": [
+      "cold",
+      "dipping",
+      "rinsed",
+      "noodle_aroma",
+      "classic",
+      "mori_zaru"
+    ],
+    "keywords": [
+      "もりそば",
+      "ざるそば",
+      "せいろ",
+      "冷たいそば",
+      "定番そば"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 1.5,
+        "min": 0.7,
+        "max": 2.3
+      },
+      "oiliness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "saltiness": {
+        "typical": 3.2,
+        "min": 2.4,
+        "max": 4
+      },
+      "sweetness": {
+        "typical": 1.7,
+        "min": 0.9,
+        "max": 2.5
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "umami": {
+        "typical": 3.3,
+        "min": 2.5,
+        "max": 4.1
+      },
+      "animalIntensity": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1
+      },
+      "seafoodIntensity": {
+        "typical": 2.5,
+        "min": 1.7,
+        "max": 3.3
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.1
+      },
+      "fermentation": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.3
+      },
+      "roastedAroma": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.2
+      },
+      "garlicIntensity": {
+        "typical": 0.1,
+        "min": 0,
+        "max": 0.9
+      },
+      "dashiIntensity": {
+        "typical": 3.3,
+        "min": 2.5,
+        "max": 4.1
+      },
+      "sauceIntensity": {
+        "typical": 3.9,
+        "min": 3.1,
+        "max": 4.7
+      },
+      "noodleAroma": {
+        "typical": 4.4,
+        "min": 3.6,
+        "max": 5
+      }
+    },
+    "culture": {
+      "summary": "冷水で締めたそばを器へ盛り、濃いめのつゆへつけて食べるスタイル。もり、ざる、せいろの区別は時代・店によって異なる。",
+      "background": "温かいつゆをかけるかけそばと区別するため、つけて食べるそばをもりそばと呼ぶようになったと説明される。現代は海苔の有無などでざると分ける例もあるが統一規則ではない。",
+      "tradition": 5,
+      "uniqueness": 2.5,
+      "adventure": 0.7
+    },
+    "variation": "のり、器、つゆの甘さ・濃さ、そば粉比率、わさび、そば湯など店ごとの差がある。",
+    "allergenNote": "そば・小麦・大豆・魚介を含むことが多い。のり、わさび等も確認が必要。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-soba-general",
+      "src-standard-mori-soba",
+      "src-standard-zaru-soba"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-other-kawara-soba",
+      "jp-soba-echizen-oroshi",
+      "jp-soba-hegi",
+      "jp-soba-ita",
+      "jp-soba-izumo",
+      "jp-soba-izushi",
+      "jp-soba-jindaiji",
+      "jp-soba-tachi",
+      "jp-soba-taishu",
+      "jp-soba-takato",
+      "jp-soba-togakushi",
+      "jp-soba-wanko"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-soba-kake",
+      "jp-style-soba-tempura",
+      "jp-style-udon-bukkake",
+      "jp-style-udon-zaru"
+    ],
+    "relatedIds": [
+      "jp-style-udon-zaru",
+      "jp-soba-togakushi",
+      "jp-soba-izushi",
+      "jp-soba-jindaiji",
+      "jp-soba-echizen-oroshi",
+      "jp-style-soba-kake"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-024",
+      "world-010"
+    ],
+    "searchText": "もり・ざるそば もりそば ざるそば せいろそば 日本 cold dipping rinsed noodle_aroma classic mori_zaru せいろ 冷たいそば 定番そば"
+  },
+  {
+    "id": "jp-style-soba-tempura",
+    "slug": "soba-tempura",
+    "name": "天ぷらそば",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番そば",
+    "noodle": {
+      "materials": [
+        "そば粉",
+        "小麦粉（配合は製品・店による）"
+      ],
+      "shape": "細めから中太のそば",
+      "notes": [
+        "細めから中太のそば"
+      ],
+      "thickness": 2.5,
+      "width": 2.3,
+      "firmness": 3.1,
+      "elasticity": 2.8,
+      "chewiness": 3.2,
+      "smoothness": 3.3
+    },
+    "broth": {
+      "bases": [
+        "かつお節",
+        "昆布",
+        "さば節等"
+      ],
+      "seasonings": [
+        "醤油",
+        "みりん",
+        "砂糖",
+        "塩"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "えび・魚・野菜等の天ぷら",
+      "ねぎ",
+      "七味"
+    ],
+    "tags": [
+      "tempura",
+      "hot_soup_common",
+      "fried_topping",
+      "dashi",
+      "rich"
+    ],
+    "keywords": [
+      "天ぷらそば",
+      "天そば",
+      "えび天",
+      "定番そば"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3,
+        "min": 1.8,
+        "max": 4.2
+      },
+      "oiliness": {
+        "typical": 3.5,
+        "min": 2.3,
+        "max": 4.7
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.1,
+        "max": 3.9
+      },
+      "sweetness": {
+        "typical": 1.5,
+        "min": 0.6,
+        "max": 2.4
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.1
+      },
+      "umami": {
+        "typical": 3.9,
+        "min": 3,
+        "max": 4.8
+      },
+      "animalIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.7
+      },
+      "seafoodIntensity": {
+        "typical": 2.9,
+        "min": 1.7,
+        "max": 4.1
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "roastedAroma": {
+        "typical": 3,
+        "min": 2.1,
+        "max": 3.9
+      },
+      "garlicIntensity": {
+        "typical": 0.1,
+        "min": 0,
+        "max": 1
+      },
+      "dashiIntensity": {
+        "typical": 4,
+        "min": 3.1,
+        "max": 4.9
+      },
+      "sauceIntensity": {
+        "typical": 2.8,
+        "min": 1.9,
+        "max": 3.7
+      },
+      "noodleAroma": {
+        "typical": 3.5,
+        "min": 2.6,
+        "max": 4.4
+      }
+    },
+    "culture": {
+      "summary": "かけそば、または冷たいそばへ天ぷらを組み合わせる定番スタイル。温かいそばにえび天をのせる形がよく知られる。",
+      "background": "だしつゆとそばに、揚げ物の油、香ばしさ、具材のうま味を加える派生として定着した。",
+      "tradition": 4.8,
+      "uniqueness": 2.8,
+      "adventure": 0.9
+    },
+    "variation": "温冷、えび・魚・野菜、衣、別添え・のせる形、つゆへの油の移り方は店で異なる。",
+    "allergenNote": "そば・小麦・大豆・魚介を含むことが多い。えび、卵、乳等は天ぷらと衣で異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-soba-general",
+      "src-standard-tempura-soba"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-soba-kake",
+      "jp-style-soba-mori-zaru"
+    ],
+    "relatedIds": [
+      "jp-style-soba-kamo-nanban",
+      "jp-style-ramen-niboshi",
+      "jp-style-ramen-shio",
+      "jp-style-yakisoba-ankake",
+      "jp-style-ramen-shoyu",
+      "jp-yakisoba-kitami-shio"
+    ],
+    "bridgeIds": [
+      "world-021",
+      "world-025",
+      "world-024"
+    ],
+    "searchText": "天ぷらそば 日本 tempura hot_soup_common fried_topping dashi rich 天そば えび天 定番そば"
+  },
+  {
+    "id": "jp-style-soba-kamo-nanban",
+    "slug": "soba-kamo-nanban",
+    "name": "鴨南蛮そば",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "定番そば",
+    "noodle": {
+      "materials": [
+        "そば粉",
+        "小麦粉（配合は製品・店による）"
+      ],
+      "shape": "細めから中太のそば",
+      "notes": [
+        "細めから中太のそば"
+      ],
+      "thickness": 2.5,
+      "width": 2.3,
+      "firmness": 3.2,
+      "elasticity": 2.8,
+      "chewiness": 3.3,
+      "smoothness": 3.3
+    },
+    "broth": {
+      "bases": [
+        "かつお節等の和風だし",
+        "鴨のうま味"
+      ],
+      "seasonings": [
+        "醤油",
+        "みりん",
+        "砂糖",
+        "塩"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "鴨肉",
+      "長ねぎ",
+      "三つ葉",
+      "七味等"
+    ],
+    "tags": [
+      "duck",
+      "grilled_leek",
+      "hot_soup",
+      "animal_umami",
+      "dashi",
+      "nanban"
+    ],
+    "keywords": [
+      "鴨南蛮",
+      "鴨そば",
+      "長ねぎ",
+      "南蛮そば",
+      "定番そば"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.5,
+        "min": 2.5,
+        "max": 4.5
+      },
+      "oiliness": {
+        "typical": 2.8,
+        "min": 1.8,
+        "max": 3.8
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2,
+        "max": 4
+      },
+      "sweetness": {
+        "typical": 1.9,
+        "min": 0.9,
+        "max": 2.9
+      },
+      "sourness": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.2
+      },
+      "heat": {
+        "typical": 0.2,
+        "min": 0,
+        "max": 1.2
+      },
+      "umami": {
+        "typical": 4.4,
+        "min": 3.4,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 4.1,
+        "min": 3.1,
+        "max": 5
+      },
+      "seafoodIntensity": {
+        "typical": 2.2,
+        "min": 1.2,
+        "max": 3.2
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.5
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.3
+      },
+      "fermentation": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.5
+      },
+      "roastedAroma": {
+        "typical": 2.7,
+        "min": 1.7,
+        "max": 3.7
+      },
+      "garlicIntensity": {
+        "typical": 0.1,
+        "min": 0,
+        "max": 1.1
+      },
+      "dashiIntensity": {
+        "typical": 3.9,
+        "min": 2.9,
+        "max": 4.9
+      },
+      "sauceIntensity": {
+        "typical": 3,
+        "min": 2,
+        "max": 4
+      },
+      "noodleAroma": {
+        "typical": 3.6,
+        "min": 2.6,
+        "max": 4.6
+      }
+    },
+    "culture": {
+      "summary": "温かいそばつゆへ鴨肉と長ねぎを合わせる定番そば。鴨の脂とうま味、焼いたねぎの香ばしさがだしへ重なる。",
+      "background": "南蛮そばの代表的な形として知られ、鴨肉とねぎを焼いて温かいつゆへ加える構成が広く定着している。",
+      "tradition": 4.8,
+      "uniqueness": 3.8,
+      "adventure": 1.5
+    },
+    "variation": "合鴨・鴨、肉の焼き方、ねぎ、甘さ、温そば・つけそば、鴨油の量は店で異なる。",
+    "allergenNote": "そば・小麦・大豆・鴨肉・魚介を含むことが多い。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-soba-general",
+      "src-standard-kamo-nanban",
+      "src-standard-nanban-explainer"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-soba-kake"
+    ],
+    "relatedIds": [
+      "jp-style-soba-tempura",
+      "jp-soba-tsumetai-niku",
+      "jp-style-ramen-shoyu",
+      "jp-style-ramen-tori-paitan",
+      "jp-style-ramen-shio",
+      "jp-style-yakisoba-ankake"
+    ],
+    "bridgeIds": [
+      "world-003",
+      "world-009",
+      "world-013"
+    ],
+    "searchText": "鴨南蛮そば 日本 duck grilled_leek hot_soup animal_umami dashi nanban 鴨南蛮 鴨そば 長ねぎ 南蛮そば 定番そば"
+  },
+  {
+    "id": "jp-style-yakisoba-sauce",
+    "slug": "yakisoba-sauce",
+    "name": "ソース焼きそば",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "fried",
+    "formLabel": "炒め・焼き",
+    "categoryLabel": "定番焼きそば",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩"
+      ],
+      "shape": "中太を中心とする蒸し中華麺",
+      "notes": [
+        "中太を中心とする蒸し中華麺"
+      ],
+      "thickness": 3.1,
+      "width": 2.8,
+      "firmness": 3.3,
+      "elasticity": 3.1,
+      "chewiness": 3.5,
+      "smoothness": 2.7
+    },
+    "broth": {
+      "bases": [
+        "店舗ごとに異なる"
+      ],
+      "seasonings": [
+        "ウスター系ソース",
+        "中濃ソース",
+        "醤油等"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "豚肉",
+      "キャベツ",
+      "もやし",
+      "にんじん",
+      "青のり",
+      "紅しょうが等"
+    ],
+    "tags": [
+      "worcestershire_sauce",
+      "fried",
+      "vegetables",
+      "pork_common",
+      "roasted",
+      "classic"
+    ],
+    "keywords": [
+      "ソース焼きそば",
+      "焼そば",
+      "ウスターソース",
+      "定番焼きそば"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.3,
+        "min": 2.3,
+        "max": 4.3
+      },
+      "oiliness": {
+        "typical": 3.3,
+        "min": 2.3,
+        "max": 4.3
+      },
+      "saltiness": {
+        "typical": 3.4,
+        "min": 2.4,
+        "max": 4.4
+      },
+      "sweetness": {
+        "typical": 2.6,
+        "min": 1.6,
+        "max": 3.6
+      },
+      "sourness": {
+        "typical": 1.1,
+        "min": 0.1,
+        "max": 2.1
+      },
+      "heat": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.4
+      },
+      "umami": {
+        "typical": 3.8,
+        "min": 2.8,
+        "max": 4.8
+      },
+      "animalIntensity": {
+        "typical": 1.6,
+        "min": 0.6,
+        "max": 2.6
+      },
+      "seafoodIntensity": {
+        "typical": 0.9,
+        "min": 0,
+        "max": 1.9
+      },
+      "spiceIntensity": {
+        "typical": 2.2,
+        "min": 1.2,
+        "max": 3.2
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.3
+      },
+      "fermentation": {
+        "typical": 0.8,
+        "min": 0,
+        "max": 1.8
+      },
+      "roastedAroma": {
+        "typical": 4,
+        "min": 3,
+        "max": 5
+      },
+      "garlicIntensity": {
+        "typical": 1,
+        "min": 0,
+        "max": 2
+      },
+      "dashiIntensity": {
+        "typical": 0.6,
+        "min": 0,
+        "max": 1.6
+      },
+      "sauceIntensity": {
+        "typical": 4.7,
+        "min": 3.7,
+        "max": 5
+      },
+      "noodleAroma": {
+        "typical": 1.9,
+        "min": 0.9,
+        "max": 2.9
+      }
+    },
+    "culture": {
+      "summary": "蒸し中華麺を肉や野菜と炒め、ウスター系のソースで仕上げる、日本で広く親しまれる焼きそばの基本形。",
+      "background": "中華麺を鉄板・フライパンで炒め、日本のソース文化と結び付いて定番化した。家庭、屋台、祭り、食堂で幅広く食べられる。",
+      "tradition": 4.7,
+      "uniqueness": 2.3,
+      "adventure": 0.8
+    },
+    "variation": "ソースの甘さ・酸味・香辛料、麺、油、肉、野菜、青のり、紅しょうが、焼き付けは店・家庭で異なる。",
+    "allergenNote": "小麦・大豆を含むことが多い。豚肉、魚介、りんご、乳、卵等はソースと具材で異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-chinese-noodle",
+      "src-standard-sauce-yakisoba"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-other-kokura-yakiudon",
+      "jp-other-sayo-horumon-yakiudon",
+      "jp-other-sobameshi",
+      "jp-other-tsuyama-horumon-udon",
+      "jp-yakisoba-fujinomiya",
+      "jp-yakisoba-hiruzen",
+      "jp-yakisoba-hita",
+      "jp-yakisoba-ishinomaki",
+      "jp-yakisoba-itoigawa-black",
+      "jp-yakisoba-namie",
+      "jp-yakisoba-ota",
+      "jp-yakisoba-sechi",
+      "jp-yakisoba-seto-shoyu",
+      "jp-yakisoba-yokote"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-yakisoba-ankake",
+      "jp-style-yakisoba-salt",
+      "jp-style-ramen-aburasoba-mazesoba"
+    ],
+    "relatedIds": [
+      "jp-yakisoba-ota",
+      "jp-other-kokura-yakiudon",
+      "jp-style-yakisoba-salt",
+      "jp-yakisoba-sechi",
+      "jp-yakisoba-yokote",
+      "jp-yakisoba-hita"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-017",
+      "world-002"
+    ],
+    "searchText": "ソース焼きそば 日本 worcestershire_sauce fried vegetables pork_common roasted classic 焼そば ウスターソース 定番焼きそば"
+  },
+  {
+    "id": "jp-style-yakisoba-salt",
+    "slug": "yakisoba-salt",
+    "name": "塩焼きそば",
+    "localName": null,
+    "aliases": [],
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "fried",
+    "formLabel": "炒め・焼き",
+    "categoryLabel": "定番焼きそば",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩"
+      ],
+      "shape": "中太を中心とする蒸し中華麺",
+      "notes": [
+        "中太を中心とする蒸し中華麺"
+      ],
+      "thickness": 3.1,
+      "width": 2.8,
+      "firmness": 3.3,
+      "elasticity": 3.1,
+      "chewiness": 3.5,
+      "smoothness": 2.7
+    },
+    "broth": {
+      "bases": [
+        "店舗ごとに異なる"
+      ],
+      "seasonings": [
+        "塩",
+        "こしょう",
+        "白だし・鶏がら・レモン等（料理による）"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "豚肉または魚介",
+      "キャベツ",
+      "ねぎ",
+      "もやし",
+      "にんにく等"
+    ],
+    "tags": [
+      "salt_seasoning",
+      "fried",
+      "light_color",
+      "roasted",
+      "garlic_optional",
+      "seafood_or_meat"
+    ],
+    "keywords": [
+      "塩焼きそば",
+      "塩味焼きそば",
+      "白だし焼きそば",
+      "定番焼きそば"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.8,
+        "min": 1.9,
+        "max": 3.7
+      },
+      "oiliness": {
+        "typical": 3,
+        "min": 2.1,
+        "max": 3.9
+      },
+      "saltiness": {
+        "typical": 3.5,
+        "min": 2.6,
+        "max": 4.4
+      },
+      "sweetness": {
+        "typical": 1,
+        "min": 0.1,
+        "max": 1.9
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "umami": {
+        "typical": 3.5,
+        "min": 2.6,
+        "max": 4.4
+      },
+      "animalIntensity": {
+        "typical": 1.4,
+        "min": 0.1,
+        "max": 2.7
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 0.5,
+        "max": 3.1
+      },
+      "spiceIntensity": {
+        "typical": 1.1,
+        "min": 0.2,
+        "max": 2
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "roastedAroma": {
+        "typical": 3.8,
+        "min": 2.9,
+        "max": 4.7
+      },
+      "garlicIntensity": {
+        "typical": 1.3,
+        "min": 0,
+        "max": 2.6
+      },
+      "dashiIntensity": {
+        "typical": 1.2,
+        "min": 0,
+        "max": 2.5
+      },
+      "sauceIntensity": {
+        "typical": 3,
+        "min": 2.1,
+        "max": 3.9
+      },
+      "noodleAroma": {
+        "typical": 2,
+        "min": 1.1,
+        "max": 2.9
+      }
+    },
+    "culture": {
+      "summary": "濃色のソースを使わず、塩、こしょう、だし、鶏がら、にんにく等で仕上げる焼きそば。具材の味と香ばしさが伝わりやすい。",
+      "background": "焼きそばの味付けの一類型として家庭・外食で定着し、肉、魚介、野菜、レモン、白だしなど幅広い組み合わせがある。",
+      "tradition": 3.8,
+      "uniqueness": 2.8,
+      "adventure": 1
+    },
+    "variation": "塩だけの軽い味から、鶏がら、白だし、魚介、にんにく、ごま油を強く使う形まで幅が大きい。",
+    "allergenNote": "小麦を含む。大豆、豚・鶏、魚介、ごま、乳等は調味料と具材で異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-chinese-noodle",
+      "src-standard-salt-yakisoba"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-yakisoba-itoigawa-black",
+      "jp-yakisoba-kitami-shio"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-yakisoba-ankake",
+      "jp-style-yakisoba-sauce"
+    ],
+    "relatedIds": [
+      "jp-style-yakisoba-sauce",
+      "jp-yakisoba-seto-shoyu",
+      "jp-style-yakisoba-ankake",
+      "jp-yakisoba-kitami-shio",
+      "jp-yakisoba-ota",
+      "jp-yakisoba-itoigawa-black"
+    ],
+    "bridgeIds": [
+      "world-024",
+      "world-025",
+      "world-002"
+    ],
+    "searchText": "塩焼きそば 日本 salt_seasoning fried light_color roasted garlic_optional seafood_or_meat 塩味焼きそば 白だし焼きそば 定番焼きそば"
+  },
+  {
+    "id": "jp-style-yakisoba-ankake",
+    "slug": "yakisoba-ankake",
+    "name": "あんかけ焼きそば",
+    "localName": null,
+    "aliases": [
+      "五目あんかけ焼きそば"
+    ],
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "standard",
+    "publicationStatus": "published",
+    "countryCode": "JP",
+    "country": "日本",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": null,
+    "coordinates": null,
+    "form": "fried",
+    "formLabel": "炒め・焼き",
+    "categoryLabel": "定番焼きそば",
+    "noodle": {
+      "materials": [
+        "小麦粉",
+        "かんすい",
+        "食塩"
+      ],
+      "shape": "表面を焼き付けた蒸し中華麺または揚げ麺",
+      "notes": [
+        "表面を焼き付けた蒸し中華麺または揚げ麺"
+      ],
+      "thickness": 3,
+      "width": 2.8,
+      "firmness": 2.8,
+      "elasticity": 2.6,
+      "chewiness": 3.2,
+      "smoothness": 3
+    },
+    "broth": {
+      "bases": [
+        "鶏",
+        "豚",
+        "魚介",
+        "野菜のスープ"
+      ],
+      "seasonings": [
+        "醤油",
+        "塩",
+        "オイスターソース",
+        "砂糖",
+        "ごま油等"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [
+      "豚肉",
+      "えび・いか等の魚介",
+      "白菜・青菜",
+      "たけのこ",
+      "きくらげ等"
+    ],
+    "tags": [
+      "starchy_sauce",
+      "fried_noodle",
+      "vegetables",
+      "seafood_or_meat",
+      "crispy_soft",
+      "rich_umami"
+    ],
+    "keywords": [
+      "あんかけ焼きそば",
+      "五目焼きそば",
+      "かた焼きそば",
+      "定番焼きそば"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.5,
+        "min": 2.6,
+        "max": 4.4
+      },
+      "oiliness": {
+        "typical": 2.5,
+        "min": 1.3,
+        "max": 3.7
+      },
+      "saltiness": {
+        "typical": 3.2,
+        "min": 2.3,
+        "max": 4.1
+      },
+      "sweetness": {
+        "typical": 2,
+        "min": 1.1,
+        "max": 2.9
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.4
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "umami": {
+        "typical": 4.2,
+        "min": 3.3,
+        "max": 5
+      },
+      "animalIntensity": {
+        "typical": 2,
+        "min": 0.8,
+        "max": 3.2
+      },
+      "seafoodIntensity": {
+        "typical": 2.3,
+        "min": 1.1,
+        "max": 3.5
+      },
+      "spiceIntensity": {
+        "typical": 0.7,
+        "min": 0,
+        "max": 1.6
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.2
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.3
+      },
+      "roastedAroma": {
+        "typical": 2.8,
+        "min": 1.6,
+        "max": 4
+      },
+      "garlicIntensity": {
+        "typical": 0.6,
+        "min": 0,
+        "max": 1.5
+      },
+      "dashiIntensity": {
+        "typical": 1.6,
+        "min": 0.7,
+        "max": 2.5
+      },
+      "sauceIntensity": {
+        "typical": 4,
+        "min": 3.1,
+        "max": 4.9
+      },
+      "noodleAroma": {
+        "typical": 1.8,
+        "min": 0.9,
+        "max": 2.7
+      }
+    },
+    "culture": {
+      "summary": "焼き付けた、または揚げた中華麺へ、肉・魚介・野菜を使うとろみのある熱いあんをかけるスタイル。",
+      "background": "中華料理の炒麺・あんかけ麺として日本に定着し、柔らかな麺、香ばしく焼いた麺、揚げ麺など複数の形がある。",
+      "tradition": 4.1,
+      "uniqueness": 3.5,
+      "adventure": 1.2
+    },
+    "variation": "麺を焼く・揚げる、あんの色、塩・醤油、具材、酸味・辛子の追加で食感と味が大きく変わる。",
+    "allergenNote": "小麦・大豆を含むことが多い。えび、いか、豚・鶏、卵、オイスターソース、ごま等は店舗ごとに異なる。",
+    "scoreMethod": "editorial_source_review_v1",
+    "publicSourceIds": [
+      "src-standard-chinese-noodle",
+      "src-standard-ankake-yakisoba"
+    ],
+    "verificationLevel": "reviewed",
+    "reviewedAt": "2026-08-10",
+    "parentStyleIds": [],
+    "regionalExampleIds": [
+      "jp-other-nagasaki-saraudon",
+      "jp-yakisoba-otaru-ankake"
+    ],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [
+      "jp-style-yakisoba-salt",
+      "jp-style-yakisoba-sauce",
+      "jp-other-nagasaki-saraudon"
+    ],
+    "relatedIds": [
+      "jp-yakisoba-otaru-ankake",
+      "jp-other-nagasaki-saraudon",
+      "jp-style-yakisoba-salt",
+      "jp-yakisoba-ishinomaki",
+      "jp-style-yakisoba-sauce",
+      "jp-055"
+    ],
+    "bridgeIds": [
+      "world-025",
+      "world-021",
+      "world-024"
+    ],
+    "searchText": "あんかけ焼きそば 五目あんかけ焼きそば 日本 starchy_sauce fried_noodle vegetables seafood_or_meat crispy_soft rich_umami 五目焼きそば かた焼きそば 定番焼きそば"
+  }
+]

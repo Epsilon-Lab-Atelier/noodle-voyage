@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "release": "2.2.2",
+  "designConcept": "Urban Food Travel Editorial",
+  "principles": [
+    "text_first",
+    "functional_icons_only",
+    "calm_but_expressive",
+    "mobile_first",
+    "accessible_by_default",
+    "offline_friendly"
+  ],
+  "color": {
+    "background": "#F4F6F7",
+    "surface": "#FFFFFF",
+    "surfaceSubtle": "#EDF1F3",
+    "surfaceWarm": "#FCF0EA",
+    "surfaceDark": "#111820",
+    "text": "#111820",
+    "textSubtle": "#56636F",
+    "textMuted": "#66737F",
+    "textOnDark": "#F7F9FB",
+    "border": "#D7DEE3",
+    "borderStrong": "#AAB6C0",
+    "primary": "#C9472B",
+    "primaryHover": "#A83A22",
+    "primarySoft": "#FBE7DF",
+    "accent": "#1F7A74",
+    "accentHover": "#16635E",
+    "accentSoft": "#DCF0ED",
+    "focus": "#1E66D0",
+    "success": "#1E7A4F",
+    "successSoft": "#E4F3EA",
+    "warning": "#8A5A00",
+    "warningSoft": "#FFF3D6",
+    "danger": "#B42318",
+    "dangerSoft": "#FCE8E6",
+    "overlay": "rgba(17, 24, 32, 0.52)"
+  },
+  "categoryColor": {
+    "ramen": {
+      "surface": "#FBE7DF",
+      "text": "#8E2F1A",
+      "marker": "#C9472B"
+    },
+    "udon": {
+      "surface": "#DDF0ED",
+      "text": "#145D58",
+      "marker": "#1F7A74"
+    },
+    "soba": {
+      "surface": "#EEE8F5",
+      "text": "#58456D",
+      "marker": "#765C91"
+    },
+    "yakisoba": {
+      "surface": "#FFF0D3",
+      "text": "#704B09",
+      "marker": "#A16A18"
+    },
+    "other": {
+      "surface": "#E6EEF4",
+      "text": "#3E5D73",
+      "marker": "#4D6F8A"
+    },
+    "world": {
+      "surface": "#E2ECFA",
+      "text": "#285B9B",
+      "marker": "#356BB3"
+    },
+    "standard": {
+      "surface": "#ECEFF1",
+      "text": "#3F4C56",
+      "marker": "#66737F"
+    }
+  },
+  "typography": {
+    "fontFamily": "\"Avenir Next\", \"Inter\", \"Helvetica Neue\", \"Hiragino Sans\", \"Yu Gothic UI\", \"Yu Gothic\", \"Noto Sans JP\", system-ui, sans-serif",
+    "wordmarkLetterSpacing": "0.14em",
+    "bodyLineHeight": 1.75,
+    "headingLineHeight": 1.15,
+    "weight": {
+      "regular": 400,
+      "medium": 500,
+      "semibold": 650,
+      "bold": 750,
+      "black": 850
+    },
+    "size": {
+      "caption": "0.75rem",
+      "small": "0.875rem",
+      "body": "1rem",
+      "lead": "1.125rem",
+      "h4": "1.25rem",
+      "h3": "clamp(1.35rem, 2vw, 1.65rem)",
+      "h2": "clamp(1.8rem, 3.5vw, 2.75rem)",
+      "h1": "clamp(2.75rem, 7vw, 5.75rem)"
+    }
+  },
+  "spacing": {
+    "1": "0.25rem",
+    "2": "0.5rem",
+    "3": "0.75rem",
+    "4": "1rem",
+    "6": "1.5rem",
+    "8": "2rem",
+    "12": "3rem",
+    "16": "4rem",
+    "24": "6rem"
+  },
+  "radius": {
+    "small": "10px",
+    "medium": "16px",
+    "large": "22px",
+    "xlarge": "30px",
+    "pill": "999px"
+  },
+  "shadow": {
+    "small": "0 4px 18px rgba(17, 24, 32, 0.07)",
+    "medium": "0 12px 36px rgba(17, 24, 32, 0.10)",
+    "floating": "0 18px 52px rgba(17, 24, 32, 0.16)"
+  },
+  "motion": {
+    "fast": "120ms",
+    "standard": "180ms",
+    "panel": "240ms",
+    "easing": "cubic-bezier(0.2, 0, 0, 1)",
+    "reducedMotionDuration": "1ms"
+  },
+  "breakpoint": {
+    "compactMax": 639,
+    "mediumMax": 1023,
+    "expandedMax": 1439,
+    "wideMin": 1440
+  },
+  "layout": {
+    "contentMax": "1280px",
+    "readingMax": "760px",
+    "gutterCompact": "16px",
+    "gutterMedium": "24px",
+    "gutterExpanded": "40px",
+    "gutterWide": "56px",
+    "headerHeightCompact": "56px",
+    "headerHeightExpanded": "72px",
+    "bottomNavHeight": "68px"
+  },
+  "control": {
+    "minimumTarget": "44px",
+    "buttonHeightSmall": "40px",
+    "buttonHeightMedium": "48px",
+    "buttonHeightLarge": "56px",
+    "iconSize": "20px",
+    "focusOutline": "2px solid #1E66D0",
+    "focusOffset": "3px"
+  },
+  "zIndex": {
+    "base": 0,
+    "sticky": 20,
+    "dropdown": 40,
+    "compareTray": 50,
+    "bottomNav": 60,
+    "modal": 80,
+    "toast": 100
+  }
+}

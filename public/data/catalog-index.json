@@ -1,0 +1,5017 @@
+[
+  {
+    "id": "jp-001",
+    "name": "札幌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク",
+      "炒め野菜"
+    ]
+  },
+  {
+    "id": "jp-002",
+    "name": "旭川ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "醤油",
+      "魚介",
+      "動物系と魚介の合わせ出汁"
+    ]
+  },
+  {
+    "id": "jp-003",
+    "name": "函館ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "塩",
+      "澄んだ味わい",
+      "淡麗",
+      "澄んだスープ",
+      "透明感のあるスープ"
+    ]
+  },
+  {
+    "id": "jp-004",
+    "name": "釧路ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "醤油",
+      "あっさり",
+      "細麺"
+    ]
+  },
+  {
+    "id": "jp-005",
+    "name": "カレーラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "カレー",
+      "香辛料"
+    ]
+  },
+  {
+    "id": "jp-006",
+    "name": "上川ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-007",
+    "name": "天ぷらラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "天ぷら"
+    ]
+  },
+  {
+    "id": "jp-008",
+    "name": "中標津ミルキーラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "乳製品",
+      "まろやか"
+    ]
+  },
+  {
+    "id": "jp-009",
+    "name": "オホーツク干貝柱ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "貝のうま味"
+    ]
+  },
+  {
+    "id": "jp-010",
+    "name": "旭川ホルメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "もつ"
+    ]
+  },
+  {
+    "id": "jp-011",
+    "name": "ガタタンラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-012",
+    "name": "稚内ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-013",
+    "name": "利尻ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-014",
+    "name": "津軽中華そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "青森県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-015",
+    "name": "味噌カレー牛乳ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "青森県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク",
+      "カレー",
+      "香辛料",
+      "乳製品",
+      "まろやか"
+    ]
+  },
+  {
+    "id": "jp-016",
+    "name": "濃厚津軽煮干しラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "青森県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "煮干し",
+      "濃厚"
+    ]
+  },
+  {
+    "id": "jp-017",
+    "name": "しじみラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "青森県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "貝のうま味"
+    ]
+  },
+  {
+    "id": "jp-018",
+    "name": "つゆやきそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "青森県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-019",
+    "name": "八戸ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "青森県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-020",
+    "name": "宮古ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岩手県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-021",
+    "name": "釜石ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岩手県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-022",
+    "name": "五穀ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岩手県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-023",
+    "name": "三陸磯ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岩手県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-024",
+    "name": "大船渡さんまラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岩手県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-025",
+    "name": "じゃじゃ麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岩手県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-026",
+    "name": "盛岡冷麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岩手県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "冷製",
+      "さっぱり",
+      "でんぷん質の強い麺",
+      "強い弾力"
+    ]
+  },
+  {
+    "id": "jp-027",
+    "name": "江戸系ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "秋田県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-028",
+    "name": "十文字ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "秋田県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-029",
+    "name": "稲庭中華そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "秋田県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "細麺"
+    ]
+  },
+  {
+    "id": "jp-030",
+    "name": "かつラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "秋田県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "カツ"
+    ]
+  },
+  {
+    "id": "jp-031",
+    "name": "秋田天ぷら中華",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "秋田県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "天ぷら"
+    ]
+  },
+  {
+    "id": "jp-032",
+    "name": "辛味噌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "宮城県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク",
+      "辛味",
+      "香辛料"
+    ]
+  },
+  {
+    "id": "jp-033",
+    "name": "冷やしラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "冷製",
+      "さっぱり"
+    ]
+  },
+  {
+    "id": "jp-034",
+    "name": "酒田ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "醤油",
+      "魚介",
+      "自家製麺文化"
+    ]
+  },
+  {
+    "id": "jp-035",
+    "name": "からみそラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク"
+    ]
+  },
+  {
+    "id": "jp-036",
+    "name": "とりもつラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "もつ"
+    ]
+  },
+  {
+    "id": "jp-037",
+    "name": "鳥中華",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "和風だし"
+    ]
+  },
+  {
+    "id": "jp-038",
+    "name": "鶴岡節系ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "節系"
+    ]
+  },
+  {
+    "id": "jp-039",
+    "name": "馬肉チャーシューラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-040",
+    "name": "米沢ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "醤油",
+      "細麺",
+      "あっさり"
+    ]
+  },
+  {
+    "id": "jp-041",
+    "name": "肉中華",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-042",
+    "name": "喜多方ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福島県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "平打ち麺",
+      "醤油",
+      "多加水の縮れ麺"
+    ]
+  },
+  {
+    "id": "jp-043",
+    "name": "白河ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福島県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "醤油",
+      "手打ち・手もみ",
+      "手打ちの縮れ麺"
+    ]
+  },
+  {
+    "id": "jp-044",
+    "name": "会津ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福島県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-045",
+    "name": "奥州郡山とんこつラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福島県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "豚骨",
+      "濃厚"
+    ]
+  },
+  {
+    "id": "jp-046",
+    "name": "郡山ブラックラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福島県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "濃口醤油",
+      "濃い色"
+    ]
+  },
+  {
+    "id": "jp-047",
+    "name": "会津野沢宿味噌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福島県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク"
+    ]
+  },
+  {
+    "id": "jp-048",
+    "name": "福島鶏白湯",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福島県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "鶏白湯",
+      "まろやか",
+      "鶏"
+    ]
+  },
+  {
+    "id": "jp-049",
+    "name": "スタミナラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "茨城県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-050",
+    "name": "水戸藩ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "茨城県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-051",
+    "name": "下館ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "茨城県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-052",
+    "name": "豆腐味噌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "茨城県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク"
+    ]
+  },
+  {
+    "id": "jp-053",
+    "name": "佐野ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "栃木県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "手打ち・手もみ"
+    ]
+  },
+  {
+    "id": "jp-054",
+    "name": "夕顔ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "栃木県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-055",
+    "name": "スープ入り焼きそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "栃木県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "焼き・炒め"
+    ]
+  },
+  {
+    "id": "jp-056",
+    "name": "藤岡ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "群馬県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-057",
+    "name": "東毛手延べラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "群馬県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "手延べ麺"
+    ]
+  },
+  {
+    "id": "jp-058",
+    "name": "竹岡式ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "千葉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "濃口醤油",
+      "濃い色",
+      "チャーシュー煮汁を生かす醤油味"
+    ]
+  },
+  {
+    "id": "jp-059",
+    "name": "勝浦タンタンメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "千葉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "辛味",
+      "香辛料",
+      "野菜",
+      "塩味",
+      "ラー油"
+    ]
+  },
+  {
+    "id": "jp-060",
+    "name": "アリランラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "千葉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "辛味",
+      "香辛料",
+      "にんにく",
+      "濃口醤油",
+      "濃い色"
+    ]
+  },
+  {
+    "id": "jp-061",
+    "name": "船橋ソースラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "千葉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "ソース"
+    ]
+  },
+  {
+    "id": "jp-062",
+    "name": "もばらーめん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "千葉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-063",
+    "name": "ホワイトガウラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "千葉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "乳製品",
+      "まろやか"
+    ]
+  },
+  {
+    "id": "jp-064",
+    "name": "小見川カレー焼きそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "千葉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "カレー",
+      "香辛料",
+      "焼き・炒め"
+    ]
+  },
+  {
+    "id": "jp-065",
+    "name": "スタミナラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "埼玉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-066",
+    "name": "豆腐ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "埼玉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-067",
+    "name": "酒粕味噌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "埼玉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク",
+      "酒粕",
+      "発酵"
+    ]
+  },
+  {
+    "id": "jp-068",
+    "name": "茶ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "埼玉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "茶"
+    ]
+  },
+  {
+    "id": "jp-069",
+    "name": "東京ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "東京都",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "醤油",
+      "淡麗",
+      "澄んだスープ"
+    ]
+  },
+  {
+    "id": "jp-070",
+    "name": "荻窪ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "東京都",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "醤油",
+      "煮干し"
+    ]
+  },
+  {
+    "id": "jp-071",
+    "name": "油そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "東京都",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "汁なし"
+    ]
+  },
+  {
+    "id": "jp-072",
+    "name": "つけ麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "東京都",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "つけ麺"
+    ]
+  },
+  {
+    "id": "jp-073",
+    "name": "八王子ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "東京都",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "醤油"
+    ]
+  },
+  {
+    "id": "jp-074",
+    "name": "背脂ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "東京都",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "背脂",
+      "油のコク"
+    ]
+  },
+  {
+    "id": "jp-075",
+    "name": "家系ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "神奈川県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "豚骨醤油",
+      "太めの麺"
+    ]
+  },
+  {
+    "id": "jp-076",
+    "name": "サンマーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "神奈川県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-077",
+    "name": "ニュータンタンメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "神奈川県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "辛味",
+      "香辛料",
+      "野菜",
+      "塩味"
+    ]
+  },
+  {
+    "id": "jp-078",
+    "name": "平塚系タンメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "神奈川県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "野菜",
+      "塩味"
+    ]
+  },
+  {
+    "id": "jp-079",
+    "name": "小田原系ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "神奈川県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-080",
+    "name": "三崎まぐろラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "神奈川県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "まぐろ"
+    ]
+  },
+  {
+    "id": "jp-081",
+    "name": "小田原タンタン麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "神奈川県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "辛味",
+      "香辛料"
+    ]
+  },
+  {
+    "id": "jp-082",
+    "name": "神奈川淡麗系",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "神奈川県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "淡麗",
+      "澄んだスープ"
+    ]
+  },
+  {
+    "id": "jp-083",
+    "name": "アホーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "神奈川県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "にんにく"
+    ]
+  },
+  {
+    "id": "jp-084",
+    "name": "新潟あっさり醤油ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "醤油",
+      "あっさり"
+    ]
+  },
+  {
+    "id": "jp-085",
+    "name": "新潟濃厚味噌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク",
+      "濃厚"
+    ]
+  },
+  {
+    "id": "jp-086",
+    "name": "長岡生姜醤油ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "醤油",
+      "生姜"
+    ]
+  },
+  {
+    "id": "jp-087",
+    "name": "燕背脂ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "背脂",
+      "油のコク",
+      "煮干し",
+      "醤油"
+    ]
+  },
+  {
+    "id": "jp-088",
+    "name": "三条カレーラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "カレー",
+      "香辛料"
+    ]
+  },
+  {
+    "id": "jp-089",
+    "name": "三条っ子ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-090",
+    "name": "見附へそラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-091",
+    "name": "上越とん汁ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-092",
+    "name": "もつラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "もつ"
+    ]
+  },
+  {
+    "id": "jp-093",
+    "name": "冷丼",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "冷製",
+      "さっぱり"
+    ]
+  },
+  {
+    "id": "jp-094",
+    "name": "上越味噌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク"
+    ]
+  },
+  {
+    "id": "jp-095",
+    "name": "麻婆ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "辛味",
+      "香辛料"
+    ]
+  },
+  {
+    "id": "jp-096",
+    "name": "上越雪むろ酒かすラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "酒粕",
+      "発酵"
+    ]
+  },
+  {
+    "id": "jp-097",
+    "name": "富山ブラックラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "富山県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "濃口醤油",
+      "濃い色",
+      "強めの塩味"
+    ]
+  },
+  {
+    "id": "jp-098",
+    "name": "入善ブラウンラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "富山県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "地域独自の色名"
+    ]
+  },
+  {
+    "id": "jp-099",
+    "name": "高岡グリーンラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "富山県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "地域独自の色名"
+    ]
+  },
+  {
+    "id": "jp-100",
+    "name": "おやべホワイトラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "富山県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "乳製品",
+      "まろやか"
+    ]
+  },
+  {
+    "id": "jp-101",
+    "name": "UFOラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "石川県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-102",
+    "name": "加賀味噌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "石川県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク"
+    ]
+  },
+  {
+    "id": "jp-103",
+    "name": "敦賀ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福井県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-104",
+    "name": "たけふ駅前中華そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福井県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-105",
+    "name": "平打ちタンメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山梨県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "野菜",
+      "塩味",
+      "平打ち麺"
+    ]
+  },
+  {
+    "id": "jp-106",
+    "name": "甲州地どりラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山梨県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-107",
+    "name": "やまなし源水ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山梨県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "淡麗",
+      "澄んだスープ"
+    ]
+  },
+  {
+    "id": "jp-108",
+    "name": "安養寺ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長野県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-109",
+    "name": "王様中華そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長野県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-110",
+    "name": "ローメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長野県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "蒸し麺"
+    ]
+  },
+  {
+    "id": "jp-111",
+    "name": "信州味噌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長野県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク"
+    ]
+  },
+  {
+    "id": "jp-112",
+    "name": "高山ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岐阜県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "醤油",
+      "あっさり"
+    ]
+  },
+  {
+    "id": "jp-113",
+    "name": "神岡ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岐阜県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-114",
+    "name": "溶き味噌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "静岡県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク"
+    ]
+  },
+  {
+    "id": "jp-115",
+    "name": "清水もつカレーラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "静岡県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "カレー",
+      "香辛料",
+      "もつ"
+    ]
+  },
+  {
+    "id": "jp-116",
+    "name": "志太系ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "静岡県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-117",
+    "name": "富士つけナポリタン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "静岡県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "トマト"
+    ]
+  },
+  {
+    "id": "jp-118",
+    "name": "台湾ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛知県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "辛味",
+      "香辛料",
+      "にんにく"
+    ]
+  },
+  {
+    "id": "jp-119",
+    "name": "台湾まぜそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛知県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "辛味",
+      "香辛料",
+      "汁なし",
+      "にんにく"
+    ]
+  },
+  {
+    "id": "jp-120",
+    "name": "好来系ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛知県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-121",
+    "name": "ベトコンラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛知県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "にんにく"
+    ]
+  },
+  {
+    "id": "jp-122",
+    "name": "玉子とじラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛知県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "卵"
+    ]
+  },
+  {
+    "id": "jp-123",
+    "name": "亀山ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "三重県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-124",
+    "name": "京都ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "京都府",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "豚骨醤油",
+      "背脂",
+      "油のコク",
+      "鶏・豚の濃いだし"
+    ]
+  },
+  {
+    "id": "jp-125",
+    "name": "京風ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "京都府",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "淡麗",
+      "澄んだスープ",
+      "和風だし",
+      "穏やかな味"
+    ]
+  },
+  {
+    "id": "jp-126",
+    "name": "キーシマ",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "京都府",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "和風だし"
+    ]
+  },
+  {
+    "id": "jp-127",
+    "name": "高井田系ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "大阪府",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "濃口醤油",
+      "濃い色",
+      "太い麺"
+    ]
+  },
+  {
+    "id": "jp-128",
+    "name": "大阪ライト豚骨",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "大阪府",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "豚骨",
+      "濃厚"
+    ]
+  },
+  {
+    "id": "jp-129",
+    "name": "神戸ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "兵庫県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-130",
+    "name": "えきそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "兵庫県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "和風だし"
+    ]
+  },
+  {
+    "id": "jp-131",
+    "name": "播州ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "兵庫県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-132",
+    "name": "播州赤穂塩ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "兵庫県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "塩",
+      "澄んだ味わい"
+    ]
+  },
+  {
+    "id": "jp-133",
+    "name": "尼崎あんかけちゃんぽん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "兵庫県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "野菜",
+      "魚介",
+      "具だくさん",
+      "あんかけ"
+    ]
+  },
+  {
+    "id": "jp-134",
+    "name": "近江ちゃんぽん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "滋賀県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "野菜",
+      "魚介",
+      "具だくさん"
+    ]
+  },
+  {
+    "id": "jp-135",
+    "name": "天理ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "奈良県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-136",
+    "name": "和歌山ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "和歌山県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "豚骨醤油",
+      "中細麺"
+    ]
+  },
+  {
+    "id": "jp-137",
+    "name": "素ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "鳥取県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "和風だし"
+    ]
+  },
+  {
+    "id": "jp-138",
+    "name": "鳥取牛骨ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "鳥取県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "牛骨"
+    ]
+  },
+  {
+    "id": "jp-139",
+    "name": "山陰ちゃんぽん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "鳥取県・島根県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "野菜",
+      "魚介",
+      "具だくさん"
+    ]
+  },
+  {
+    "id": "jp-140",
+    "name": "しじみラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "島根県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "貝のうま味"
+    ]
+  },
+  {
+    "id": "jp-141",
+    "name": "松江ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "島根県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-142",
+    "name": "岡山ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岡山県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-143",
+    "name": "トンカツラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岡山県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "カツ"
+    ]
+  },
+  {
+    "id": "jp-144",
+    "name": "新見ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岡山県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-145",
+    "name": "笠岡ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岡山県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-146",
+    "name": "広島ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "広島県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "豚骨醤油",
+      "中細麺"
+    ]
+  },
+  {
+    "id": "jp-147",
+    "name": "広島つけ麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "広島県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "つけ麺"
+    ]
+  },
+  {
+    "id": "jp-148",
+    "name": "汁無し担々麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "広島県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "辛味",
+      "香辛料",
+      "汁なし"
+    ]
+  },
+  {
+    "id": "jp-149",
+    "name": "尾道ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "広島県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "醤油",
+      "魚介",
+      "背脂",
+      "油のコク",
+      "平打ち麺"
+    ]
+  },
+  {
+    "id": "jp-150",
+    "name": "呉冷麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "広島県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "冷製",
+      "さっぱり"
+    ]
+  },
+  {
+    "id": "jp-151",
+    "name": "広島牡蠣ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "広島県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "牡蠣"
+    ]
+  },
+  {
+    "id": "jp-152",
+    "name": "宇部ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山口県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-153",
+    "name": "下松牛骨ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山口県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "牛骨"
+    ]
+  },
+  {
+    "id": "jp-154",
+    "name": "瀬戸内ラーメンいりこそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山口県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "煮干し"
+    ]
+  },
+  {
+    "id": "jp-155",
+    "name": "徳島ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "徳島県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": [
+      "甘辛い醤油",
+      "豚骨醤油"
+    ]
+  },
+  {
+    "id": "jp-156",
+    "name": "松山瓢系ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛媛県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-157",
+    "name": "今治ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛媛県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-158",
+    "name": "八幡浜ちゃんぽん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛媛県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": [
+      "野菜",
+      "魚介",
+      "具だくさん"
+    ]
+  },
+  {
+    "id": "jp-159",
+    "name": "みそカツラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "高知県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": [
+      "味噌",
+      "発酵のコク"
+    ]
+  },
+  {
+    "id": "jp-160",
+    "name": "須崎鍋焼きラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "高知県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": [
+      "焼き・炒め"
+    ]
+  },
+  {
+    "id": "jp-161",
+    "name": "中日そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "高知県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": [
+      "和風だし"
+    ]
+  },
+  {
+    "id": "jp-162",
+    "name": "博多ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福岡県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "豚骨",
+      "濃厚",
+      "細麺",
+      "替え玉文化"
+    ]
+  },
+  {
+    "id": "jp-163",
+    "name": "長浜ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福岡県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "豚骨",
+      "濃厚",
+      "細麺",
+      "替え玉文化"
+    ]
+  },
+  {
+    "id": "jp-164",
+    "name": "焼きラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福岡県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "焼き・炒め"
+    ]
+  },
+  {
+    "id": "jp-165",
+    "name": "久留米ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福岡県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "豚骨",
+      "濃厚",
+      "濃厚な豚骨"
+    ]
+  },
+  {
+    "id": "jp-166",
+    "name": "ちゃんらー",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福岡県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "和風だし"
+    ]
+  },
+  {
+    "id": "jp-167",
+    "name": "戸畑ちゃんぽん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福岡県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "野菜",
+      "魚介",
+      "具だくさん"
+    ]
+  },
+  {
+    "id": "jp-168",
+    "name": "佐賀ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "佐賀県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "豚骨",
+      "濃厚"
+    ]
+  },
+  {
+    "id": "jp-169",
+    "name": "佐賀ちゃんぽん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "佐賀県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "野菜",
+      "魚介",
+      "具だくさん"
+    ]
+  },
+  {
+    "id": "jp-170",
+    "name": "マジェンバ",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "佐賀県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-171",
+    "name": "あごだしラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長崎県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "あごだし"
+    ]
+  },
+  {
+    "id": "jp-172",
+    "name": "長崎ちゃんぽん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長崎県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "野菜",
+      "魚介",
+      "具だくさん"
+    ]
+  },
+  {
+    "id": "jp-173",
+    "name": "熊本ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "熊本県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "豚骨",
+      "濃厚",
+      "にんにく"
+    ]
+  },
+  {
+    "id": "jp-174",
+    "name": "玉名ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "熊本県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "豚骨",
+      "濃厚",
+      "にんにく",
+      "焦がしにんにく"
+    ]
+  },
+  {
+    "id": "jp-175",
+    "name": "天草ちゃんぽん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "熊本県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "野菜",
+      "魚介",
+      "具だくさん"
+    ]
+  },
+  {
+    "id": "jp-176",
+    "name": "太平燕",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "熊本県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "春雨"
+    ]
+  },
+  {
+    "id": "jp-177",
+    "name": "佐伯ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "大分県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": []
+  },
+  {
+    "id": "jp-178",
+    "name": "別府冷麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "大分県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "冷製",
+      "さっぱり"
+    ]
+  },
+  {
+    "id": "jp-179",
+    "name": "宮崎ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "宮崎県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "豚骨",
+      "濃厚",
+      "地域ごとの穏やかな豚骨"
+    ]
+  },
+  {
+    "id": "jp-180",
+    "name": "宮崎辛麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "宮崎県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "辛味",
+      "香辛料"
+    ]
+  },
+  {
+    "id": "jp-181",
+    "name": "鹿児島ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "鹿児島県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "豚骨",
+      "濃厚",
+      "地域ごとの穏やかな豚骨"
+    ]
+  },
+  {
+    "id": "jp-182",
+    "name": "串木野まぐろラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "鹿児島県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "まぐろ"
+    ]
+  },
+  {
+    "id": "jp-183",
+    "name": "枕崎かつおラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "鹿児島県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "かつお",
+      "カツ"
+    ]
+  },
+  {
+    "id": "jp-184",
+    "name": "ちゅら塩ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "沖縄県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "塩",
+      "澄んだ味わい"
+    ]
+  },
+  {
+    "id": "jp-185",
+    "name": "沖縄そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "沖縄県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "沖縄そば麺"
+    ]
+  },
+  {
+    "id": "world-001",
+    "name": "蘭州牛肉麺",
+    "localName": "兰州牛肉面",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "中国",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "牛肉",
+      "香草",
+      "手延べ",
+      "澄んだスープ"
+    ]
+  },
+  {
+    "id": "world-002",
+    "name": "台湾牛肉麺",
+    "localName": "臺灣牛肉麵",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "台湾",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "牛肉",
+      "醤油",
+      "香辛料",
+      "煮込み"
+    ]
+  },
+  {
+    "id": "world-003",
+    "name": "雲呑麺",
+    "localName": "雲吞麵",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "香港",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "海老",
+      "雲呑",
+      "細麺",
+      "澄んだスープ"
+    ]
+  },
+  {
+    "id": "world-004",
+    "name": "過橋米線",
+    "localName": "过桥米线",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "中国",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "米線",
+      "熱いスープ",
+      "別添え具材"
+    ]
+  },
+  {
+    "id": "world-005",
+    "name": "重慶小麺",
+    "localName": "重庆小面",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "中国",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "辛味",
+      "花椒",
+      "香辛料",
+      "細麺"
+    ]
+  },
+  {
+    "id": "world-006",
+    "name": "螺蛳粉",
+    "localName": "螺蛳粉",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "中国",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "発酵",
+      "酸味",
+      "辛味",
+      "米粉麺"
+    ]
+  },
+  {
+    "id": "world-007",
+    "name": "ラミョン",
+    "localName": "라면",
+    "domain": "world",
+    "noodleCategory": "ramen",
+    "culturalScope": "international",
+    "country": "韓国",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "即席麺",
+      "辛味",
+      "鍋調理"
+    ]
+  },
+  {
+    "id": "world-008",
+    "name": "チャンポン",
+    "localName": "짬뽕",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "韓国",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "海鮮",
+      "辛味",
+      "炒め野菜"
+    ]
+  },
+  {
+    "id": "world-009",
+    "name": "カルグクス",
+    "localName": "칼국수",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "韓国",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "手切り麺",
+      "やさしい味",
+      "出汁"
+    ]
+  },
+  {
+    "id": "world-010",
+    "name": "冷麺",
+    "localName": "냉면",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "韓国",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "冷製",
+      "酸味",
+      "弾力",
+      "そば粉"
+    ]
+  },
+  {
+    "id": "world-011",
+    "name": "フォー・ボー",
+    "localName": "phở bò",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "ベトナム",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "牛骨",
+      "米麺",
+      "香草",
+      "澄んだスープ"
+    ]
+  },
+  {
+    "id": "world-012",
+    "name": "ブンボーフエ",
+    "localName": "bún bò Huế",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "ベトナム",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "辛味",
+      "レモングラス",
+      "太い米麺"
+    ]
+  },
+  {
+    "id": "world-013",
+    "name": "フーティウ",
+    "localName": "hủ tiếu",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "ベトナム",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "豚",
+      "海鮮",
+      "米麺",
+      "汁あり・汁なし"
+    ]
+  },
+  {
+    "id": "world-014",
+    "name": "クイティウ",
+    "localName": "គុយទាវ",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "カンボジア",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "朝食",
+      "米麺",
+      "澄んだスープ"
+    ]
+  },
+  {
+    "id": "world-015",
+    "name": "ボートヌードル",
+    "localName": "ก๋วยเตี๋ยวเรือ",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "タイ",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "濃厚",
+      "香辛料",
+      "小ぶりな器"
+    ]
+  },
+  {
+    "id": "world-016",
+    "name": "トムヤムヌードル",
+    "localName": "ก๋วยเตี๋ยวต้มยำ",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "タイ",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "酸味",
+      "辛味",
+      "レモングラス"
+    ]
+  },
+  {
+    "id": "world-017",
+    "name": "カオソーイ",
+    "localName": "ข้าวซอย",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "タイ",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "カレー",
+      "ココナッツ",
+      "揚げ麺"
+    ]
+  },
+  {
+    "id": "world-018",
+    "name": "カレーラクサ",
+    "localName": "curry laksa",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "マレーシア・シンガポール",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "ココナッツ",
+      "辛味",
+      "海鮮"
+    ]
+  },
+  {
+    "id": "world-019",
+    "name": "アッサムラクサ",
+    "localName": "asam laksa",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "マレーシア",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "魚",
+      "酸味",
+      "タマリンド",
+      "香草"
+    ]
+  },
+  {
+    "id": "world-020",
+    "name": "プロウンミー",
+    "localName": "prawn mee",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "シンガポール・マレーシア",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "海老",
+      "甲殻類",
+      "濃い出汁"
+    ]
+  },
+  {
+    "id": "world-021",
+    "name": "ミー・チェロール",
+    "localName": "mi celor",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "インドネシア",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "海老",
+      "ココナッツ",
+      "とろみ"
+    ]
+  },
+  {
+    "id": "world-022",
+    "name": "ミー・バクソ",
+    "localName": "mi bakso",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "インドネシア",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "肉団子",
+      "澄んだスープ",
+      "屋台"
+    ]
+  },
+  {
+    "id": "world-023",
+    "name": "モヒンガー",
+    "localName": "မုန့်ဟင်းခါး",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "ミャンマー",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "魚",
+      "米麺",
+      "香草",
+      "朝食"
+    ]
+  },
+  {
+    "id": "world-024",
+    "name": "トゥクパ",
+    "localName": "thukpa",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "チベット・ネパール・インド",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "野菜",
+      "肉",
+      "温かいスープ"
+    ]
+  },
+  {
+    "id": "world-025",
+    "name": "テントゥク",
+    "localName": "འཐེན་ཐུག་",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "チベット",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "手ちぎり麺",
+      "煮込み",
+      "素朴"
+    ]
+  },
+  {
+    "id": "world-026",
+    "name": "ラグマン",
+    "localName": "laghman",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "中央アジア",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "羊肉",
+      "手延べ",
+      "野菜"
+    ]
+  },
+  {
+    "id": "world-027",
+    "name": "アーシュ・レシュテ",
+    "localName": "آش رشته",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "イラン",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "豆",
+      "香草",
+      "発酵乳",
+      "濃厚"
+    ]
+  },
+  {
+    "id": "world-028",
+    "name": "サイミン",
+    "localName": "saimin",
+    "domain": "world",
+    "noodleCategory": "ramen",
+    "culturalScope": "international",
+    "country": "アメリカ合衆国・ハワイ",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "多文化",
+      "澄んだスープ",
+      "細麺"
+    ]
+  },
+  {
+    "id": "world-029",
+    "name": "ソパ・ワンタン",
+    "localName": "sopa wantán",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "ペルー",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "中華系",
+      "雲呑",
+      "鶏スープ"
+    ]
+  },
+  {
+    "id": "world-030",
+    "name": "ソパ・デ・フィデオ",
+    "localName": "sopa de fideo",
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "country": "メキシコ",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "短い麺",
+      "トマト",
+      "家庭料理"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-kitami-shio",
+    "name": "オホーツク北見塩やきそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "salt_sauce",
+      "scallop",
+      "onion",
+      "local_ingredients",
+      "seafood",
+      "fried"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-otaru-ankake",
+    "name": "小樽あんかけ焼そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "北海道",
+    "regionCodes": [
+      "hokkaido"
+    ],
+    "tags": [
+      "starchy_sauce",
+      "seafood",
+      "vegetables",
+      "crispy_soft_contrast",
+      "retro_city_food"
+    ]
+  },
+  {
+    "id": "jp-soba-tsugaru",
+    "name": "津軽そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "青森県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "soybean_binder",
+      "aged_dough",
+      "soft",
+      "historic_method",
+      "hot_soup"
+    ]
+  },
+  {
+    "id": "jp-soba-wanko",
+    "name": "わんこそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岩手県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "hospitality",
+      "small_servings",
+      "refill",
+      "ceremonial",
+      "interactive"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-ishinomaki",
+    "name": "石巻焼きそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "宮城県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "brown_noodle",
+      "steamed_twice",
+      "moist",
+      "dashi_added",
+      "local_food"
+    ]
+  },
+  {
+    "id": "jp-udon-inaniwa",
+    "name": "稲庭うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "秋田県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "hand_stretched",
+      "dried_noodle",
+      "thin",
+      "flat",
+      "smooth",
+      "cold_or_hot",
+      "dashi_forward"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-yokote",
+    "name": "横手やきそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "秋田県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "straight_noodle",
+      "fried_egg",
+      "fukujinzuke",
+      "sweet_sauce",
+      "local_standard"
+    ]
+  },
+  {
+    "id": "jp-udon-hippari",
+    "name": "ひっぱりうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "communal",
+      "pot_to_bowl",
+      "natto",
+      "canned_mackerel",
+      "winter_food",
+      "savory"
+    ]
+  },
+  {
+    "id": "jp-soba-tsumetai-niku",
+    "name": "冷たい肉そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "cold_soup",
+      "chicken",
+      "firm",
+      "savory",
+      "year_round"
+    ]
+  },
+  {
+    "id": "jp-soba-ita",
+    "name": "板そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山形県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "wooden_board",
+      "thick",
+      "communal",
+      "firm",
+      "rural_soba"
+    ]
+  },
+  {
+    "id": "jp-soba-tachi",
+    "name": "裁ちそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福島県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "cut_without_folding",
+      "rustic",
+      "thick",
+      "mountain_village",
+      "high_buckwheat"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-namie",
+    "name": "なみえ焼そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福島県",
+    "regionCodes": [
+      "tohoku"
+    ],
+    "tags": [
+      "extra_thick",
+      "bean_sprouts",
+      "pork",
+      "strong_sauce",
+      "chili_optional",
+      "simple_ingredients"
+    ]
+  },
+  {
+    "id": "jp-udon-mimi",
+    "name": "耳うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "栃木県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "festival_food",
+      "new_year",
+      "irregular_shape",
+      "soup",
+      "vegetables"
+    ]
+  },
+  {
+    "id": "jp-udon-okkirikomi",
+    "name": "おっきりこみ",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "群馬県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "stew",
+      "wide_flat",
+      "vegetables",
+      "one_pot",
+      "winter_food"
+    ]
+  },
+  {
+    "id": "jp-udon-himokawa",
+    "name": "ひもかわうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "群馬県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "very_wide",
+      "flat",
+      "smooth",
+      "cold_or_hot",
+      "kiryu_food"
+    ]
+  },
+  {
+    "id": "jp-udon-mizusawa",
+    "name": "水沢うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "群馬県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "firm",
+      "smooth",
+      "dipping",
+      "temple_town",
+      "sesame_sauce_optional"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-ota",
+    "name": "上州太田焼そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "群馬県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "dark_sauce",
+      "shop_variation",
+      "industrial_city",
+      "fried",
+      "thick_noodle"
+    ]
+  },
+  {
+    "id": "jp-udon-kazo",
+    "name": "加須うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "埼玉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "handmade",
+      "firm",
+      "smooth",
+      "cold_or_hot",
+      "wheat_region"
+    ]
+  },
+  {
+    "id": "jp-udon-musashino",
+    "name": "武蔵野うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "埼玉県",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "firm",
+      "thick",
+      "wheat_aroma",
+      "meat_dipping_soup",
+      "rural_food"
+    ]
+  },
+  {
+    "id": "jp-soba-jindaiji",
+    "name": "深大寺そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "東京都",
+    "regionCodes": [
+      "kanto"
+    ],
+    "tags": [
+      "temple_town",
+      "spring_water",
+      "historic_soba_shops",
+      "cold_or_hot"
+    ]
+  },
+  {
+    "id": "jp-soba-hegi",
+    "name": "へぎそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "funori_binder",
+      "smooth",
+      "elastic",
+      "wooden_tray",
+      "portion_bundles"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-itoigawa-black",
+    "name": "糸魚川ブラック焼きそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "新潟県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "squid_ink",
+      "black",
+      "seafood",
+      "creative_local_gourmet",
+      "fried"
+    ]
+  },
+  {
+    "id": "jp-udon-himi",
+    "name": "氷見うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "富山県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "hand_stretched",
+      "thin",
+      "smooth",
+      "elastic",
+      "cold_or_hot"
+    ]
+  },
+  {
+    "id": "jp-soba-echizen-oroshi",
+    "name": "越前おろしそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福井県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "grated_daikon",
+      "cold",
+      "robust_buckwheat",
+      "bonito_flakes",
+      "refreshing"
+    ]
+  },
+  {
+    "id": "jp-udon-yoshida",
+    "name": "吉田のうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山梨県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "extra_firm",
+      "thick",
+      "cabbage",
+      "meat",
+      "spicy_condiment",
+      "mountain_city"
+    ]
+  },
+  {
+    "id": "jp-other-hoto",
+    "name": "ほうとう",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山梨県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "other_regional_noodle",
+      "miso_stew",
+      "wide_flat",
+      "pumpkin",
+      "vegetables",
+      "one_pot"
+    ]
+  },
+  {
+    "id": "jp-soba-toji",
+    "name": "とうじそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長野県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "hot_pot",
+      "dipping_basket",
+      "winter_food",
+      "mushrooms",
+      "mountain_food"
+    ]
+  },
+  {
+    "id": "jp-soba-togakushi",
+    "name": "戸隠そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長野県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "botchi_mori",
+      "mountain_soba",
+      "pilgrimage",
+      "strong_aroma",
+      "cold"
+    ]
+  },
+  {
+    "id": "jp-soba-takato",
+    "name": "高遠そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長野県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "grated_daikon_juice",
+      "roasted_miso",
+      "historic_dipping_sauce",
+      "spicy"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-fujinomiya",
+    "name": "富士宮やきそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "静岡県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "firm_noodle",
+      "meat_scraps",
+      "sardine_powder",
+      "cabbage",
+      "strong_roast",
+      "regional_rules"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-seto-shoyu",
+    "name": "瀬戸しょうゆ焼そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛知県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "soy_sauce",
+      "pork_broth",
+      "simple",
+      "pottery_town",
+      "fried"
+    ]
+  },
+  {
+    "id": "jp-other-kishimen",
+    "name": "きしめん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛知県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "other_regional_noodle",
+      "wide_flat",
+      "thin",
+      "dashi_forward",
+      "cold_or_hot",
+      "nagoya_food"
+    ]
+  },
+  {
+    "id": "jp-udon-ise",
+    "name": "伊勢うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "三重県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "extra_thick",
+      "very_soft",
+      "dark_tare",
+      "sweet_savory",
+      "pilgrimage_food"
+    ]
+  },
+  {
+    "id": "jp-soba-izushi",
+    "name": "出石皿そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "兵庫県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "small_plates",
+      "multiple_servings",
+      "castle_town",
+      "condiments",
+      "cold"
+    ]
+  },
+  {
+    "id": "jp-other-sobameshi",
+    "name": "そばめし",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "兵庫県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "other_regional_noodle",
+      "rice_and_noodle",
+      "chopped_noodle",
+      "sauce",
+      "griddle",
+      "kobe_food"
+    ]
+  },
+  {
+    "id": "jp-other-sayo-horumon-yakiudon",
+    "name": "佐用ホルモン焼きうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "兵庫県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "other_regional_noodle",
+      "yakiudon",
+      "beef_offal",
+      "dipping_sauce",
+      "griddle",
+      "rich"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-sechi",
+    "name": "せち焼き",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "和歌山県",
+    "regionCodes": [
+      "kinki"
+    ],
+    "tags": [
+      "egg_bound",
+      "no_flour_batter",
+      "sauce",
+      "griddle",
+      "hybrid_food"
+    ]
+  },
+  {
+    "id": "jp-soba-izumo",
+    "name": "出雲そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "島根県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "whole_ground_buckwheat",
+      "dark_color",
+      "warigo",
+      "kamaage",
+      "strong_aroma"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-hiruzen",
+    "name": "ひるぜん焼そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岡山県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "miso_sauce",
+      "chicken",
+      "cabbage",
+      "sweet_savory",
+      "garlic",
+      "highland_food"
+    ]
+  },
+  {
+    "id": "jp-other-tsuyama-horumon-udon",
+    "name": "津山ホルモンうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "岡山県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "other_regional_noodle",
+      "yakiudon",
+      "beef_offal",
+      "miso_sauce",
+      "rich",
+      "griddle"
+    ]
+  },
+  {
+    "id": "jp-other-kawara-soba",
+    "name": "瓦そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "山口県",
+    "regionCodes": [
+      "chugoku"
+    ],
+    "tags": [
+      "other_regional_noodle",
+      "tea_soba",
+      "heated_tile",
+      "beef",
+      "egg",
+      "crispy",
+      "dipping"
+    ]
+  },
+  {
+    "id": "jp-udon-naruchuru",
+    "name": "鳴ちゅるうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "徳島県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": [
+      "soft",
+      "irregular",
+      "thin",
+      "light_broth",
+      "local_canteen_food"
+    ]
+  },
+  {
+    "id": "jp-soba-iya",
+    "name": "祖谷そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "徳島県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": [
+      "rustic",
+      "thick",
+      "short",
+      "mountain_food",
+      "high_buckwheat"
+    ]
+  },
+  {
+    "id": "jp-udon-shippoku",
+    "name": "しっぽくうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "香川県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": [
+      "winter_food",
+      "vegetables",
+      "dashi_forward",
+      "soup",
+      "seasonal"
+    ]
+  },
+  {
+    "id": "jp-udon-sanuki",
+    "name": "讃岐うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "香川県",
+    "regionCodes": [
+      "shikoku"
+    ],
+    "tags": [
+      "firm",
+      "elastic",
+      "many_serving_styles",
+      "iriko_dashi",
+      "self_service_culture"
+    ]
+  },
+  {
+    "id": "jp-udon-hakata",
+    "name": "博多うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福岡県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "soft",
+      "dashi_forward",
+      "gobo_tempura",
+      "round_fishcake",
+      "fast_food_culture"
+    ]
+  },
+  {
+    "id": "jp-other-kokura-yakiudon",
+    "name": "小倉焼うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "福岡県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "other_regional_noodle",
+      "yakiudon",
+      "dried_udon",
+      "sauce",
+      "postwar_food",
+      "griddle"
+    ]
+  },
+  {
+    "id": "jp-udon-goto",
+    "name": "五島うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長崎県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "hand_stretched",
+      "camellia_oil",
+      "thin",
+      "round",
+      "ago_dashi",
+      "jigokudaki"
+    ]
+  },
+  {
+    "id": "jp-soba-taishu",
+    "name": "対州そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長崎県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "native_buckwheat",
+      "island_food",
+      "strong_aroma",
+      "gi_protected",
+      "rustic"
+    ]
+  },
+  {
+    "id": "jp-other-nagasaki-saraudon",
+    "name": "長崎皿うどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "other",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "長崎県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "other_regional_noodle",
+      "starchy_sauce",
+      "crispy_or_thick",
+      "seafood",
+      "vegetables",
+      "nagasaki_food"
+    ]
+  },
+  {
+    "id": "jp-udon-saiki-gomadashi",
+    "name": "佐伯ごまだしうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "大分県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "fish_paste",
+      "sesame",
+      "quick_soup",
+      "umami",
+      "coastal_food"
+    ]
+  },
+  {
+    "id": "jp-yakisoba-hita",
+    "name": "日田やきそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "大分県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "crispy_noodle",
+      "bean_sprouts",
+      "pork",
+      "strong_roast",
+      "pressed_on_griddle"
+    ]
+  },
+  {
+    "id": "jp-udon-miyazaki-kamaage",
+    "name": "宮崎釜揚げうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "宮崎県",
+    "regionCodes": [
+      "kyushu_okinawa"
+    ],
+    "tags": [
+      "kamaage",
+      "soft",
+      "hot_noodle_water",
+      "dipping",
+      "night_food"
+    ]
+  },
+  {
+    "id": "jp-style-ramen-shoyu",
+    "name": "醤油ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "soy_sauce",
+      "soup",
+      "classic",
+      "broad_variation",
+      "animal_or_seafood",
+      "japanese_seasoning"
+    ]
+  },
+  {
+    "id": "jp-style-ramen-shio",
+    "name": "塩ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "salt_tare",
+      "soup",
+      "clear_broth_common",
+      "delicate",
+      "broad_variation"
+    ]
+  },
+  {
+    "id": "jp-style-ramen-miso",
+    "name": "味噌ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "miso",
+      "fermented",
+      "rich",
+      "vegetables_common",
+      "soup",
+      "warming"
+    ]
+  },
+  {
+    "id": "jp-style-ramen-tonkotsu",
+    "name": "豚骨ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "pork_bone",
+      "white_broth",
+      "emulsified",
+      "rich",
+      "animal_forward",
+      "thin_noodle_common"
+    ]
+  },
+  {
+    "id": "jp-style-ramen-tori-paitan",
+    "name": "鶏白湯ラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "chicken_paitan",
+      "white_broth",
+      "emulsified",
+      "creamy",
+      "animal_forward",
+      "rich"
+    ]
+  },
+  {
+    "id": "jp-style-ramen-niboshi",
+    "name": "煮干しラーメン",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "niboshi",
+      "dried_fish",
+      "seafood_forward",
+      "dashi_forward",
+      "soup",
+      "broad_variation"
+    ]
+  },
+  {
+    "id": "jp-style-ramen-tsukemen",
+    "name": "つけ麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "dipping",
+      "separate_soup",
+      "thick_noodle_common",
+      "strong_tare",
+      "cold_noodle_common",
+      "noodle_forward"
+    ]
+  },
+  {
+    "id": "jp-style-ramen-aburasoba-mazesoba",
+    "name": "油そば・まぜそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "brothless",
+      "mixed_noodle",
+      "oil_tare",
+      "strong_sauce",
+      "thick_noodle_common",
+      "customizable"
+    ]
+  },
+  {
+    "id": "jp-style-udon-kake",
+    "name": "かけうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "hot_soup",
+      "dashi_forward",
+      "simple",
+      "classic",
+      "udon"
+    ]
+  },
+  {
+    "id": "jp-style-udon-bukkake",
+    "name": "ぶっかけうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "concentrated_dashi",
+      "poured_sauce",
+      "cold_or_hot",
+      "firm_noodle",
+      "mixed"
+    ]
+  },
+  {
+    "id": "jp-style-udon-kamaage",
+    "name": "釜揚げうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "hot_noodle_water",
+      "not_rinsed",
+      "dipping",
+      "soft",
+      "wheat_aroma"
+    ]
+  },
+  {
+    "id": "jp-style-udon-zaru",
+    "name": "ざるうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "cold",
+      "rinsed",
+      "dipping",
+      "firm_noodle",
+      "smooth"
+    ]
+  },
+  {
+    "id": "jp-style-udon-curry",
+    "name": "カレーうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "curry",
+      "spiced",
+      "dashi_curry",
+      "thick_soup",
+      "warming",
+      "rich"
+    ]
+  },
+  {
+    "id": "jp-style-soba-kake",
+    "name": "かけそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "hot_soup",
+      "dashi_forward",
+      "classic",
+      "simple",
+      "soba"
+    ]
+  },
+  {
+    "id": "jp-style-soba-mori-zaru",
+    "name": "もり・ざるそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "cold",
+      "dipping",
+      "rinsed",
+      "noodle_aroma",
+      "classic",
+      "mori_zaru"
+    ]
+  },
+  {
+    "id": "jp-style-soba-tempura",
+    "name": "天ぷらそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "tempura",
+      "hot_soup_common",
+      "fried_topping",
+      "dashi",
+      "rich"
+    ]
+  },
+  {
+    "id": "jp-style-soba-kamo-nanban",
+    "name": "鴨南蛮そば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "soba",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "duck",
+      "grilled_leek",
+      "hot_soup",
+      "animal_umami",
+      "dashi",
+      "nanban"
+    ]
+  },
+  {
+    "id": "jp-style-yakisoba-sauce",
+    "name": "ソース焼きそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "worcestershire_sauce",
+      "fried",
+      "vegetables",
+      "pork_common",
+      "roasted",
+      "classic"
+    ]
+  },
+  {
+    "id": "jp-style-yakisoba-salt",
+    "name": "塩焼きそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "salt_seasoning",
+      "fried",
+      "light_color",
+      "roasted",
+      "garlic_optional",
+      "seafood_or_meat"
+    ]
+  },
+  {
+    "id": "jp-style-yakisoba-ankake",
+    "name": "あんかけ焼きそば",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "yakisoba",
+    "culturalScope": "standard",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "starchy_sauce",
+      "fried_noodle",
+      "vegetables",
+      "seafood_or_meat",
+      "crispy_soft",
+      "rich_umami"
+    ]
+  },
+  {
+    "id": "jp-udon-toyohashi-curry",
+    "name": "豊橋カレーうどん",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "udon",
+    "culturalScope": "regional",
+    "country": "日本",
+    "prefectureLabel": "愛知県",
+    "regionCodes": [
+      "chubu"
+    ],
+    "tags": [
+      "curry",
+      "dashi_curry",
+      "layered",
+      "rice_and_noodle",
+      "tororo",
+      "quail_egg",
+      "homemade_noodle",
+      "regional_rules",
+      "pickles",
+      "local_ingredients"
+    ]
+  },
+  {
+    "id": "jp-style-ramen-tsukemen-rich-pork-seafood",
+    "name": "濃厚魚介豚骨つけ麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "contemporary",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "rich",
+      "dipping",
+      "thick_noodle",
+      "firm_noodle",
+      "pork_bone",
+      "seafood_forward",
+      "noodle_forward",
+      "fish_powder"
+    ]
+  },
+  {
+    "id": "jp-style-ramen-tsukemen-kombu-water",
+    "name": "昆布水つけ麺",
+    "localName": null,
+    "domain": "japan",
+    "noodleCategory": "ramen",
+    "culturalScope": "contemporary",
+    "country": "日本",
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "tags": [
+      "dipping",
+      "dashi_forward",
+      "noodle_forward",
+      "smooth",
+      "cold_noodle_common",
+      "kombu_water"
+    ]
+  }
+]

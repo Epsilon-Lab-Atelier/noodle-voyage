@@ -1,0 +1,180 @@
+id,title,publisher,url,kind,note,visibility,checked_at
+jra-2025,日本ご当地ラーメン一覧2025,一般社団法人 日本ラーメン協会,https://ramen-kyokai.jp/gotouchi_ramen_map/,official_catalog,名称と都道府県の確認に使用,public,
+ramen-museum-history,ラーメンの歴史,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_history/,museum,日本のラーメン文化の背景資料,public,
+epsilon-method,味覚分類と推薦方法,EpsilonLab,,editorial,本アプリ独自の初期分類と推薦計算,public,
+korea-tourism,韓国のラミョン文化,韓国観光公社,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178959,official_tourism,ラミョン文化の参考資料,public,
+vietnam-tourism-pho,The story of Vietnamese pho,Vietnam Tourism,https://vietnam.travel/things-to-do/history-pho/,official_tourism,フォーの歴史と一般的な構成,public,
+vietnam-tourism-food,21 must-try Vietnamese dishes,Vietnam Tourism,https://www.vietnam.travel/jp/things-to-do/21-must-try-vietnamese-dishes,official_tourism,ベトナム麺料理の背景資料,public,
+singapore-tourism-laksa,Dining in Singapore,Visit Singapore,https://www.visitsingapore.com/ja_jp/dining-drinks-singapore/dining/,official_tourism,ラクサを含むシンガポール食文化の参考資料,public,
+world-china,中国の麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-taiwan,台湾の麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-hongkong,香港の麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-korea,韓国の麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-cambodia,カンボジアの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-thailand,タイの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-malaysia,マレーシアの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-singapore,シンガポールの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-indonesia,インドネシアの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-myanmar,ミャンマーの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-himalaya,ヒマラヤ圏の麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-central-asia,中央アジアの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-iran,イランの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-hawaii,ハワイの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-peru,ペルーの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+world-mexico,メキシコの麺料理に関する編集資料,EpsilonLab,,editorial_pending,公開資料の確認待ち,internal,
+src-jp-other-hoto-1,ほうとう 山梨県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/houtou_yama_nashi.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-hoto-2,ほうとう,農林水産省 にっぽん伝統食図鑑,https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/hoto.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-kawara-soba-1,瓦そば 山口県,農林水産省 子どもの食育,https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine5_5.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-kawara-soba-2,下関の瓦そば,日本政府観光局,https://www.japan.travel/en/japans-local-treasures/shimonoseki-kawara-soba/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-kishimen-1,きしめん 愛知県,農林水産省 子どもの食育,https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine3_9.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-kishimen-2,愛知県産小麦 きぬあかりときしめん,愛知県,https://www.pref.aichi.jp/soshiki/engei/kinuakari.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-kokura-yakiudon-1,小倉焼うどん,北九州市公式観光情報サイト 北九州パレット,https://kitakyushucity.guide/features/detail/3040c3f0-468f-440e-80ba-73c080a1b59d,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-kokura-yakiudon-2,小倉発祥焼うどん,北九州市公式観光情報サイト 北九州パレット,https://kitakyushucity.guide/souvenirs/detail/c8b96cb0-bb0b-44f5-9610-c2976815aca3,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-nagasaki-saraudon-1,皿うどん 長崎県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_7_nagasaki.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-nagasaki-saraudon-2,長崎新地中華街と皿うどん,長崎市公式観光サイト travel nagasaki,https://www.at-nagasaki.jp/spot/111,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-sayo-horumon-yakiudon-1,佐用ホルモン焼きうどん,兵庫県 県民だよりひょうご,https://web.pref.hyogo.lg.jp/kk03/dayori2503/teiban.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-sayo-horumon-yakiudon-2,佐用のグルメ,佐用町観光協会,https://sayo-kanko.jp/gourmet/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-sobameshi-1,長田のご当地グルメ そばめし,神戸観光局 Feel KOBE,https://www.feel-kobe.jp/column/nagata-gourmet/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-sobameshi-2,神戸の食文化・そばめし,神戸市立図書館,https://www.city.kobe.lg.jp/a09222/kosodate/lifelong/toshokan/bunkodayori/back/hon_40.html,museum_or_library,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-tsuyama-horumon-udon-1,津山の牛肉文化・ホルモンうどん,津山市観光協会,https://www.tsuyamakan.jp/news/beef,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-other-tsuyama-horumon-udon-2,津山風ホルモンうどん 地域連携商品情報,ローソン,https://www.lawson.co.jp/company/news/052919/,producer_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-echizen-oroshi-1,越前おろしそば,越前市,https://www.city.echizen.lg.jp/office/060/050/etizennorosisoba.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-echizen-oroshi-2,越前おろしそば,公益財団法人日本交通公社 全国観光資源台帳,https://tabi.jtb.or.jp/res/180002-,professional_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-hegi-1,へぎそば 新潟県,農林水産省 子どもの食育,https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine3_1.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-hegi-2,へぎそば,公益財団法人日本交通公社 全国観光資源台帳,https://tabi.jtb.or.jp/res/150051-,professional_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-ita-1,山形板そば,公益財団法人日本交通公社 全国観光資源台帳,https://tabi.jtb.or.jp/res/060048-,professional_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-ita-2,村山市観光情報,村山市,https://www.city.murayama.lg.jp/kanko/index.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-iya-1,祖谷そば 徳島県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/44_5_tokushima.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-iya-2,祖谷そば,大歩危祖谷観光ナビ,https://www.oboke-iya.jp/sightseeing/index3.php,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-izumo-1,出雲そば 島根県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/izumosoba_shimane.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-izumo-2,出雲そば,農林水産省 にっぽん伝統食図鑑,https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/izumo_soba.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-izushi-1,出石皿そば 地域団体商標,特許庁,https://www.jpo.go.jp/system/trademark/gaiyo/chidan/shoukai/ichiran/5385475.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-izushi-2,出石皿そば,豊岡市,https://www.city.toyooka.lg.jp/kanko/taberu/1002200.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-jindaiji-1,深大寺,調布市,https://www.city.chofu.lg.jp/kids/zukan/zukan030.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-jindaiji-2,深大寺そば案内,深大寺そば組合,https://jindaiji-soba.chofu.com/guide.html,industry_association,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-tachi-1,裁ちそば,尾瀬檜枝岐温泉観光協会,https://www.oze-info.jp/ozh_shop/tachisobamaruya/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-tachi-2,そば処 曲家,農林水産省 里の物語,https://satomono.jp/restaurant/07368/8850/,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-taishu-1,対州そば 地理的表示登録,農林水産省,https://www.maff.go.jp/j/shokusan/gi_act/register/0061/index.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-taishu-2,対州そば 登録産品情報,日本地理的表示協議会 GI産品情報発信サイト,https://pd.jgic.jp/register/entry/61.html,industry_association,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-takato-1,高遠そば,伊那市,https://www.inacity.jp/kankojoho/taberu_kau/174kake20221124.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-takato-2,高遠そば,伊那谷観光局,https://www.inadanikankou.jp/spot/page/id=2087,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-togakushi-1,手打ちそば 長野県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/teuchi_soba_nagano.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-togakushi-2,戸隠そば 信州そば,公益財団法人日本交通公社 全国観光資源台帳,https://tabi.jtb.or.jp/res/200001-,professional_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-toji-1,とうじそば,松本市・松本広域観光情報 Discover Matsumoto,https://discover-matsumoto-area.com/spot/208,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-toji-2,奈川そばの里,ふるさと奈川,https://sobanosato.furusatonagawa.com/,industry_association,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-tsugaru-1,熟成させる幻のそば 津軽そば,青森県観光情報サイト Amazing AOMORI,https://aomori-tourism.com/blog/2006/03/1232.html,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-tsugaru-2,津軽そば,津軽藩ねぷた村 かだれ横丁,https://kadaregekijo.com/soba/,producer_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-tsumetai-niku-1,冷たい肉そば,河北町,https://www.town.kahoku.yamagata.jp/soshiki/shoko/kankousinkou/3341/672.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-tsumetai-niku-2,河北町の名物グルメ 冷たい肉そば,やまがたへの旅,https://yamagatakanko.com/yamagatabi-37,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-wanko-1,わんこそば,花巻市,https://www.city.hanamaki.iwate.jp/kanko/location/spot/1015198/1000660.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-soba-wanko-2,わんこそば 盛岡,岩手県飲食業生活衛生同業組合,https://zeninren-63.iwate-inshoku.jp/gourmet/517/,industry_association,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-goto-1,地獄炊き 五島うどん 長崎県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/46_12_nagasaki.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-goto-2,五島手延うどん 地域団体商標,特許庁,https://www.jpo.go.jp/system/trademark/gaiyo/chidan/shoukai/ichiran/5079156.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-hakata-1,ニッポン麺探訪 博多うどん,農林水産省 aff,https://www.maff.go.jp/j/pr/aff/1701/n_search.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-hakata-2,博多うどん,福岡県観光連盟 クロスロードふくおか,https://www.crossroadfukuoka.jp/spot/11376,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-himi-1,氷見のうどん,農林水産省 にっぽん伝統食図鑑,https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/himi_no_udon.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-himi-2,氷見うどんについて,海津屋,https://kaizuya.co.jp/about/,producer_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-himokawa-1,群馬のうどん,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_11_gunma.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-himokawa-2,ひもかわ 桐生発祥グルメ,桐生観光情報サイト シルクル桐生,https://kiryu-walker.net/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-hippari-1,ひっぱりうどん,山形市,https://www.city.yamagata-yamagata.lg.jp/kenkofukushi/iryou/shokuiku/1003317/1007213/1003379.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-hippari-2,山形の食文化,VISIT YAMAGATA,https://www.visityamagata.jp/about/taste/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-inaniwa-1,第284号 稲庭うどん,農林水産省,https://www.maff.go.jp/j/shokusan/gi_act/notice/pnFact/0284_index.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-inaniwa-2,稲庭うどん,公益財団法人日本交通公社 全国観光資源台帳,https://tabi.jtb.or.jp/res/050026-,professional_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-ise-1,伊勢うどん,農林水産省 にっぽん伝統食図鑑,https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/ise_udon.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-ise-2,伊勢うどん 地域団体商標,特許庁,https://www.jpo.go.jp/system/trademark/gaiyo/chidan/shoukai/ichiran/5113864.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-kazo-1,加須うどん,加須市,https://www.city.kazo.lg.jp/kanko_sports/kanko/2/1/34789.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-kazo-2,加須のうどん,加須市物産観光協会,https://www.kazo-tourism.or.jp/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-mimi-1,耳うどん 栃木県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_2_tochigi.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-mimi-2,耳うどん作り体験,栃木県観光物産協会 とちぎ旅ネット,https://www.tochigiji.or.jp/spot/s9621/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-miyazaki-kamaage-1,宮崎のうどん名店ガイド,宮崎市観光協会,https://www.miyazaki-city.tourism.or.jp/feature/miyazaki_udon,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-miyazaki-kamaage-2,宮崎県で食べたいグルメ,宮崎県観光協会,https://www.kanko-miyazaki.jp/gourmet/gourmet,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-mizusawa-1,水沢うどん,渋川市観光情報,https://www.city.shibukawa.lg.jp/kankou-site/kankou/000397/000398/p015102.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-mizusawa-2,水沢うどん田丸屋について,水沢うどん田丸屋,https://tamaruya-udon.jp/pages/about,producer_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-musashino-1,うどんが広げる埼玉の魅力,財務省 広報誌ファイナンス,https://www.mof.go.jp/public_relations/finance/202605/202605j.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-musashino-2,企画展 武蔵野のうどん,武蔵野市立武蔵野ふるさと歴史館,https://www.city.musashino.lg.jp/heiwa_bunka_sports/furusatorekishikan/oshirase_h30/1019337.html,museum_or_library,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-naruchuru-1,鳴門のソウルフード 鳴ちゅるうどん,鳴門市うずしお観光協会,https://naruto-tourism.jp/jp/27190,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-naruchuru-2,鳴門の食・特産品,鳴門市うずしお観光協会,https://naruto-tourism.jp/jp/eating,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-okkirikomi-1,おきりこみ・おっきりこみ 群馬県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/32_1_gunma.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-okkirikomi-2,おきりこみ 群馬県,農林水産省 子どもの食育,https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine2_3.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-saiki-gomadashi-1,ごまだし 大分県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/gomadashi_oita.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-saiki-gomadashi-2,佐伯ごまだし暖簾会 食べ歩きまっぷ,佐伯市観光協会,https://cms.visit-saiki.jp/spots/detail/5253ab08-414a-4a38-8ddc-b1dad82444c7,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-sanuki-1,讃岐うどん,香川県観光協会 うどん県旅ネット,https://www.my-kagawa.jp/udon,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-sanuki-2,香川の讃岐うどん,公益財団法人日本交通公社 全国観光資源台帳,https://tabi.jtb.or.jp/res/370001-,professional_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-shippoku-1,しっぽくうどん 香川県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sippoku_udon_kagawa.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-shippoku-2,受け継がれる郷土の味覚,香川県観光協会 うどん県旅ネット,https://www.my-kagawa.jp/gourmet/feature/gourmet/taste,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-yoshida-1,吉田のうどん 山梨県,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/yoshida_no_udon_yama_nashi.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-udon-yoshida-2,吉田のうどん,農林水産省 にっぽん伝統食図鑑,https://www.maff.go.jp/j/keikaku/syokubunka/traditional-foods/menu/yosidano_udon.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-fujinomiya-1,富士宮やきそば,富士宮市,https://www.city.fujinomiya.lg.jp/1025110000/p001736.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-fujinomiya-2,富士宮やきそばについて,富士宮やきそば学会,https://umya-yakisoba.com/aboutus/,industry_association,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-hiruzen-1,ひるぜん焼そば,岡山県観光連盟 晴れの国おかやま館,https://www.okayamakan.or.jp/products/detail/1788,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-hiruzen-2,ひるぜん焼そば,ひるぜん焼そば好いとん会,https://www.hiruzen.info/,industry_association,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-hita-1,日田やきそば,ツーリズムおおいた,https://www.visit-oita.jp/spots/detail/9207,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-hita-2,日田やきそば特集,ツーリズムおおいた,https://www.visit-oita.jp/magazines/detail/603,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-ishinomaki-1,石巻焼きそば,石巻市,https://www.city.ishinomaki.lg.jp/cont/10452000b/-kanko/1006/20130225203730.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-ishinomaki-2,石巻の食文化,石巻観光協会,https://www.i-kanko.com/aboutcity/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-itoigawa-black-1,糸魚川ブラック焼きそば,糸魚川市観光協会,https://www.itoigawa-kanko.net/foods/blackyakisoba/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-itoigawa-black-2,糸魚川の食,糸魚川市観光協会,https://www.itoigawa-kanko.net/foods/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-kitami-shio-1,オホーツク北見塩やきそば,北見市観光協会,https://kitamikanko.jp/spot/166/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-kitami-shio-2,北見産たまねぎ・地域農産物情報,JAきたみらい,https://www.jakitamirai.or.jp/tsushin/products/8201/,industry_association,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-namie-1,なみえ焼そば 地域団体商標,特許庁,https://www.jpo.go.jp/system/trademark/gaiyo/chidan/shoukai/ichiran/5934383.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-namie-2,なみえ焼そば,浪江町観光協会,https://namie-kanko.jp/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-ota-1,上州太田焼そば,群馬県観光物産国際協会 心にググっと観光ぐんま,https://gunma-kanko.jp/features/249,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-ota-2,太田市の名物 焼そば,太田市観光物産協会,https://www.ota-kanko.jp/gourmet/meibutsu/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-otaru-ankake-1,小樽あんかけ焼そば,小樽市,https://www.city.otaru.lg.jp/docs/2020100700936/,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-otaru-ankake-2,小樽あんかけ焼そば 100年フード認定,小樽観光協会 おたるぽーたる,https://otaru.gr.jp/tourist/bunkatilyu100nennfoodninteiotaruankakeyakisoba,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-sechi-1,せち焼き,和歌山県公式観光サイト,https://www.wakayama-kanko.or.jp/features/detail_507.html,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-sechi-2,せち焼きとは,御坊せち焼きの店 やました,https://www.setiyaki.com/setiyaki,producer_reference,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-seto-shoyu-1,瀬戸しょうゆ焼そば,瀬戸焼そばアカデミー,https://rieusa.jp/,industry_association,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-seto-shoyu-2,瀬戸の食・観光情報,瀬戸市まるっとミュージアム・観光協会,https://www.seto-marutto.info/2024/06/20/8362/,official_tourism,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-yokote-1,横手やきそば,横手市,https://www.city.yokote.lg.jp/kanko/1001536/1004609.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-jp-yakisoba-yokote-2,横手やきそば 地域団体商標,特許庁,https://www.jpo.go.jp/system/trademark/gaiyo/chidan/shoukai/ichiran/5546212.html,official_government,料理の地域性、由来、材料、提供形式の確認に使用,public,
+src-standard-ankake-yakisoba,かきと青梗菜のあんかけ焼きそば,全国製麺協同組合連合会,https://www.zenmenren.or.jp/cooking/01/01-02.html,industry_association,焼き付けた蒸し中華麺へ、肉・魚介・野菜のとろみあんをかける構造の確認,public,2026-08-10
+src-standard-aomori-niboshi,津軽煮干しラーメン,青森県観光情報サイト Amazing AOMORI,https://aomori-tourism.com/photos/detail_80.html,official_tourism,大量の煮干し・焼き干しを用いる煮干しラーメンの魚介感と地域差の確認,public,2026-08-10
+src-standard-bukkake-recipe,全国製麺協同組合連合会 ぶっかけうどん料理例,全国製麺協同組合連合会,https://zenmenren.or.jp/recipe/02/02-07.html,industry_association,冷水で締めた麺へ濃いめのつゆを直接かける構成の補足,public,2026-08-10
+src-standard-chinese-noodle,中華めん,全国製麺協同組合連合会,https://zenmenren.or.jp/raw_noodle_iroiro/chinese_noodle/,industry_association,中華麺の原料、かんすい、ラーメン・焼きそば・つけ麺・油そばの位置づけ,public,2026-08-10
+src-standard-curry-udon-history,カレーうどん,全国製麺協同組合連合会,https://www.zenmenren.or.jp/meisan/men_c/curry.html,industry_association,カレーうどんの歴史と日本の麺料理としての位置づけ,public,2026-08-10
+src-standard-curry-udon-recipe,カレーうどん料理例,全国製麺協同組合連合会,https://zenmenren.or.jp/recipe/16/08.html,industry_association,だし、カレー、肉・野菜を組み合わせる典型的な調理構成の確認,public,2026-08-10
+src-standard-ganja-history,つけ麺の歴史を変えた川越の銘店「頑者」,新横浜ラーメン博物館,https://www.raumen.co.jp/information/news_001526.html,professional_reference,特製もりそばから現代つけ麺へ至る歴史と味の強さの確認,public,2026-08-10
+src-standard-ganja-tsukemen,埼玉川越「頑者」,新横浜ラーメン博物館,https://www.raumen.co.jp/shop/ganja-raumen.html,professional_reference,極太麺、濃厚つけだれ、魚粉という現代的つけ麺の代表構造の確認,public,2026-08-10
+src-standard-kagawa-mainmenu,おさえておきたい主なメニュー,香川県観光協会 うどん県旅ネット,https://www.my-kagawa.jp/udon/feature/sanukiudon/mainmenu,official_tourism,かけ、ぶっかけ、ざる、釜あげの提供方法と食感の違いの確認,public,2026-08-10
+src-standard-kamo-nanban,鴨南蛮そば,株式会社にんべん,https://www.ninben.co.jp/recipe/4085/,producer_reference,鴨肉、焼きねぎ、温かいつゆを合わせる鴨南蛮の典型構成の確認,public,2026-08-10
+src-standard-kofu-tori-paitan,麺屋 甲武信,甲府市観光協会,https://kofu-tourism.com/gourmet/526,official_tourism,鶏ガラ・国産鶏を煮込む濃厚鶏白湯と醤油・塩だれの幅の確認,public,2026-08-10
+src-standard-kurume-tonkotsu,Kurume Ramen,福岡県観光連盟 VISIT FUKUOKA,https://www.crossroadfukuoka.jp/en/spot/12924,official_tourism,豚骨ラーメンの白濁したスープと豚の風味、久留米との関係の確認,public,2026-08-10
+src-standard-maff-hokkaido-ramen,ラーメン 北海道,農林水産省 うちの郷土料理,https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/ramen_hokkaido.html,official_government,札幌味噌、函館塩、旭川醤油という代表的な味分類の確認,public,2026-08-10
+src-standard-mori-soba,もりそば,日穀製粉株式会社,https://www.nikkoku.co.jp/entertainment/glossary/post-46.php,professional_reference,つゆにつけて食べるもりそばの呼称と、ざる・せいろとの幅の確認,public,2026-08-10
+src-standard-nagoya-taiwan-maze,台湾まぜそば,名古屋観光コンベンションビューロー,https://www.nagoya-info.jp/useful/photo_single/82/1/,official_tourism,名古屋で発達した汁なし・まぜそば系の代表例の確認,public,2026-08-10
+src-standard-nanban-explainer,鶏南蛮そば 基本の和食,キッコーマン株式会社,https://www.kikkoman.co.jp/homecook/washoku/100/,producer_reference,鴨南蛮を代表例とし、肉とねぎを焼いてかえし・だしと合わせる南蛮そばの構造確認,public,2026-08-10
+src-standard-ramen-dictionary,ラーメン大辞典,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/dictionary/,professional_reference,ラーメン各様式、たれ、白湯、煮干し、つけ麺、油そば等の用語確認,public,2026-08-10
+src-standard-ryus-tori-paitan,RYUS NOODLE BAR,新横浜ラーメン博物館,https://www.raumen.co.jp/shop/ryus-noodle-bar.html,professional_reference,鶏を長時間炊き、強火で白湯へ仕上げる鶏白湯の構造確認,public,2026-08-10
+src-standard-salt-yakisoba,細切りキャベツのガーリック白だし焼きそば,キッコーマン株式会社,https://www.kikkoman.co.jp/homecook/search/recipe/00050039/,producer_reference,ソースを使わず塩・白だし・にんにく等で仕上げる塩系焼きそばの幅の確認,public,2026-08-10
+src-standard-sauce-yakisoba,絶品ソース焼きそば,キッコーマン株式会社,https://www.kikkoman.co.jp/homecook/search/recipe/00050997/,producer_reference,蒸し中華麺、豚肉、野菜、ウスター系ソースを炒め合わせる典型構成の確認,public,2026-08-10
+src-standard-soba-general,日本そば,全国製麺協同組合連合会,https://zenmenren.or.jp/raw_noodle_iroiro/japanese_soba/,industry_association,日本そばの定義、もり・ざる・かけという代表的な食べ方の確認,public,2026-08-10
+src-standard-tempura-soba,さわらと春野菜の青のり天ぷらそば,全国製麺協同組合連合会,https://zenmenren.or.jp/recipe/09/03.html,industry_association,温かいそばつゆと天ぷらを組み合わせる典型構成の確認,public,2026-08-10
+src-standard-udon-general,うどん,全国製麺協同組合連合会,https://zenmenren.or.jp/raw_noodle_iroiro/udon/,industry_association,うどんの原料、麺のコシ、一般的な製麺特性の確認,public,2026-08-10
+src-standard-zaru-soba,ざるそば,日穀製粉株式会社,https://www.nikkoku.co.jp/entertainment/glossary/post-44.php,professional_reference,ざる盛り、海苔の有無など時代と店による違いの確認,public,2026-08-10
+src-toyohashi-curry-city,豊橋ウェブ百科事典「豊橋カレーうどん」,豊橋市,https://www.city.toyohashi.lg.jp/33978.htm,official_government,成立背景、食べ方、豊橋カレーうどん五箇条の確認,public,2026-08-10
+src-toyohashi-curry-jpo,商標登録第5990959号 豊橋カレーうどん,特許庁,https://www.jpo.go.jp/system/trademark/gaiyo/chidan/shoukai/ichiran/5990959.html,official_government,地域団体商標、豊橋市での提供、二層構造と地域ブランドの確認,public,2026-08-10
+src-contemporary-rich-seafood-pork-tsukemen-1,埼玉川越「頑者」,新横浜ラーメン博物館,https://www.raumen.co.jp/shop/ganja-raumen.html,professional_reference,極太麺、濃厚つけダレ、動物系と魚介系のWスープ、魚粉という構造の確認,public,2026-08-10
+src-contemporary-rich-seafood-pork-tsukemen-2,「あの銘店をもう一度」第3弾はつけ麺の歴史を変えた川越の銘店「頑者」,新横浜ラーメン博物館,https://www.raumen.co.jp/information/news_001526.html,professional_reference,極太麺×濃厚つけダレ×魚粉が広く普及した現代つけ麺スタイルであることの確認,public,2026-08-10
+src-contemporary-kombu-water-tsukemen-1,『ロックンスリー』の「昆布水つけ麺」定期的な発売が決定,新横浜ラーメン博物館,https://www.raumen.co.jp/information/news_002047.html,professional_reference,昆布水つけ麺が技法として広く浸透したこと、昆布水と麺・つけ汁の構成確認,public,2026-08-10
+src-contemporary-kombu-water-tsukemen-2,ロックンスリー,新横浜ラーメン博物館,https://www.raumen.co.jp/shop/rocknthree.html,professional_reference,鶏と水のラーメン、昆布水つけ麺の技法と現代ラーメンへの広がりの確認,public,2026-08-10
+src-v230-jra-2025,日本ご当地ラーメン一覧 2025,一般社団法人 日本ラーメン協会,https://ramen-kyokai.jp/gotouchi_ramen_map/index.php,industry_association,日本のご当地ラーメン185件の名称・地域と、ご当地ラーメンの位置づけの確認,public,2026-08-10
+src-v230-ramenmuseum-sapporo,全国ご当地ラーメン - 札幌ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_sapporo.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-asahikawa,全国ご当地ラーメン - 旭川ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_asahikawa.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-hakodade,全国ご当地ラーメン - 函館ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_hakodade.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-yonezawa,全国ご当地ラーメン - 米沢ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_yonezawa.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-shirakawa,全国ご当地ラーメン - 白河ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_shirakawa.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-sano,全国ご当地ラーメン - 佐野ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_sano.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-kitakata,全国ご当地ラーメン - 喜多方ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_kitakata.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-tokyo,全国ご当地ラーメン - 東京ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_tokyo.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-yokohama,全国ご当地ラーメン - 家系ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_yokohama.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-takayama,全国ご当地ラーメン - 高山ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_takayama.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-kyoto,全国ご当地ラーメン - 京都ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_kyoto.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-wakayama,全国ご当地ラーメン - 和歌山ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_wakayama.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-onomichi,全国ご当地ラーメン - 尾道ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_onomichi.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-hiroshima,全国ご当地ラーメン - 広島ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_hiroshima.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-tokushima,全国ご当地ラーメン - 徳島ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_tokushima.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-hakata,全国ご当地ラーメン - 博多ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_hakata.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-kurume,全国ご当地ラーメン - 久留米ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_kurume.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-kumamoto,全国ご当地ラーメン - 熊本ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_kumamoto.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10
+src-v230-ramenmuseum-kagoshima,全国ご当地ラーメン - 鹿児島ラーメン,新横浜ラーメン博物館,https://www.raumen.co.jp/rapedia/study_japan/study_raumen_kagoshima.html,professional_reference,麺、スープ、たれ、具材、地域的特徴の手動レビューに使用,public,2026-08-10

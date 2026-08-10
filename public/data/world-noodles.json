@@ -1,0 +1,5482 @@
+[
+  {
+    "id": "world-001",
+    "slug": "world-001",
+    "name": "蘭州牛肉麺",
+    "localName": "兰州牛肉面",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "中国",
+    "country": "中国",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "蘭州",
+    "coordinates": {
+      "lat": 36.06,
+      "lon": 103.83
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "hand_pulled",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "beef",
+        "radish"
+      ],
+      "seasonings": [
+        "salt",
+        "chili_oil"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "牛肉",
+      "香草",
+      "手延べ",
+      "澄んだスープ"
+    ],
+    "keywords": [
+      "牛肉",
+      "香草",
+      "手延べ",
+      "澄んだスープ"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "herbalIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "澄んだ牛肉スープと手延べ麺を軸に、香草や辣油を好みで重ねる中国西北部の麺料理。",
+      "background": "中国の食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-011",
+      "world-012",
+      "world-019",
+      "world-002",
+      "world-026",
+      "jp-059"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ],
+    "searchText": "蘭州牛肉麺 兰州牛肉面 中国 蘭州 牛肉 香草 手延べ 澄んだスープ"
+  },
+  {
+    "id": "world-002",
+    "slug": "world-002",
+    "name": "台湾牛肉麺",
+    "localName": "臺灣牛肉麵",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "台湾",
+    "country": "台湾",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "台北",
+    "coordinates": {
+      "lat": 25.04,
+      "lon": 121.56
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "cut",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "beef",
+        "soy"
+      ],
+      "seasonings": [
+        "soy",
+        "spice"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "牛肉",
+      "醤油",
+      "香辛料",
+      "煮込み"
+    ],
+    "keywords": [
+      "牛肉",
+      "醤油",
+      "香辛料",
+      "煮込み"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 2.3,
+        "min": 1.65,
+        "max": 2.95
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "牛肉を香辛料や醤油系の味付けで煮込み、そのスープと小麦麺を味わう台湾を代表する麺料理。",
+      "background": "台湾の食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-015",
+      "world-026",
+      "world-017",
+      "world-024",
+      "world-025",
+      "jp-073"
+    ],
+    "bridgeIds": [
+      "jp-073",
+      "jp-086",
+      "jp-005"
+    ],
+    "searchText": "台湾牛肉麺 臺灣牛肉麵 台湾 台北 牛肉 醤油 香辛料 煮込み"
+  },
+  {
+    "id": "world-003",
+    "slug": "world-003",
+    "name": "雲呑麺",
+    "localName": "雲吞麵",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "香港",
+    "country": "香港",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "香港",
+    "coordinates": {
+      "lat": 22.32,
+      "lon": 114.17
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "thin",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "seafood",
+        "pork"
+      ],
+      "seasonings": [
+        "salt",
+        "soy"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "海老",
+      "雲呑",
+      "細麺",
+      "澄んだスープ"
+    ],
+    "keywords": [
+      "海老",
+      "雲呑",
+      "細麺",
+      "澄んだスープ"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "細い小麦麺と雲呑を澄んだスープで味わう広東圏の麺料理。",
+      "background": "香港の食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-028",
+      "world-014",
+      "world-009",
+      "world-013",
+      "world-021",
+      "world-022"
+    ],
+    "bridgeIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ],
+    "searchText": "雲呑麺 雲吞麵 香港 海老 雲呑 細麺 澄んだスープ"
+  },
+  {
+    "id": "world-004",
+    "slug": "world-004",
+    "name": "過橋米線",
+    "localName": "过桥米线",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "中国",
+    "country": "中国",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "昆明",
+    "coordinates": {
+      "lat": 25.04,
+      "lon": 102.72
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice"
+      ],
+      "shape": "round",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "chicken",
+        "pork"
+      ],
+      "seasonings": [
+        "salt"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "米線",
+      "熱いスープ",
+      "別添え具材"
+    ],
+    "keywords": [
+      "米線",
+      "熱いスープ",
+      "別添え具材"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "熱いスープへ米線と別添えの具材を加えて仕上げる雲南の麺料理。",
+      "background": "中国の食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-022",
+      "world-029",
+      "jp-138",
+      "jp-153",
+      "world-030",
+      "jp-010"
+    ],
+    "bridgeIds": [
+      "jp-138",
+      "jp-153",
+      "jp-010"
+    ],
+    "searchText": "過橋米線 过桥米线 中国 昆明 米線 熱いスープ 別添え具材"
+  },
+  {
+    "id": "world-005",
+    "slug": "world-005",
+    "name": "重慶小麺",
+    "localName": "重庆小面",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "中国",
+    "country": "中国",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "重慶",
+    "coordinates": {
+      "lat": 29.56,
+      "lon": 106.55
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "thin",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "pork",
+        "vegetable"
+      ],
+      "seasonings": [
+        "chili",
+        "soy"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "辛味",
+      "花椒",
+      "香辛料",
+      "細麺"
+    ],
+    "keywords": [
+      "辛味",
+      "花椒",
+      "香辛料",
+      "細麺"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 4.2,
+        "min": 3.55,
+        "max": 4.85
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "唐辛子や花椒をきかせた調味だれと小麦麺を楽しむ重慶の庶民的な麺料理。",
+      "background": "中国の食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-081",
+      "jp-095",
+      "jp-180",
+      "jp-059",
+      "jp-077",
+      "jp-148"
+    ],
+    "bridgeIds": [
+      "jp-081",
+      "jp-095",
+      "jp-180"
+    ],
+    "searchText": "重慶小麺 重庆小面 中国 重慶 辛味 花椒 香辛料 細麺"
+  },
+  {
+    "id": "world-006",
+    "slug": "world-006",
+    "name": "螺蛳粉",
+    "localName": "螺蛳粉",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "中国",
+    "country": "中国",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "柳州",
+    "coordinates": {
+      "lat": 24.33,
+      "lon": 109.42
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice"
+      ],
+      "shape": "round",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "snail",
+        "pork"
+      ],
+      "seasonings": [
+        "chili",
+        "fermented"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "発酵",
+      "酸味",
+      "辛味",
+      "米粉麺"
+    ],
+    "keywords": [
+      "発酵",
+      "酸味",
+      "辛味",
+      "米粉麺"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 3.2,
+        "min": 2.55,
+        "max": 3.85
+      },
+      "heat": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "発酵タケノコなどの強い香りと辛味、酸味を組み合わせる柳州の米粉麺料理。",
+      "background": "中国の食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-016",
+      "world-019",
+      "world-008",
+      "jp-032",
+      "world-012",
+      "world-018"
+    ],
+    "bridgeIds": [
+      "jp-032",
+      "jp-059",
+      "jp-077"
+    ],
+    "searchText": "螺蛳粉 中国 柳州 発酵 酸味 辛味 米粉麺"
+  },
+  {
+    "id": "world-007",
+    "slug": "world-007",
+    "name": "ラミョン",
+    "localName": "라면",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "ramen",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "韓国",
+    "country": "韓国",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "全国",
+    "coordinates": {
+      "lat": 36.5,
+      "lon": 127.9
+    },
+    "form": "instant",
+    "formLabel": "即席麺文化",
+    "categoryLabel": "ラーメン",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "curly",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "mixed"
+      ],
+      "seasonings": [
+        "chili",
+        "soy"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "即席麺",
+      "辛味",
+      "鍋調理"
+    ],
+    "keywords": [
+      "即席麺",
+      "辛味",
+      "鍋調理"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "oiliness": {
+        "typical": 2.9,
+        "min": 2.1,
+        "max": 3.7
+      },
+      "saltiness": {
+        "typical": 3.8,
+        "min": 3,
+        "max": 4.6
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 2.5,
+        "min": 1.85,
+        "max": 3.15
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "韓国で広く親しまれる即席麺文化。鍋で具材と煮込み、辛味のあるスープで食べることが多い。",
+      "background": "韓国の食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "korea-tourism",
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-081",
+      "jp-095",
+      "jp-180",
+      "jp-059",
+      "jp-077",
+      "jp-148"
+    ],
+    "bridgeIds": [
+      "jp-081",
+      "jp-095",
+      "jp-180"
+    ],
+    "searchText": "ラミョン 라면 韓国 全国 即席麺 辛味 鍋調理"
+  },
+  {
+    "id": "world-008",
+    "slug": "world-008",
+    "name": "チャンポン",
+    "localName": "짬뽕",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "韓国",
+    "country": "韓国",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "仁川",
+    "coordinates": {
+      "lat": 37.46,
+      "lon": 126.7
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "medium",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "seafood",
+        "pork"
+      ],
+      "seasonings": [
+        "chili"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "海鮮",
+      "辛味",
+      "炒め野菜"
+    ],
+    "keywords": [
+      "海鮮",
+      "辛味",
+      "炒め野菜"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "海鮮や野菜を炒め、赤く辛いスープと小麦麺を合わせる韓国式の麺料理。",
+      "background": "韓国の食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-020",
+      "world-018",
+      "world-012",
+      "world-016",
+      "jp-059",
+      "jp-077"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ],
+    "searchText": "チャンポン 짬뽕 韓国 仁川 海鮮 辛味 炒め野菜"
+  },
+  {
+    "id": "world-009",
+    "slug": "world-009",
+    "name": "カルグクス",
+    "localName": "칼국수",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "韓国",
+    "country": "韓国",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "全国",
+    "coordinates": {
+      "lat": 36.5,
+      "lon": 127.9
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "knife_cut",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "chicken",
+        "seafood"
+      ],
+      "seasonings": [
+        "salt"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "手切り麺",
+      "やさしい味",
+      "出汁"
+    ],
+    "keywords": [
+      "手切り麺",
+      "やさしい味",
+      "出汁"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "包丁で切った小麦麺を、鶏や魚介などの穏やかな出汁で煮る韓国の麺料理。",
+      "background": "韓国の食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-003",
+      "world-013",
+      "world-014",
+      "world-028",
+      "jp-134",
+      "jp-139"
+    ],
+    "bridgeIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ],
+    "searchText": "カルグクス 칼국수 韓国 全国 手切り麺 やさしい味 出汁"
+  },
+  {
+    "id": "world-010",
+    "slug": "world-010",
+    "name": "冷麺",
+    "localName": "냉면",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "韓国",
+    "country": "韓国",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "平壌・咸興",
+    "coordinates": {
+      "lat": 39.04,
+      "lon": 125.76
+    },
+    "form": "cold",
+    "formLabel": "冷製",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "buckwheat",
+        "starch"
+      ],
+      "shape": "thin",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 3.5,
+      "smoothness": 4.3
+    },
+    "broth": {
+      "bases": [
+        "beef"
+      ],
+      "seasonings": [
+        "vinegar",
+        "mustard"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "冷製",
+      "酸味",
+      "弾力",
+      "そば粉"
+    ],
+    "keywords": [
+      "冷製",
+      "酸味",
+      "弾力",
+      "そば粉"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 2.5,
+        "min": 1.85,
+        "max": 3.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 3,
+        "min": 2.15,
+        "max": 3.85
+      }
+    },
+    "culture": {
+      "summary": "冷たいスープまたは辛い和えだれで、弾力のある麺を味わう朝鮮半島の麺料理。",
+      "background": "韓国の食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-033",
+      "jp-093",
+      "jp-150",
+      "jp-178",
+      "world-030",
+      "jp-117"
+    ],
+    "bridgeIds": [
+      "jp-033",
+      "jp-093",
+      "jp-150"
+    ],
+    "searchText": "冷麺 냉면 韓国 平壌・咸興 冷製 酸味 弾力 そば粉"
+  },
+  {
+    "id": "world-011",
+    "slug": "world-011",
+    "name": "フォー・ボー",
+    "localName": "phở bò",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "ベトナム",
+    "country": "ベトナム",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "ハノイ",
+    "coordinates": {
+      "lat": 21.03,
+      "lon": 105.85
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice"
+      ],
+      "shape": "flat",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "beef"
+      ],
+      "seasonings": [
+        "fish_sauce",
+        "spice"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "牛骨",
+      "米麺",
+      "香草",
+      "澄んだスープ"
+    ],
+    "keywords": [
+      "牛骨",
+      "米麺",
+      "香草",
+      "澄んだスープ"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 2.3,
+        "min": 1.65,
+        "max": 2.95
+      },
+      "herbalIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "牛肉の出汁、平たい米麺、香草を組み合わせるベトナムの代表的な汁麺。",
+      "background": "ベトナムの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "vietnam-tourism-pho",
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-014",
+      "world-001",
+      "world-023",
+      "world-003",
+      "world-013",
+      "world-028"
+    ],
+    "bridgeIds": [
+      "jp-138",
+      "jp-153",
+      "jp-082"
+    ],
+    "searchText": "フォー・ボー phở bò ベトナム ハノイ 牛骨 米麺 香草 澄んだスープ"
+  },
+  {
+    "id": "world-012",
+    "slug": "world-012",
+    "name": "ブンボーフエ",
+    "localName": "bún bò Huế",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "ベトナム",
+    "country": "ベトナム",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "フエ",
+    "coordinates": {
+      "lat": 16.46,
+      "lon": 107.59
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice"
+      ],
+      "shape": "round",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "beef",
+        "pork"
+      ],
+      "seasonings": [
+        "fish_sauce",
+        "chili",
+        "lemongrass"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "辛味",
+      "レモングラス",
+      "太い米麺"
+    ],
+    "keywords": [
+      "辛味",
+      "レモングラス",
+      "太い米麺"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "herbalIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "牛や豚の出汁にレモングラスと辛味をきかせ、丸い米麺を合わせるフエの麺料理。",
+      "background": "ベトナムの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "vietnam-tourism-food",
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-016",
+      "world-008",
+      "world-001",
+      "world-020",
+      "world-018",
+      "jp-059"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ],
+    "searchText": "ブンボーフエ bún bò huế ベトナム フエ 辛味 レモングラス 太い米麺"
+  },
+  {
+    "id": "world-013",
+    "slug": "world-013",
+    "name": "フーティウ",
+    "localName": "hủ tiếu",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "ベトナム",
+    "country": "ベトナム",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "ホーチミン",
+    "coordinates": {
+      "lat": 10.78,
+      "lon": 106.7
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice",
+        "tapioca"
+      ],
+      "shape": "thin",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "pork",
+        "seafood"
+      ],
+      "seasonings": [
+        "fish_sauce"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "豚",
+      "海鮮",
+      "米麺",
+      "汁あり・汁なし"
+    ],
+    "keywords": [
+      "豚",
+      "海鮮",
+      "米麺",
+      "汁あり・汁なし"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "豚や海鮮の出汁と細い麺を合わせ、汁ありと汁なしの両方で食べられる南部の麺料理。",
+      "background": "ベトナムの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "vietnam-tourism-food",
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-014",
+      "world-003",
+      "world-009",
+      "world-028",
+      "jp-134",
+      "jp-139"
+    ],
+    "bridgeIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ],
+    "searchText": "フーティウ hủ tiếu ベトナム ホーチミン 豚 海鮮 米麺 汁あり・汁なし"
+  },
+  {
+    "id": "world-014",
+    "slug": "world-014",
+    "name": "クイティウ",
+    "localName": "គុយទាវ",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "カンボジア",
+    "country": "カンボジア",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "プノンペン",
+    "coordinates": {
+      "lat": 11.56,
+      "lon": 104.93
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice"
+      ],
+      "shape": "thin",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "pork",
+        "beef"
+      ],
+      "seasonings": [
+        "fish_sauce"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "朝食",
+      "米麺",
+      "澄んだスープ"
+    ],
+    "keywords": [
+      "朝食",
+      "米麺",
+      "澄んだスープ"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "細い米麺を肉や魚介の澄んだスープで味わうカンボジアの定番麺料理。",
+      "background": "カンボジアの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-003",
+      "world-013",
+      "world-028",
+      "world-009",
+      "world-011",
+      "world-022"
+    ],
+    "bridgeIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ],
+    "searchText": "クイティウ គុយទាវ カンボジア プノンペン 朝食 米麺 澄んだスープ"
+  },
+  {
+    "id": "world-015",
+    "slug": "world-015",
+    "name": "ボートヌードル",
+    "localName": "ก๋วยเตี๋ยวเรือ",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "タイ",
+    "country": "タイ",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "バンコク",
+    "coordinates": {
+      "lat": 13.76,
+      "lon": 100.5
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice"
+      ],
+      "shape": "thin",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "beef",
+        "pork"
+      ],
+      "seasonings": [
+        "soy",
+        "spice"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "濃厚",
+      "香辛料",
+      "小ぶりな器"
+    ],
+    "keywords": [
+      "濃厚",
+      "香辛料",
+      "小ぶりな器"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 2.3,
+        "min": 1.65,
+        "max": 2.95
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "濃い色のスープと香辛料を特徴とし、小ぶりな器で供されることの多いタイの麺料理。",
+      "background": "タイの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-002",
+      "world-026",
+      "world-017",
+      "world-024",
+      "jp-005",
+      "jp-088"
+    ],
+    "bridgeIds": [
+      "jp-005",
+      "jp-088",
+      "jp-115"
+    ],
+    "searchText": "ボートヌードル ก๋วยเตี๋ยวเรือ タイ バンコク 濃厚 香辛料 小ぶりな器"
+  },
+  {
+    "id": "world-016",
+    "slug": "world-016",
+    "name": "トムヤムヌードル",
+    "localName": "ก๋วยเตี๋ยวต้มยำ",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "タイ",
+    "country": "タイ",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "全国",
+    "coordinates": {
+      "lat": 13.76,
+      "lon": 100.5
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice",
+        "wheat"
+      ],
+      "shape": "thin",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "seafood",
+        "pork"
+      ],
+      "seasonings": [
+        "chili",
+        "lime",
+        "fish_sauce"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "酸味",
+      "辛味",
+      "レモングラス"
+    ],
+    "keywords": [
+      "酸味",
+      "辛味",
+      "レモングラス"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 2.5,
+        "min": 1.85,
+        "max": 3.15
+      },
+      "heat": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "トムヤムの酸味と辛味を麺料理へ取り入れたタイの汁麺。",
+      "background": "タイの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-006",
+      "world-012",
+      "world-008",
+      "world-019",
+      "world-020",
+      "world-018"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ],
+    "searchText": "トムヤムヌードル ก๋วยเตี๋ยวต้มยำ タイ 全国 酸味 辛味 レモングラス"
+  },
+  {
+    "id": "world-017",
+    "slug": "world-017",
+    "name": "カオソーイ",
+    "localName": "ข้าวซอย",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "タイ",
+    "country": "タイ",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "チェンマイ",
+    "coordinates": {
+      "lat": 18.79,
+      "lon": 98.99
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "flat",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "chicken",
+        "beef"
+      ],
+      "seasonings": [
+        "curry",
+        "coconut"
+      ],
+      "aromatics": [],
+      "clarity": "opaque"
+    },
+    "ingredients": [],
+    "tags": [
+      "カレー",
+      "ココナッツ",
+      "揚げ麺"
+    ],
+    "keywords": [
+      "カレー",
+      "ココナッツ",
+      "揚げ麺"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "oiliness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.7,
+        "min": 1.05,
+        "max": 2.35
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 2.3,
+        "min": 1.65,
+        "max": 2.95
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "ココナッツを使うカレー風味のスープに、ゆで麺と揚げ麺を重ねるタイ北部の麺料理。",
+      "background": "タイの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-002",
+      "world-015",
+      "world-026",
+      "jp-115",
+      "jp-005",
+      "jp-088"
+    ],
+    "bridgeIds": [
+      "jp-115",
+      "jp-005",
+      "jp-088"
+    ],
+    "searchText": "カオソーイ ข้าวซอย タイ チェンマイ カレー ココナッツ 揚げ麺"
+  },
+  {
+    "id": "world-018",
+    "slug": "world-018",
+    "name": "カレーラクサ",
+    "localName": "curry laksa",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "マレーシア・シンガポール",
+    "country": "マレーシア・シンガポール",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "海峡地域",
+    "coordinates": {
+      "lat": 2.9,
+      "lon": 101.7
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice",
+        "wheat"
+      ],
+      "shape": "round",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "seafood",
+        "chicken"
+      ],
+      "seasonings": [
+        "curry",
+        "coconut",
+        "chili"
+      ],
+      "aromatics": [],
+      "clarity": "opaque"
+    },
+    "ingredients": [],
+    "tags": [
+      "ココナッツ",
+      "辛味",
+      "海鮮"
+    ],
+    "keywords": [
+      "ココナッツ",
+      "辛味",
+      "海鮮"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "oiliness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.7,
+        "min": 1.05,
+        "max": 2.35
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 4.2,
+        "min": 3.55,
+        "max": 4.85
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "ココナッツミルクと香辛料を使う濃厚で辛いスープの麺料理。",
+      "background": "マレーシア・シンガポールの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "singapore-tourism-laksa",
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-008",
+      "world-005",
+      "world-012",
+      "world-016",
+      "world-020",
+      "jp-059"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ],
+    "searchText": "カレーラクサ curry laksa マレーシア・シンガポール 海峡地域 ココナッツ 辛味 海鮮"
+  },
+  {
+    "id": "world-019",
+    "slug": "world-019",
+    "name": "アッサムラクサ",
+    "localName": "asam laksa",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "マレーシア",
+    "country": "マレーシア",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "ペナン",
+    "coordinates": {
+      "lat": 5.41,
+      "lon": 100.34
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice"
+      ],
+      "shape": "round",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "fish"
+      ],
+      "seasonings": [
+        "tamarind",
+        "chili"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "魚",
+      "酸味",
+      "タマリンド",
+      "香草"
+    ],
+    "keywords": [
+      "魚",
+      "酸味",
+      "タマリンド",
+      "香草"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 2.5,
+        "min": 1.85,
+        "max": 3.15
+      },
+      "heat": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 2.5,
+        "min": 1.85,
+        "max": 3.15
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "herbalIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "魚の出汁にタマリンドの強い酸味を加える、ペナンを代表するラクサ。",
+      "background": "マレーシアの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-016",
+      "world-001",
+      "world-023",
+      "world-012",
+      "world-006",
+      "world-011"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ],
+    "searchText": "アッサムラクサ asam laksa マレーシア ペナン 魚 酸味 タマリンド 香草"
+  },
+  {
+    "id": "world-020",
+    "slug": "world-020",
+    "name": "プロウンミー",
+    "localName": "prawn mee",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "シンガポール・マレーシア",
+    "country": "シンガポール・マレーシア",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "海峡地域",
+    "coordinates": {
+      "lat": 1.35,
+      "lon": 103.82
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat",
+        "rice"
+      ],
+      "shape": "mixed",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "prawn",
+        "pork"
+      ],
+      "seasonings": [
+        "chili",
+        "soy"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "海老",
+      "甲殻類",
+      "濃い出汁"
+    ],
+    "keywords": [
+      "海老",
+      "甲殻類",
+      "濃い出汁"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "海老の殻などから取る濃い出汁と麺を合わせる海峡地域の麺料理。",
+      "background": "シンガポール・マレーシアの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-008",
+      "world-012",
+      "world-016",
+      "world-018",
+      "world-003",
+      "jp-059"
+    ],
+    "bridgeIds": [
+      "jp-059",
+      "jp-077",
+      "jp-081"
+    ],
+    "searchText": "プロウンミー prawn mee シンガポール・マレーシア 海峡地域 海老 甲殻類 濃い出汁"
+  },
+  {
+    "id": "world-021",
+    "slug": "world-021",
+    "name": "ミー・チェロール",
+    "localName": "mi celor",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "インドネシア",
+    "country": "インドネシア",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "パレンバン",
+    "coordinates": {
+      "lat": -2.99,
+      "lon": 104.76
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "thick",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "prawn"
+      ],
+      "seasonings": [
+        "coconut",
+        "egg"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "海老",
+      "ココナッツ",
+      "とろみ"
+    ],
+    "keywords": [
+      "海老",
+      "ココナッツ",
+      "とろみ"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.6,
+        "min": 2.95,
+        "max": 4.25
+      },
+      "oiliness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.7,
+        "min": 1.05,
+        "max": 2.35
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 2.5,
+        "min": 1.85,
+        "max": 3.15
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "海老の出汁とココナッツを使う、とろみのある濃厚なスープの麺料理。",
+      "background": "インドネシアの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-003",
+      "jp-133",
+      "jp-183",
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ],
+    "bridgeIds": [
+      "jp-133",
+      "jp-183",
+      "jp-134"
+    ],
+    "searchText": "ミー・チェロール mi celor インドネシア パレンバン 海老 ココナッツ とろみ"
+  },
+  {
+    "id": "world-022",
+    "slug": "world-022",
+    "name": "ミー・バクソ",
+    "localName": "mi bakso",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "インドネシア",
+    "country": "インドネシア",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "全国",
+    "coordinates": {
+      "lat": -6.2,
+      "lon": 106.85
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat",
+        "rice"
+      ],
+      "shape": "mixed",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "beef"
+      ],
+      "seasonings": [
+        "salt",
+        "soy"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "肉団子",
+      "澄んだスープ",
+      "屋台"
+    ],
+    "keywords": [
+      "肉団子",
+      "澄んだスープ",
+      "屋台"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "弾力のある肉団子と麺を澄んだスープで味わうインドネシアの定番料理。",
+      "background": "インドネシアの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-004",
+      "world-029",
+      "jp-138",
+      "jp-153",
+      "world-030",
+      "world-003"
+    ],
+    "bridgeIds": [
+      "jp-138",
+      "jp-153",
+      "jp-010"
+    ],
+    "searchText": "ミー・バクソ mi bakso インドネシア 全国 肉団子 澄んだスープ 屋台"
+  },
+  {
+    "id": "world-023",
+    "slug": "world-023",
+    "name": "モヒンガー",
+    "localName": "မုန့်ဟင်းခါး",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "ミャンマー",
+    "country": "ミャンマー",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "全国",
+    "coordinates": {
+      "lat": 16.84,
+      "lon": 96.17
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "rice"
+      ],
+      "shape": "round",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "fish"
+      ],
+      "seasonings": [
+        "lemongrass",
+        "fermented"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "魚",
+      "米麺",
+      "香草",
+      "朝食"
+    ],
+    "keywords": [
+      "魚",
+      "米麺",
+      "香草",
+      "朝食"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 1.2,
+        "min": 0.55,
+        "max": 1.85
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 2.5,
+        "min": 1.85,
+        "max": 3.15
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "fermentation": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "魚のスープに米麺を合わせ、香草や豆粉などで厚みをつけるミャンマーの代表的な麺料理。",
+      "background": "ミャンマーの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-027",
+      "world-011",
+      "world-014",
+      "world-019",
+      "world-013",
+      "jp-096"
+    ],
+    "bridgeIds": [
+      "jp-096",
+      "jp-035",
+      "jp-047"
+    ],
+    "searchText": "モヒンガー မုန့်ဟင်းခါး ミャンマー 全国 魚 米麺 香草 朝食"
+  },
+  {
+    "id": "world-024",
+    "slug": "world-024",
+    "name": "トゥクパ",
+    "localName": "thukpa",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "チベット・ネパール・インド",
+    "country": "チベット・ネパール・インド",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "ヒマラヤ地域",
+    "coordinates": {
+      "lat": 28.2,
+      "lon": 84
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "hand_cut",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "meat",
+        "vegetable"
+      ],
+      "seasonings": [
+        "salt",
+        "spice"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "野菜",
+      "肉",
+      "温かいスープ"
+    ],
+    "keywords": [
+      "野菜",
+      "肉",
+      "温かいスープ"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 2.5,
+        "min": 1.85,
+        "max": 3.15
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 2.3,
+        "min": 1.65,
+        "max": 2.95
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "肉や野菜を入れた温かいスープと小麦麺を味わうヒマラヤ圏の麺料理。",
+      "background": "チベット・ネパール・インドの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-026",
+      "jp-078",
+      "jp-105",
+      "world-002",
+      "world-015",
+      "jp-134"
+    ],
+    "bridgeIds": [
+      "jp-078",
+      "jp-105",
+      "jp-134"
+    ],
+    "searchText": "トゥクパ thukpa チベット・ネパール・インド ヒマラヤ地域 野菜 肉 温かいスープ"
+  },
+  {
+    "id": "world-025",
+    "slug": "world-025",
+    "name": "テントゥク",
+    "localName": "འཐེན་ཐུག་",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "チベット",
+    "country": "チベット",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "ラサ",
+    "coordinates": {
+      "lat": 29.65,
+      "lon": 91.17
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "hand_torn",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "meat",
+        "vegetable"
+      ],
+      "seasonings": [
+        "salt"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "手ちぎり麺",
+      "煮込み",
+      "素朴"
+    ],
+    "keywords": [
+      "手ちぎり麺",
+      "煮込み",
+      "素朴"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 2.5,
+        "min": 1.85,
+        "max": 3.15
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "小麦生地を手でちぎりながらスープへ入れて煮るチベットの麺料理。",
+      "background": "チベットの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012",
+      "jp-013",
+      "jp-014",
+      "jp-018"
+    ],
+    "bridgeIds": [
+      "jp-006",
+      "jp-011",
+      "jp-012"
+    ],
+    "searchText": "テントゥク འཐེན་ཐུག་ チベット ラサ 手ちぎり麺 煮込み 素朴"
+  },
+  {
+    "id": "world-026",
+    "slug": "world-026",
+    "name": "ラグマン",
+    "localName": "laghman",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "中央アジア",
+    "country": "中央アジア",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "新疆・中央アジア",
+    "coordinates": {
+      "lat": 41,
+      "lon": 71
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "hand_pulled",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "lamb",
+        "vegetable"
+      ],
+      "seasonings": [
+        "spice"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "羊肉",
+      "手延べ",
+      "野菜"
+    ],
+    "keywords": [
+      "羊肉",
+      "手延べ",
+      "野菜"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 2.3,
+        "min": 1.65,
+        "max": 2.95
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "手延べの小麦麺に羊肉や野菜の煮込みを合わせる中央アジアの麺料理。",
+      "background": "中央アジアの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-002",
+      "world-015",
+      "world-024",
+      "world-017",
+      "jp-078",
+      "jp-134"
+    ],
+    "bridgeIds": [
+      "jp-078",
+      "jp-134",
+      "jp-139"
+    ],
+    "searchText": "ラグマン laghman 中央アジア 新疆・中央アジア 羊肉 手延べ 野菜"
+  },
+  {
+    "id": "world-027",
+    "slug": "world-027",
+    "name": "アーシュ・レシュテ",
+    "localName": "آش رشته",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "イラン",
+    "country": "イラン",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "全国",
+    "coordinates": {
+      "lat": 35.69,
+      "lon": 51.39
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "flat",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "legume",
+        "herb"
+      ],
+      "seasonings": [
+        "fermented_dairy"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "豆",
+      "香草",
+      "発酵乳",
+      "濃厚"
+    ],
+    "keywords": [
+      "豆",
+      "香草",
+      "発酵乳",
+      "濃厚"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 1.2,
+        "min": 0.55,
+        "max": 1.85
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 2.5,
+        "min": 1.85,
+        "max": 3.15
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 2.4,
+        "min": 1.75,
+        "max": 3.05
+      },
+      "fermentation": {
+        "typical": 2.7,
+        "min": 2.05,
+        "max": 3.35
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "豆や香草をたっぷり使う濃厚なスープに平たい麺を加えるイランの料理。",
+      "background": "イランの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-023",
+      "jp-096",
+      "jp-085",
+      "jp-035",
+      "jp-047",
+      "jp-052"
+    ],
+    "bridgeIds": [
+      "jp-096",
+      "jp-085",
+      "jp-035"
+    ],
+    "searchText": "アーシュ・レシュテ آش رشته イラン 全国 豆 香草 発酵乳 濃厚"
+  },
+  {
+    "id": "world-028",
+    "slug": "world-028",
+    "name": "サイミン",
+    "localName": "saimin",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "ramen",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "アメリカ合衆国・ハワイ",
+    "country": "アメリカ合衆国・ハワイ",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "ハワイ",
+    "coordinates": {
+      "lat": 21.31,
+      "lon": -157.86
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "ラーメン",
+    "noodle": {
+      "materials": [
+        "wheat",
+        "egg"
+      ],
+      "shape": "thin",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "seafood",
+        "pork"
+      ],
+      "seasonings": [
+        "soy",
+        "salt"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "多文化",
+      "澄んだスープ",
+      "細麺"
+    ],
+    "keywords": [
+      "多文化",
+      "澄んだスープ",
+      "細麺"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 4,
+        "min": 3.35,
+        "max": 4.65
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 2.7,
+        "min": 1.85,
+        "max": 3.55
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "日本、中国、フィリピンなどの食文化が交わって発展したハワイの麺料理。",
+      "background": "アメリカ合衆国・ハワイの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-003",
+      "world-014",
+      "world-009",
+      "world-013",
+      "world-022",
+      "jp-134"
+    ],
+    "bridgeIds": [
+      "jp-134",
+      "jp-139",
+      "jp-158"
+    ],
+    "searchText": "サイミン saimin アメリカ合衆国・ハワイ ハワイ 多文化 澄んだスープ 細麺"
+  },
+  {
+    "id": "world-029",
+    "slug": "world-029",
+    "name": "ソパ・ワンタン",
+    "localName": "sopa wantán",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "ペルー",
+    "country": "ペルー",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "リマ",
+    "coordinates": {
+      "lat": -12.05,
+      "lon": -77.04
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "thin",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "chicken",
+        "pork"
+      ],
+      "seasonings": [
+        "soy"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "中華系",
+      "雲呑",
+      "鶏スープ"
+    ],
+    "keywords": [
+      "中華系",
+      "雲呑",
+      "鶏スープ"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "sourness": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "中華系移民文化を背景に、雲呑と麺を鶏系スープで味わうペルーの料理。",
+      "background": "ペルーの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "world-004",
+      "world-022",
+      "jp-138",
+      "jp-153",
+      "world-030",
+      "world-003"
+    ],
+    "bridgeIds": [
+      "jp-138",
+      "jp-153",
+      "jp-010"
+    ],
+    "searchText": "ソパ・ワンタン sopa wantán ペルー リマ 中華系 雲呑 鶏スープ"
+  },
+  {
+    "id": "world-030",
+    "slug": "world-030",
+    "name": "ソパ・デ・フィデオ",
+    "localName": "sopa de fideo",
+    "aliases": [],
+    "domain": "world",
+    "noodleCategory": "world_noodle",
+    "culturalScope": "international",
+    "publicationStatus": "published",
+    "countryCode": "メキシコ",
+    "country": "メキシコ",
+    "prefectureCodes": [],
+    "prefectureNames": [],
+    "prefectureLabel": null,
+    "regionCodes": [],
+    "regionNames": [],
+    "city": "全国",
+    "coordinates": {
+      "lat": 19.43,
+      "lon": -99.13
+    },
+    "form": "soup",
+    "formLabel": "汁あり",
+    "categoryLabel": "世界の麺料理",
+    "noodle": {
+      "materials": [
+        "wheat"
+      ],
+      "shape": "vermicelli",
+      "notes": [],
+      "thickness": 2.7,
+      "width": 2.6,
+      "firmness": 2.8,
+      "elasticity": 2.7,
+      "chewiness": 2.29,
+      "smoothness": 3.2
+    },
+    "broth": {
+      "bases": [
+        "tomato",
+        "chicken"
+      ],
+      "seasonings": [
+        "tomato"
+      ],
+      "aromatics": [],
+      "clarity": "varied"
+    },
+    "ingredients": [],
+    "tags": [
+      "短い麺",
+      "トマト",
+      "家庭料理"
+    ],
+    "keywords": [
+      "短い麺",
+      "トマト",
+      "家庭料理"
+    ],
+    "taste": {
+      "richness": {
+        "typical": 3.1,
+        "min": 2.45,
+        "max": 3.75
+      },
+      "oiliness": {
+        "typical": 2.4,
+        "min": 1.6,
+        "max": 3.2
+      },
+      "saltiness": {
+        "typical": 3,
+        "min": 2.2,
+        "max": 3.8
+      },
+      "sweetness": {
+        "typical": 1.7,
+        "min": 1.05,
+        "max": 2.35
+      },
+      "sourness": {
+        "typical": 1.3,
+        "min": 0.65,
+        "max": 1.95
+      },
+      "heat": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 0.95
+      },
+      "umami": {
+        "typical": 3.4,
+        "min": 2.75,
+        "max": 4.05
+      },
+      "animalIntensity": {
+        "typical": 3.8,
+        "min": 3.15,
+        "max": 4.45
+      },
+      "seafoodIntensity": {
+        "typical": 1.8,
+        "min": 1.15,
+        "max": 2.45
+      },
+      "spiceIntensity": {
+        "typical": 0.5,
+        "min": 0,
+        "max": 1.15
+      },
+      "herbalIntensity": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "fermentation": {
+        "typical": 0.4,
+        "min": 0,
+        "max": 1.05
+      },
+      "roastedAroma": {
+        "typical": 1,
+        "min": 0.35,
+        "max": 1.65
+      },
+      "garlicIntensity": {
+        "typical": 0.8,
+        "min": 0.15,
+        "max": 1.45
+      },
+      "dashiIntensity": {
+        "typical": 1.9,
+        "min": 1.05,
+        "max": 2.75
+      },
+      "sauceIntensity": {
+        "typical": 0.3,
+        "min": 0,
+        "max": 1.15
+      },
+      "noodleAroma": {
+        "typical": 1.3,
+        "min": 0.45,
+        "max": 2.15
+      }
+    },
+    "culture": {
+      "summary": "短い細麺をトマトや鶏のスープで煮る、家庭的なメキシコの麺料理。",
+      "background": "メキシコの食文化と結びついて親しまれている麺料理です。",
+      "tradition": 3.6,
+      "uniqueness": 3,
+      "adventure": 3.8
+    },
+    "variation": "同じ名称でも、店舗や地域内の系統によって味わいに幅があります。",
+    "allergenNote": "",
+    "scoreMethod": "",
+    "publicSourceIds": [
+      "epsilon-method"
+    ],
+    "verificationLevel": "basic",
+    "reviewedAt": "2026-08-04",
+    "parentStyleIds": [],
+    "regionalExampleIds": [],
+    "derivedStyleIds": [],
+    "relatedStyleIds": [],
+    "relatedIds": [
+      "jp-117",
+      "world-004",
+      "world-022",
+      "world-029",
+      "jp-138",
+      "jp-153"
+    ],
+    "bridgeIds": [
+      "jp-117",
+      "jp-138",
+      "jp-153"
+    ],
+    "searchText": "ソパ・デ・フィデオ sopa de fideo メキシコ 全国 短い麺 トマト 家庭料理"
+  }
+]

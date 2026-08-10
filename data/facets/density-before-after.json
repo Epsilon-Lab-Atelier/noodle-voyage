@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "before": {
+    "schemaVersion": 1,
+    "sourceVersion": "v2.1.2",
+    "auditedDishes": 215,
+    "japanLocalRamen": 185,
+    "worldNoodles": 30,
+    "tagDensity": {
+      "average": 1.809,
+      "median": 2,
+      "zeroTagDishes": 53,
+      "oneOrFewerTagDishes": 98,
+      "distribution": {
+        "0": 53,
+        "1": 45,
+        "2": 41,
+        "3": 48,
+        "4": 23,
+        "5": 4,
+        "6": 1
+      }
+    },
+    "currentTagOnlyRegression": {
+      "richAndThickMatches": 0
+    },
+    "structuredCandidateRegression": {
+      "richAndThickMatches": 4,
+      "candidateIds": [
+        "jp-072",
+        "jp-075",
+        "jp-087",
+        "jp-147"
+      ],
+      "candidateNames": [
+        "つけ麺",
+        "家系ラーメン",
+        "燕背脂ラーメン",
+        "広島つけ麺"
+      ]
+    },
+    "evidenceGaps": {
+      "defaultOnlyNoodleProfiles": 165,
+      "defaultOrUnknownForms": 197,
+      "unmappedLegacyTagTypes": 18,
+      "unmappedLegacyTags": {
+        "濃い色": 5,
+        "背脂": 4,
+        "地域独自の色名": 2,
+        "替え玉文化": 2,
+        "雲呑": 2,
+        "朝食": 2,
+        "動物系と魚介の合わせ出汁": 1,
+        "多加水の縮れ麺": 1,
+        "茶": 1,
+        "生姜": 1,
+        "春雨": 1,
+        "沖縄そば麺": 1,
+        "別添え具材": 1,
+        "即席麺": 1,
+        "屋台": 1,
+        "豆": 1,
+        "多文化": 1,
+        "中華系": 1
+      }
+    },
+    "interpretation": [
+      "The zero-result rich x thick query is caused partly by sparse tag membership, not only by absence of matching dishes.",
+      "Structured taste and noodle values already identify candidates, but default-derived values require provenance and review.",
+      "Search should use a canonical facet index rather than raw tag intersection alone."
+    ]
+  },
+  "after": {
+    "schemaVersion": 1,
+    "sourceVersion": "v2.1.2",
+    "researchDataVersion": "2026.08.10-v2.3.0-researched-facets-v1",
+    "auditedDishes": 215,
+    "manualReviewedAnchors": 19,
+    "facetEvidenceRows": 984,
+    "dishesWithAtLeastOneFacet": 215,
+    "averageFacetCount": 4.577,
+    "medianFacetCount": 4,
+    "completeness": {
+      "taste": {
+        "known": 90,
+        "derived": 125,
+        "unknown": 0,
+        "knownOrDerivedRatio": 1.0
+      },
+      "brothSeasoning": {
+        "known": 110,
+        "derived": 14,
+        "unknown": 91,
+        "knownOrDerivedRatio": 0.5767
+      },
+      "noodle": {
+        "known": 19,
+        "derived": 39,
+        "unknown": 157,
+        "knownOrDerivedRatio": 0.2698
+      },
+      "servingForm": {
+        "known": 214,
+        "derived": 0,
+        "unknown": 1,
+        "knownOrDerivedRatio": 0.9953
+      },
+      "ingredients": {
+        "known": 70,
+        "derived": 0,
+        "unknown": 145,
+        "knownOrDerivedRatio": 0.3256
+      }
+    },
+    "regressions": {
+      "richAndThick": {
+        "matchCount": 4,
+        "matches": [
+          {
+            "id": "jp-072",
+            "name": "つけ麺"
+          },
+          {
+            "id": "jp-075",
+            "name": "家系ラーメン"
+          },
+          {
+            "id": "jp-087",
+            "name": "燕背脂ラーメン"
+          },
+          {
+            "id": "jp-147",
+            "name": "広島つけ麺"
+          }
+        ],
+        "note": "All matches retain provenance. Numeric-derived facets are search-only unless separately reviewed."
+      }
+    },
+    "interpretation": [
+      "All 215 records now have at least one canonical facet, but this does not mean every facet dimension is manually researched.",
+      "Taste profiles are known or derived for all records; 125 rely primarily on the existing rule-derived numeric profile.",
+      "Noodle evidence remains unknown for 157 records. This is reported, not filled with placeholder claims.",
+      "The 90 percent noodle-density goal is not used as a release blocker until source-backed review is completed."
+    ]
+  }
+}

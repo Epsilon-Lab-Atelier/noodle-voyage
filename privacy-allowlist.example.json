@@ -1,0 +1,9 @@
+{
+  "rules": [
+    {
+      "term": "PUBLIC_PLACE_NAME",
+      "paths": ["data/master/dishes.csv", "public/data/catalog.json"],
+      "reason": "A public geographic label required by the catalog"
+    }
+  ]
+}

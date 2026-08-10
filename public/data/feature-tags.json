@@ -1,0 +1,5708 @@
+{
+  "schemaVersion": 1,
+  "version": "2026.08.10-v2.3.0-density-v1",
+  "locale": "ja",
+  "policy": {
+    "internalTagIdFormat": "english_snake_case",
+    "displayLanguage": "ja",
+    "rawEnglishTagMayBeRendered": false,
+    "legacyJapaneseTagMayPassThrough": true,
+    "unknownAsciiTagPolicy": "release_error",
+    "filterLogic": {
+      "withinSameGroup": "OR",
+      "acrossGroups": "AND",
+      "excludedFilters": "NOT"
+    }
+  },
+  "groups": [
+    {
+      "id": "taste_aroma",
+      "labelJa": "味・香り",
+      "descriptionJa": "濃さ、刺激、香りの方向から絞り込みます。",
+      "sortOrder": 10
+    },
+    {
+      "id": "broth_seasoning",
+      "labelJa": "スープ・つゆ・調味",
+      "descriptionJa": "醤油、味噌、だし、ソースなどから選びます。",
+      "sortOrder": 20
+    },
+    {
+      "id": "noodle",
+      "labelJa": "麺の特徴",
+      "descriptionJa": "太さ、形、食感、製法から選びます。",
+      "sortOrder": 30
+    },
+    {
+      "id": "serving",
+      "labelJa": "食べ方・温度",
+      "descriptionJa": "汁あり、つける、焼く、煮込む、温冷などから選びます。",
+      "sortOrder": 40
+    },
+    {
+      "id": "ingredient",
+      "labelJa": "主な具材",
+      "descriptionJa": "代表的な具材や素材から選びます。",
+      "sortOrder": 50
+    },
+    {
+      "id": "culture",
+      "labelJa": "文化・個性",
+      "descriptionJa": "地域での食べられ方や背景から選びます。",
+      "sortOrder": 60
+    }
+  ],
+  "filters": [
+    {
+      "id": "soy_sauce",
+      "labelJa": "醤油系",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "soy_sauce"
+      ],
+      "legacyJapaneseTags": [
+        "醤油",
+        "濃口醤油",
+        "豚骨醤油",
+        "チャーシュー煮汁を生かす醤油味"
+      ],
+      "searchAliasesJa": [
+        "しょうゆ"
+      ],
+      "quick": true,
+      "sortOrder": 10
+    },
+    {
+      "id": "salt",
+      "labelJa": "塩系",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "salt_sauce",
+        "salt_seasoning",
+        "salt_tare"
+      ],
+      "legacyJapaneseTags": [
+        "塩",
+        "塩味",
+        "強めの塩味"
+      ],
+      "searchAliasesJa": [
+        "しお"
+      ],
+      "quick": true,
+      "sortOrder": 20
+    },
+    {
+      "id": "miso",
+      "labelJa": "味噌系",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "miso",
+        "miso_sauce",
+        "miso_stew",
+        "roasted_miso"
+      ],
+      "legacyJapaneseTags": [
+        "味噌",
+        "発酵のコク"
+      ],
+      "searchAliasesJa": [
+        "みそ"
+      ],
+      "quick": true,
+      "sortOrder": 30
+    },
+    {
+      "id": "curry",
+      "labelJa": "カレー系",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "curry",
+        "dashi_curry"
+      ],
+      "legacyJapaneseTags": [
+        "カレー"
+      ],
+      "searchAliasesJa": [
+        "カレーうどん"
+      ],
+      "quick": true,
+      "sortOrder": 40
+    },
+    {
+      "id": "sauce",
+      "labelJa": "ソース系",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "sauce",
+        "dark_sauce",
+        "strong_sauce",
+        "worcestershire_sauce"
+      ],
+      "legacyJapaneseTags": [
+        "ソース"
+      ],
+      "searchAliasesJa": [
+        "ウスター",
+        "焼きそばソース"
+      ],
+      "quick": true,
+      "sortOrder": 50
+    },
+    {
+      "id": "ankake",
+      "labelJa": "あんかけ",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "starchy_sauce"
+      ],
+      "legacyJapaneseTags": [
+        "あんかけ",
+        "とろみ"
+      ],
+      "searchAliasesJa": [
+        "餡かけ"
+      ],
+      "quick": false,
+      "sortOrder": 60
+    },
+    {
+      "id": "pork_bone",
+      "labelJa": "豚骨",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "pork_bone"
+      ],
+      "legacyJapaneseTags": [
+        "豚骨",
+        "濃厚な豚骨",
+        "地域ごとの穏やかな豚骨",
+        "豚骨醤油"
+      ],
+      "searchAliasesJa": [
+        "とんこつ"
+      ],
+      "quick": true,
+      "sortOrder": 70
+    },
+    {
+      "id": "chicken_paitan",
+      "labelJa": "鶏白湯",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "chicken_paitan",
+        "white_broth",
+        "emulsified"
+      ],
+      "legacyJapaneseTags": [
+        "鶏白湯"
+      ],
+      "searchAliasesJa": [
+        "とりぱいたん",
+        "白湯"
+      ],
+      "quick": false,
+      "sortOrder": 80
+    },
+    {
+      "id": "niboshi",
+      "labelJa": "煮干し・節系",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "niboshi",
+        "dried_fish",
+        "sardine_powder"
+      ],
+      "legacyJapaneseTags": [
+        "煮干し",
+        "節系",
+        "かつお",
+        "あごだし"
+      ],
+      "searchAliasesJa": [
+        "魚粉",
+        "焼き干し"
+      ],
+      "quick": true,
+      "sortOrder": 90
+    },
+    {
+      "id": "dashi_forward",
+      "labelJa": "だしが主役",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "dashi_forward",
+        "dashi",
+        "concentrated_dashi",
+        "dashi_added",
+        "iriko_dashi",
+        "ago_dashi"
+      ],
+      "legacyJapaneseTags": [
+        "和風だし",
+        "出汁",
+        "濃い出汁",
+        "あごだし"
+      ],
+      "searchAliasesJa": [
+        "だしが効く",
+        "出汁"
+      ],
+      "quick": true,
+      "sortOrder": 100
+    },
+    {
+      "id": "seafood_forward",
+      "labelJa": "魚介が強い",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "seafood_forward",
+        "dried_fish",
+        "niboshi",
+        "ago_dashi",
+        "iriko_dashi",
+        "fish_paste"
+      ],
+      "legacyJapaneseTags": [
+        "魚介",
+        "海鮮",
+        "魚",
+        "貝のうま味",
+        "海老",
+        "まぐろ",
+        "牡蠣",
+        "甲殻類"
+      ],
+      "searchAliasesJa": [
+        "魚介系",
+        "海鮮系"
+      ],
+      "quick": true,
+      "sortOrder": 110
+    },
+    {
+      "id": "animal_forward",
+      "labelJa": "動物系が強い",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "animal_forward",
+        "animal_umami",
+        "pork_bone",
+        "chicken_paitan",
+        "pork_broth"
+      ],
+      "legacyJapaneseTags": [
+        "豚骨",
+        "牛骨",
+        "鶏スープ",
+        "鶏・豚の濃いだし"
+      ],
+      "searchAliasesJa": [
+        "動物系",
+        "肉のだし"
+      ],
+      "quick": true,
+      "sortOrder": 120
+    },
+    {
+      "id": "backfat",
+      "labelJa": "背脂",
+      "groupId": "broth_seasoning",
+      "rawTagIds": [
+        "backfat"
+      ],
+      "legacyJapaneseTags": [
+        "背脂",
+        "油のコク"
+      ],
+      "searchAliasesJa": [
+        "背あぶら"
+      ],
+      "quick": false,
+      "sortOrder": 125,
+      "descriptionJa": "スープや表面に背脂を使う料理です。"
+    },
+    {
+      "id": "sesame",
+      "labelJa": "ごま風味",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "sesame",
+        "sesame_sauce_optional"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "胡麻",
+        "ごまだれ"
+      ],
+      "quick": false,
+      "sortOrder": 130
+    },
+    {
+      "id": "beef_bone",
+      "labelJa": "牛骨",
+      "groupId": "broth_seasoning",
+      "rawTagIds": [
+        "beef_bone"
+      ],
+      "legacyJapaneseTags": [
+        "牛骨"
+      ],
+      "searchAliasesJa": [
+        "牛だし"
+      ],
+      "quick": false,
+      "sortOrder": 135,
+      "descriptionJa": "牛骨や牛のうま味をスープの軸にします。"
+    },
+    {
+      "id": "squid_ink",
+      "labelJa": "いか墨",
+      "groupId": "broth_seasoning",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "squid_ink"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "イカ墨"
+      ],
+      "quick": false,
+      "sortOrder": 140
+    },
+    {
+      "id": "sake_lees",
+      "labelJa": "酒粕を使う",
+      "groupId": "broth_seasoning",
+      "rawTagIds": [
+        "sake_lees"
+      ],
+      "legacyJapaneseTags": [
+        "酒粕"
+      ],
+      "searchAliasesJa": [
+        "さけかす"
+      ],
+      "quick": false,
+      "sortOrder": 145,
+      "descriptionJa": "酒粕の発酵香やコクを生かします。"
+    },
+    {
+      "id": "dark_broth",
+      "labelJa": "濃い色のスープ",
+      "groupId": "broth_seasoning",
+      "rawTagIds": [
+        "dark_broth"
+      ],
+      "legacyJapaneseTags": [
+        "濃い色"
+      ],
+      "searchAliasesJa": [
+        "黒いスープ",
+        "濃色"
+      ],
+      "quick": false,
+      "sortOrder": 155,
+      "descriptionJa": "濃口醤油などによりスープやたれの色が濃い料理です。"
+    },
+    {
+      "id": "double_broth",
+      "labelJa": "動物系と魚介の合わせだし",
+      "groupId": "broth_seasoning",
+      "rawTagIds": [
+        "double_broth"
+      ],
+      "legacyJapaneseTags": [
+        "動物系と魚介の合わせ出汁"
+      ],
+      "searchAliasesJa": [
+        "Wスープ",
+        "ダブルスープ"
+      ],
+      "quick": false,
+      "sortOrder": 165,
+      "descriptionJa": "動物系スープと魚介だしを組み合わせます。"
+    },
+    {
+      "id": "fish_powder",
+      "labelJa": "魚粉を使う",
+      "groupId": "broth_seasoning",
+      "rawTagIds": [
+        "fish_powder"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "魚粉"
+      ],
+      "quick": false,
+      "sortOrder": 175,
+      "descriptionJa": "魚粉をつけ汁・スープ・具材として使います。"
+    },
+    {
+      "id": "kombu_water",
+      "labelJa": "昆布水",
+      "groupId": "broth_seasoning",
+      "rawTagIds": [
+        "kombu_water"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "昆布水つけ麺"
+      ],
+      "quick": false,
+      "sortOrder": 185,
+      "descriptionJa": "昆布のうま味と粘りを含む水へ麺を浸します。"
+    },
+    {
+      "id": "traditional",
+      "labelJa": "伝統的・王道",
+      "groupId": "culture",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "classic",
+        "historic_method",
+        "historic_dipping_sauce",
+        "historic_soba_shops"
+      ],
+      "legacyJapaneseTags": [
+        "家庭料理",
+        "素朴"
+      ],
+      "searchAliasesJa": [
+        "昔ながら",
+        "伝統"
+      ],
+      "quick": false,
+      "sortOrder": 10
+    },
+    {
+      "id": "winter_food",
+      "labelJa": "冬に食べたい",
+      "groupId": "culture",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "winter_food",
+        "warming"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "冬の料理",
+        "体が温まる"
+      ],
+      "quick": false,
+      "sortOrder": 20
+    },
+    {
+      "id": "festival_food",
+      "labelJa": "祭り・年中行事",
+      "groupId": "culture",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "festival_food",
+        "new_year",
+        "ceremonial"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "正月",
+        "祝い料理"
+      ],
+      "quick": false,
+      "sortOrder": 30
+    },
+    {
+      "id": "temple_pilgrimage",
+      "labelJa": "門前町・参詣の食文化",
+      "groupId": "culture",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "temple_town",
+        "pilgrimage",
+        "pilgrimage_food"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "寺社",
+        "参拝"
+      ],
+      "quick": false,
+      "sortOrder": 40
+    },
+    {
+      "id": "mountain_food",
+      "labelJa": "山里・山間部の料理",
+      "groupId": "culture",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "mountain_food",
+        "mountain_soba",
+        "mountain_village",
+        "mountain_city",
+        "highland_food"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "山の料理",
+        "高原"
+      ],
+      "quick": false,
+      "sortOrder": 50
+    },
+    {
+      "id": "coastal_island",
+      "labelJa": "海辺・島の料理",
+      "groupId": "culture",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "coastal_food",
+        "island_food"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "港町",
+        "島料理"
+      ],
+      "quick": false,
+      "sortOrder": 60
+    },
+    {
+      "id": "regional_rules",
+      "labelJa": "地域独自のルール",
+      "groupId": "culture",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "regional_rules",
+        "local_standard",
+        "gi_protected"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "提供ルール",
+        "GI"
+      ],
+      "quick": false,
+      "sortOrder": 70
+    },
+    {
+      "id": "local_ingredients",
+      "labelJa": "地元食材を使う",
+      "groupId": "culture",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "local_ingredients"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "地域食材",
+        "地産地消"
+      ],
+      "quick": false,
+      "sortOrder": 80
+    },
+    {
+      "id": "hospitality",
+      "labelJa": "もてなし・体験型",
+      "groupId": "culture",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "hospitality",
+        "interactive",
+        "communal"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "もてなし",
+        "体験"
+      ],
+      "quick": false,
+      "sortOrder": 90
+    },
+    {
+      "id": "kaedama",
+      "labelJa": "替え玉文化",
+      "groupId": "culture",
+      "rawTagIds": [
+        "kaedama"
+      ],
+      "legacyJapaneseTags": [
+        "替え玉文化"
+      ],
+      "searchAliasesJa": [
+        "替玉"
+      ],
+      "quick": false,
+      "sortOrder": 100,
+      "descriptionJa": "麺を追加注文する替え玉文化と結び付きます。"
+    },
+    {
+      "id": "breakfast_culture",
+      "labelJa": "朝に食べる文化",
+      "groupId": "culture",
+      "rawTagIds": [
+        "breakfast_culture"
+      ],
+      "legacyJapaneseTags": [
+        "朝食"
+      ],
+      "searchAliasesJa": [
+        "朝ラー",
+        "朝ラーメン"
+      ],
+      "quick": false,
+      "sortOrder": 110,
+      "descriptionJa": "朝食や朝ラーメンとして親しまれます。"
+    },
+    {
+      "id": "street_food",
+      "labelJa": "屋台文化",
+      "groupId": "culture",
+      "rawTagIds": [
+        "street_food"
+      ],
+      "legacyJapaneseTags": [
+        "屋台"
+      ],
+      "searchAliasesJa": [
+        "屋台料理"
+      ],
+      "quick": false,
+      "sortOrder": 120,
+      "descriptionJa": "屋台や路上の食文化と結び付きます。"
+    },
+    {
+      "id": "multicultural",
+      "labelJa": "多文化の影響",
+      "groupId": "culture",
+      "rawTagIds": [
+        "multicultural"
+      ],
+      "legacyJapaneseTags": [
+        "多文化"
+      ],
+      "searchAliasesJa": [
+        "多国籍",
+        "文化交流"
+      ],
+      "quick": false,
+      "sortOrder": 130,
+      "descriptionJa": "複数の民族・地域文化の影響を受けた料理です。"
+    },
+    {
+      "id": "chinese_influenced",
+      "labelJa": "中華料理の影響",
+      "groupId": "culture",
+      "rawTagIds": [
+        "chinese_influenced"
+      ],
+      "legacyJapaneseTags": [
+        "中華系"
+      ],
+      "searchAliasesJa": [
+        "中国料理",
+        "中華風"
+      ],
+      "quick": false,
+      "sortOrder": 140,
+      "descriptionJa": "中国・中華料理の技法や文化との関係が明確です。"
+    },
+    {
+      "id": "vegetables",
+      "labelJa": "野菜が多い",
+      "groupId": "ingredient",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "vegetables",
+        "vegetables_common",
+        "cabbage",
+        "bean_sprouts",
+        "onion",
+        "pumpkin",
+        "mushrooms"
+      ],
+      "legacyJapaneseTags": [
+        "野菜",
+        "炒め野菜",
+        "具だくさん",
+        "トマト"
+      ],
+      "searchAliasesJa": [
+        "野菜たっぷり"
+      ],
+      "quick": true,
+      "sortOrder": 10
+    },
+    {
+      "id": "seafood_ingredient",
+      "labelJa": "魚介を使う",
+      "groupId": "ingredient",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "seafood",
+        "seafood_or_meat",
+        "scallop",
+        "canned_mackerel",
+        "bonito_flakes",
+        "sardine_powder",
+        "fish_paste"
+      ],
+      "legacyJapaneseTags": [
+        "魚介",
+        "海鮮",
+        "魚",
+        "海老",
+        "まぐろ",
+        "牡蠣",
+        "甲殻類"
+      ],
+      "searchAliasesJa": [
+        "海の幸"
+      ],
+      "quick": true,
+      "sortOrder": 20
+    },
+    {
+      "id": "meat_ingredient",
+      "labelJa": "肉を使う",
+      "groupId": "ingredient",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "meat",
+        "pork",
+        "chicken",
+        "beef",
+        "duck",
+        "pork_common",
+        "meat_scraps"
+      ],
+      "legacyJapaneseTags": [
+        "肉",
+        "豚",
+        "鶏",
+        "牛肉",
+        "羊肉",
+        "カツ",
+        "肉団子",
+        "チャーシュー煮汁を生かす醤油味"
+      ],
+      "searchAliasesJa": [
+        "肉入り"
+      ],
+      "quick": true,
+      "sortOrder": 30
+    },
+    {
+      "id": "offal",
+      "labelJa": "もつ・ホルモン",
+      "groupId": "ingredient",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "beef_offal"
+      ],
+      "legacyJapaneseTags": [
+        "もつ"
+      ],
+      "searchAliasesJa": [
+        "ホルモン",
+        "内臓"
+      ],
+      "quick": false,
+      "sortOrder": 40
+    },
+    {
+      "id": "egg",
+      "labelJa": "卵を使う",
+      "groupId": "ingredient",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "egg",
+        "fried_egg",
+        "egg_bound",
+        "quail_egg"
+      ],
+      "legacyJapaneseTags": [
+        "卵"
+      ],
+      "searchAliasesJa": [
+        "目玉焼き",
+        "卵黄",
+        "うずら卵"
+      ],
+      "quick": false,
+      "sortOrder": 50
+    },
+    {
+      "id": "natto",
+      "labelJa": "納豆",
+      "groupId": "ingredient",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "natto"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "発酵大豆"
+      ],
+      "quick": false,
+      "sortOrder": 60
+    },
+    {
+      "id": "sesame_ingredient",
+      "labelJa": "ごま",
+      "groupId": "ingredient",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "sesame"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "胡麻"
+      ],
+      "quick": false,
+      "sortOrder": 70
+    },
+    {
+      "id": "tempura",
+      "labelJa": "天ぷら・揚げ物",
+      "groupId": "ingredient",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "tempura",
+        "gobo_tempura",
+        "fried_topping"
+      ],
+      "legacyJapaneseTags": [
+        "天ぷら"
+      ],
+      "searchAliasesJa": [
+        "揚げ物",
+        "ごぼう天"
+      ],
+      "quick": false,
+      "sortOrder": 80
+    },
+    {
+      "id": "dairy",
+      "labelJa": "乳製品",
+      "groupId": "ingredient",
+      "descriptionJa": "",
+      "rawTagIds": [],
+      "legacyJapaneseTags": [
+        "乳製品",
+        "発酵乳"
+      ],
+      "searchAliasesJa": [
+        "バター",
+        "チーズ",
+        "牛乳"
+      ],
+      "quick": false,
+      "sortOrder": 90
+    },
+    {
+      "id": "coconut",
+      "labelJa": "ココナッツ",
+      "groupId": "ingredient",
+      "descriptionJa": "",
+      "rawTagIds": [],
+      "legacyJapaneseTags": [
+        "ココナッツ"
+      ],
+      "searchAliasesJa": [
+        "ココナツ",
+        "ココナッツミルク"
+      ],
+      "quick": false,
+      "sortOrder": 100
+    },
+    {
+      "id": "tofu",
+      "labelJa": "豆腐を使う",
+      "groupId": "ingredient",
+      "rawTagIds": [
+        "tofu"
+      ],
+      "legacyJapaneseTags": [
+        "豆腐"
+      ],
+      "searchAliasesJa": [
+        "とうふ"
+      ],
+      "quick": false,
+      "sortOrder": 115,
+      "descriptionJa": "豆腐が代表的な具材です。"
+    },
+    {
+      "id": "tea",
+      "labelJa": "茶を使う",
+      "groupId": "ingredient",
+      "rawTagIds": [
+        "tea"
+      ],
+      "legacyJapaneseTags": [
+        "茶"
+      ],
+      "searchAliasesJa": [
+        "お茶",
+        "茶麺"
+      ],
+      "quick": false,
+      "sortOrder": 120,
+      "descriptionJa": "茶を麺やスープ、調味に使います。"
+    },
+    {
+      "id": "wonton",
+      "labelJa": "雲呑を使う",
+      "groupId": "ingredient",
+      "rawTagIds": [
+        "wonton"
+      ],
+      "legacyJapaneseTags": [
+        "雲呑"
+      ],
+      "searchAliasesJa": [
+        "ワンタン"
+      ],
+      "quick": false,
+      "sortOrder": 125,
+      "descriptionJa": "雲呑・ワンタンが代表的な具材です。"
+    },
+    {
+      "id": "beans",
+      "labelJa": "豆を使う",
+      "groupId": "ingredient",
+      "rawTagIds": [
+        "beans"
+      ],
+      "legacyJapaneseTags": [
+        "豆"
+      ],
+      "searchAliasesJa": [
+        "豆類"
+      ],
+      "quick": false,
+      "sortOrder": 130,
+      "descriptionJa": "豆類が代表的な素材です。"
+    },
+    {
+      "id": "thin_noodle",
+      "labelJa": "細麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "thin",
+        "thin_noodle_common"
+      ],
+      "legacyJapaneseTags": [
+        "細麺",
+        "中細麺"
+      ],
+      "searchAliasesJa": [
+        "細い麺"
+      ],
+      "quick": true,
+      "sortOrder": 10
+    },
+    {
+      "id": "thick_noodle",
+      "labelJa": "太麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "thick",
+        "thick_noodle",
+        "thick_noodle_common"
+      ],
+      "legacyJapaneseTags": [
+        "太い麺",
+        "太めの麺"
+      ],
+      "searchAliasesJa": [
+        "太い"
+      ],
+      "quick": true,
+      "sortOrder": 20
+    },
+    {
+      "id": "extra_thick_noodle",
+      "labelJa": "極太麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "extra_thick"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "極太"
+      ],
+      "quick": false,
+      "sortOrder": 30
+    },
+    {
+      "id": "flat_noodle",
+      "labelJa": "平打ち・幅広麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "flat",
+        "wide_flat",
+        "very_wide"
+      ],
+      "legacyJapaneseTags": [
+        "平打ち麺"
+      ],
+      "searchAliasesJa": [
+        "幅広",
+        "きしめん"
+      ],
+      "quick": true,
+      "sortOrder": 40
+    },
+    {
+      "id": "firm_noodle",
+      "labelJa": "コシが強い",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "firm",
+        "firm_noodle",
+        "extra_firm"
+      ],
+      "legacyJapaneseTags": [
+        "強い弾力",
+        "弾力",
+        "でんぷん質の強い麺"
+      ],
+      "searchAliasesJa": [
+        "硬め",
+        "歯ごたえ"
+      ],
+      "quick": true,
+      "sortOrder": 50
+    },
+    {
+      "id": "soft_noodle",
+      "labelJa": "やわらかい麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "soft",
+        "very_soft",
+        "moist"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "柔らかい",
+        "やわ麺"
+      ],
+      "quick": true,
+      "sortOrder": 60
+    },
+    {
+      "id": "smooth_noodle",
+      "labelJa": "なめらかな麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "smooth"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "つるつる",
+        "のどごし"
+      ],
+      "quick": false,
+      "sortOrder": 70
+    },
+    {
+      "id": "elastic_noodle",
+      "labelJa": "弾力がある",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "elastic"
+      ],
+      "legacyJapaneseTags": [
+        "弾力",
+        "強い弾力"
+      ],
+      "searchAliasesJa": [
+        "もちもち",
+        "弾力"
+      ],
+      "quick": false,
+      "sortOrder": 80
+    },
+    {
+      "id": "hand_stretched",
+      "labelJa": "手延べ麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "hand_stretched"
+      ],
+      "legacyJapaneseTags": [
+        "手延べ",
+        "手延べ麺"
+      ],
+      "searchAliasesJa": [
+        "手",
+        "延",
+        "べ"
+      ],
+      "quick": false,
+      "sortOrder": 90
+    },
+    {
+      "id": "handmade",
+      "labelJa": "手打ち・手作り麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "handmade",
+        "cut_without_folding",
+        "homemade_noodle"
+      ],
+      "legacyJapaneseTags": [
+        "手打ち・手もみ",
+        "手打ちの縮れ麺",
+        "手切り麺",
+        "手ちぎり麺",
+        "自家製麺文化"
+      ],
+      "searchAliasesJa": [
+        "自家製麺",
+        "手打ち",
+        "自家製"
+      ],
+      "quick": false,
+      "sortOrder": 100
+    },
+    {
+      "id": "dried_noodle",
+      "labelJa": "乾麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "dried_noodle",
+        "dried_udon"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "乾燥麺"
+      ],
+      "quick": false,
+      "sortOrder": 110
+    },
+    {
+      "id": "rice_noodle",
+      "labelJa": "米麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [],
+      "legacyJapaneseTags": [
+        "米麺",
+        "米粉麺",
+        "米線",
+        "太い米麺"
+      ],
+      "searchAliasesJa": [
+        "フォー",
+        "ビーフン"
+      ],
+      "quick": false,
+      "sortOrder": 120
+    },
+    {
+      "id": "buckwheat_noodle",
+      "labelJa": "そばの風味",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "high_buckwheat",
+        "native_buckwheat",
+        "robust_buckwheat",
+        "whole_ground_buckwheat",
+        "soba"
+      ],
+      "legacyJapaneseTags": [
+        "そば粉"
+      ],
+      "searchAliasesJa": [
+        "蕎麦",
+        "そば香"
+      ],
+      "quick": false,
+      "sortOrder": 130
+    },
+    {
+      "id": "fried_noodle",
+      "labelJa": "揚げ・焼き麺",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "fried_noodle",
+        "crispy_noodle",
+        "steamed_twice"
+      ],
+      "legacyJapaneseTags": [
+        "揚げ麺",
+        "蒸し麺"
+      ],
+      "searchAliasesJa": [
+        "か",
+        "た",
+        "焼",
+        "き"
+      ],
+      "quick": false,
+      "sortOrder": 140
+    },
+    {
+      "id": "irregular_noodle",
+      "labelJa": "不ぞろい・変わった形",
+      "groupId": "noodle",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "irregular",
+        "irregular_shape",
+        "short"
+      ],
+      "legacyJapaneseTags": [
+        "短い麺",
+        "手ちぎり麺"
+      ],
+      "searchAliasesJa": [
+        "不",
+        "揃",
+        "い"
+      ],
+      "quick": false,
+      "sortOrder": 150
+    },
+    {
+      "id": "high_hydration_curly",
+      "labelJa": "多加水の縮れ麺",
+      "groupId": "noodle",
+      "rawTagIds": [
+        "high_hydration_curly"
+      ],
+      "legacyJapaneseTags": [
+        "多加水の縮れ麺"
+      ],
+      "searchAliasesJa": [
+        "多加水麺",
+        "縮れ麺"
+      ],
+      "quick": false,
+      "sortOrder": 155,
+      "descriptionJa": "水分量が多く、もちもちした縮れ麺です。"
+    },
+    {
+      "id": "glass_noodle",
+      "labelJa": "春雨・でん粉麺",
+      "groupId": "noodle",
+      "rawTagIds": [
+        "glass_noodle"
+      ],
+      "legacyJapaneseTags": [
+        "春雨"
+      ],
+      "searchAliasesJa": [
+        "春雨麺",
+        "でん粉麺"
+      ],
+      "quick": false,
+      "sortOrder": 165,
+      "descriptionJa": "春雨やでん粉を主原料とする麺です。"
+    },
+    {
+      "id": "okinawa_soba_noodle",
+      "labelJa": "沖縄そば麺",
+      "groupId": "noodle",
+      "rawTagIds": [
+        "okinawa_soba_noodle"
+      ],
+      "legacyJapaneseTags": [
+        "沖縄そば麺"
+      ],
+      "searchAliasesJa": [
+        "沖縄麺"
+      ],
+      "quick": false,
+      "sortOrder": 175,
+      "descriptionJa": "かんすい等を使う沖縄そば独自の小麦麺です。"
+    },
+    {
+      "id": "instant_noodle",
+      "labelJa": "即席麺",
+      "groupId": "noodle",
+      "rawTagIds": [
+        "instant_noodle"
+      ],
+      "legacyJapaneseTags": [
+        "即席麺"
+      ],
+      "searchAliasesJa": [
+        "インスタント麺"
+      ],
+      "quick": false,
+      "sortOrder": 185,
+      "descriptionJa": "インスタント麺・即席麺の文化と結び付きます。"
+    },
+    {
+      "id": "soup",
+      "labelJa": "汁あり",
+      "groupId": "serving",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "soup",
+        "hot_soup",
+        "hot_soup_common"
+      ],
+      "legacyJapaneseTags": [
+        "温かいスープ",
+        "熱いスープ"
+      ],
+      "searchAliasesJa": [
+        "スープあり"
+      ],
+      "quick": true,
+      "sortOrder": 10
+    },
+    {
+      "id": "dipping",
+      "labelJa": "つけて食べる",
+      "groupId": "serving",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "dipping",
+        "dipping_sauce",
+        "separate_soup"
+      ],
+      "legacyJapaneseTags": [
+        "つけ麺"
+      ],
+      "searchAliasesJa": [
+        "つけ汁",
+        "つけそば"
+      ],
+      "quick": true,
+      "sortOrder": 20
+    },
+    {
+      "id": "brothless",
+      "labelJa": "汁なし・まぜ",
+      "groupId": "serving",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "brothless",
+        "mixed_noodle",
+        "oil_tare",
+        "mixed"
+      ],
+      "legacyJapaneseTags": [
+        "汁なし",
+        "汁あり・汁なし"
+      ],
+      "searchAliasesJa": [
+        "まぜそば",
+        "油そば"
+      ],
+      "quick": true,
+      "sortOrder": 30
+    },
+    {
+      "id": "fried_griddle",
+      "labelJa": "焼き・炒め",
+      "groupId": "serving",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "fried",
+        "griddle",
+        "pressed_on_griddle",
+        "yakiudon"
+      ],
+      "legacyJapaneseTags": [
+        "焼き・炒め"
+      ],
+      "searchAliasesJa": [
+        "鉄板",
+        "焼き麺"
+      ],
+      "quick": true,
+      "sortOrder": 40
+    },
+    {
+      "id": "stew",
+      "labelJa": "煮込み",
+      "groupId": "serving",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "stew",
+        "one_pot",
+        "hot_pot"
+      ],
+      "legacyJapaneseTags": [
+        "煮込み",
+        "鍋調理"
+      ],
+      "searchAliasesJa": [
+        "鍋",
+        "煮込む"
+      ],
+      "quick": true,
+      "sortOrder": 50
+    },
+    {
+      "id": "cold",
+      "labelJa": "冷たい",
+      "groupId": "serving",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "cold",
+        "cold_soup",
+        "cold_noodle_common"
+      ],
+      "legacyJapaneseTags": [
+        "冷製"
+      ],
+      "searchAliasesJa": [
+        "冷やし",
+        "冷たい麺"
+      ],
+      "quick": true,
+      "sortOrder": 60
+    },
+    {
+      "id": "hot",
+      "labelJa": "温かい",
+      "groupId": "serving",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "hot_soup",
+        "hot_soup_common",
+        "hot_noodle_water",
+        "warming"
+      ],
+      "legacyJapaneseTags": [
+        "温かいスープ",
+        "熱いスープ"
+      ],
+      "searchAliasesJa": [
+        "温麺"
+      ],
+      "quick": false,
+      "sortOrder": 70
+    },
+    {
+      "id": "hot_or_cold",
+      "labelJa": "温・冷どちらでも",
+      "groupId": "serving",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "cold_or_hot"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "温冷",
+        "どちらでも"
+      ],
+      "quick": false,
+      "sortOrder": 80
+    },
+    {
+      "id": "kamaage",
+      "labelJa": "釜揚げ・ゆで湯仕立て",
+      "groupId": "serving",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "kamaage",
+        "jigokudaki",
+        "hot_noodle_water",
+        "not_rinsed"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "釜あげ",
+        "地獄炊き"
+      ],
+      "quick": false,
+      "sortOrder": 90
+    },
+    {
+      "id": "shared_serving",
+      "labelJa": "取り分け・小分け",
+      "groupId": "serving",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "communal",
+        "pot_to_bowl",
+        "small_servings",
+        "multiple_servings",
+        "small_plates",
+        "refill"
+      ],
+      "legacyJapaneseTags": [
+        "小ぶりな器"
+      ],
+      "searchAliasesJa": [
+        "シェア",
+        "小皿"
+      ],
+      "quick": false,
+      "sortOrder": 100
+    },
+    {
+      "id": "separate_toppings",
+      "labelJa": "具材が別添え",
+      "groupId": "serving",
+      "rawTagIds": [
+        "separate_toppings"
+      ],
+      "legacyJapaneseTags": [
+        "別添え具材"
+      ],
+      "searchAliasesJa": [
+        "別皿"
+      ],
+      "quick": false,
+      "sortOrder": 115,
+      "descriptionJa": "具材や薬味を別皿・別容器で添えます。"
+    },
+    {
+      "id": "light",
+      "labelJa": "あっさり",
+      "groupId": "taste_aroma",
+      "descriptionJa": "油や濃さが控えめで、軽やかに感じやすい料理です。",
+      "rawTagIds": [
+        "delicate",
+        "light_broth",
+        "refreshing",
+        "light_color",
+        "clear_broth_common"
+      ],
+      "legacyJapaneseTags": [
+        "あっさり",
+        "淡麗",
+        "さっぱり",
+        "やさしい味",
+        "穏やかな味",
+        "澄んだ味わい",
+        "澄んだスープ",
+        "透明感のあるスープ"
+      ],
+      "searchAliasesJa": [
+        "軽い",
+        "すっきり",
+        "やさしい"
+      ],
+      "quick": true,
+      "sortOrder": 10
+    },
+    {
+      "id": "rich",
+      "labelJa": "濃厚",
+      "groupId": "taste_aroma",
+      "descriptionJa": "スープ、たれ、油、具材のコクが強い料理です。",
+      "rawTagIds": [
+        "rich",
+        "creamy",
+        "white_broth",
+        "emulsified",
+        "thick_soup",
+        "rich_umami"
+      ],
+      "legacyJapaneseTags": [
+        "濃厚",
+        "まろやか",
+        "油のコク",
+        "濃厚な豚骨",
+        "鶏・豚の濃いだし"
+      ],
+      "searchAliasesJa": [
+        "こってり",
+        "重い",
+        "クリーミー"
+      ],
+      "quick": true,
+      "sortOrder": 20
+    },
+    {
+      "id": "umami_forward",
+      "labelJa": "うま味が強い",
+      "groupId": "taste_aroma",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "savory",
+        "umami",
+        "rich_umami",
+        "animal_umami"
+      ],
+      "legacyJapaneseTags": [
+        "貝のうま味",
+        "濃い出汁"
+      ],
+      "searchAliasesJa": [
+        "旨味",
+        "だしが濃い"
+      ],
+      "quick": false,
+      "sortOrder": 30
+    },
+    {
+      "id": "spicy",
+      "labelJa": "辛い・香辛料が効く",
+      "groupId": "taste_aroma",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "spicy",
+        "spiced",
+        "spicy_condiment",
+        "chili_optional"
+      ],
+      "legacyJapaneseTags": [
+        "辛味",
+        "香辛料",
+        "花椒",
+        "ラー油"
+      ],
+      "searchAliasesJa": [
+        "辛口",
+        "スパイシー"
+      ],
+      "quick": true,
+      "sortOrder": 40
+    },
+    {
+      "id": "sweet_savory",
+      "labelJa": "甘辛い",
+      "groupId": "taste_aroma",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "sweet_savory",
+        "sweet_sauce",
+        "dark_tare"
+      ],
+      "legacyJapaneseTags": [
+        "甘辛い醤油"
+      ],
+      "searchAliasesJa": [
+        "甘め",
+        "甘じょっぱい"
+      ],
+      "quick": false,
+      "sortOrder": 50
+    },
+    {
+      "id": "sour",
+      "labelJa": "酸味がある",
+      "groupId": "taste_aroma",
+      "descriptionJa": "",
+      "rawTagIds": [],
+      "legacyJapaneseTags": [
+        "酸味",
+        "タマリンド"
+      ],
+      "searchAliasesJa": [
+        "酸っぱい",
+        "すっぱい"
+      ],
+      "quick": false,
+      "sortOrder": 60
+    },
+    {
+      "id": "roasted",
+      "labelJa": "香ばしい",
+      "groupId": "taste_aroma",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "roasted",
+        "strong_roast",
+        "crispy",
+        "crispy_noodle",
+        "crispy_soft",
+        "crispy_soft_contrast"
+      ],
+      "legacyJapaneseTags": [
+        "焼き・炒め",
+        "焦がしにんにく"
+      ],
+      "searchAliasesJa": [
+        "焦がし",
+        "焼き目"
+      ],
+      "quick": true,
+      "sortOrder": 70
+    },
+    {
+      "id": "garlic",
+      "labelJa": "にんにくが効く",
+      "groupId": "taste_aroma",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "garlic",
+        "garlic_optional"
+      ],
+      "legacyJapaneseTags": [
+        "にんにく",
+        "焦がしにんにく"
+      ],
+      "searchAliasesJa": [
+        "ニンニク"
+      ],
+      "quick": true,
+      "sortOrder": 80
+    },
+    {
+      "id": "fermented",
+      "labelJa": "発酵感がある",
+      "groupId": "taste_aroma",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "fermented",
+        "miso",
+        "miso_sauce",
+        "miso_stew",
+        "roasted_miso",
+        "natto"
+      ],
+      "legacyJapaneseTags": [
+        "発酵",
+        "発酵のコク",
+        "味噌",
+        "酒粕",
+        "発酵乳"
+      ],
+      "searchAliasesJa": [
+        "発酵のコク"
+      ],
+      "quick": false,
+      "sortOrder": 90
+    },
+    {
+      "id": "herbal",
+      "labelJa": "香草・ハーブを使う",
+      "groupId": "taste_aroma",
+      "descriptionJa": "",
+      "rawTagIds": [],
+      "legacyJapaneseTags": [
+        "香草",
+        "レモングラス"
+      ],
+      "searchAliasesJa": [
+        "ハーブ",
+        "パクチー"
+      ],
+      "quick": false,
+      "sortOrder": 100
+    },
+    {
+      "id": "strong_aroma",
+      "labelJa": "香りが強い",
+      "groupId": "taste_aroma",
+      "descriptionJa": "",
+      "rawTagIds": [
+        "strong_aroma",
+        "noodle_aroma",
+        "wheat_aroma",
+        "robust_buckwheat"
+      ],
+      "legacyJapaneseTags": [],
+      "searchAliasesJa": [
+        "香り高い"
+      ],
+      "quick": false,
+      "sortOrder": 110
+    },
+    {
+      "id": "ginger",
+      "labelJa": "生姜が効く",
+      "groupId": "taste_aroma",
+      "rawTagIds": [
+        "ginger"
+      ],
+      "legacyJapaneseTags": [
+        "生姜"
+      ],
+      "searchAliasesJa": [
+        "しょうが",
+        "ジンジャー"
+      ],
+      "quick": false,
+      "sortOrder": 115,
+      "descriptionJa": "生姜の香りや辛味が特徴です。"
+    }
+  ],
+  "rawTags": [
+    {
+      "id": "aged_dough",
+      "labelJa": "熟成させた生地",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "ago_dashi",
+      "labelJa": "あごだし",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "dashi_forward",
+        "seafood_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "animal_forward",
+      "labelJa": "動物系のうま味が強い",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "animal_forward"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "animal_or_seafood",
+      "labelJa": "動物系・魚介系の両方",
+      "groupId": "broth_seasoning",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "animal_umami",
+      "labelJa": "肉のうま味",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "animal_forward",
+        "umami_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "backfat",
+      "labelJa": "背脂",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "backfat"
+      ]
+    },
+    {
+      "id": "bean_sprouts",
+      "labelJa": "もやし",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "beans",
+      "labelJa": "豆を使う",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "beans"
+      ]
+    },
+    {
+      "id": "beef",
+      "labelJa": "牛肉",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "beef_bone",
+      "labelJa": "牛骨",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "beef_bone"
+      ]
+    },
+    {
+      "id": "beef_offal",
+      "labelJa": "牛ホルモン",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "offal"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "black",
+      "labelJa": "黒い仕上がり",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "bonito_flakes",
+      "labelJa": "かつお節",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "botchi_mori",
+      "labelJa": "ぼっち盛り",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "breakfast_culture",
+      "labelJa": "朝に食べる文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "breakfast_culture"
+      ]
+    },
+    {
+      "id": "broad_variation",
+      "labelJa": "店舗や系統による幅が大きい",
+      "groupId": "internal",
+      "visibility": "internal",
+      "filterIds": [],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "brothless",
+      "labelJa": "汁なし",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "brothless"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "brown_noodle",
+      "labelJa": "茶色い麺",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "cabbage",
+      "labelJa": "キャベツ",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "camellia_oil",
+      "labelJa": "椿油",
+      "groupId": "ingredient",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "canned_mackerel",
+      "labelJa": "さば缶",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "castle_town",
+      "labelJa": "城下町の食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "ceremonial",
+      "labelJa": "祝い・儀礼の料理",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "festival_food"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "chicken",
+      "labelJa": "鶏肉",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "chicken_paitan",
+      "labelJa": "鶏白湯",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "animal_forward",
+        "chicken_paitan"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "chili_optional",
+      "labelJa": "唐辛子は好みで追加",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "spicy"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "chinese_influenced",
+      "labelJa": "中華料理の影響",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "chinese_influenced"
+      ]
+    },
+    {
+      "id": "chopped_noodle",
+      "labelJa": "細かく刻んだ麺",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "classic",
+      "labelJa": "王道・定番",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "traditional"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "id": "clear_broth_common",
+      "labelJa": "澄んだスープが多い",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "coastal_food",
+      "labelJa": "海辺の食文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "coastal_island"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "cold",
+      "labelJa": "冷たい",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "cold"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "id": "cold_noodle_common",
+      "labelJa": "冷たい麺が多い",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "cold"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "cold_or_hot",
+      "labelJa": "温・冷どちらでも",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "hot_or_cold"
+      ],
+      "usageCountAtSpecTime": 7
+    },
+    {
+      "id": "cold_soup",
+      "labelJa": "冷たい汁",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "cold"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "communal",
+      "labelJa": "みんなで取り分ける",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "hospitality",
+        "shared_serving"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "concentrated_dashi",
+      "labelJa": "濃いめのだし",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "dashi_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "condiments",
+      "labelJa": "薬味を楽しむ",
+      "groupId": "ingredient",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "creamy",
+      "labelJa": "クリーミー",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "rich"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "creative_local_gourmet",
+      "labelJa": "創作系ご当地グルメ",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "crispy",
+      "labelJa": "パリッとした食感",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "roasted"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "crispy_noodle",
+      "labelJa": "香ばしく焼いた麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "fried_noodle",
+        "roasted"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "crispy_or_thick",
+      "labelJa": "揚げ麺・太麺の両方",
+      "groupId": "serving",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "crispy_soft",
+      "labelJa": "パリッと・もちっと",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "roasted"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "crispy_soft_contrast",
+      "labelJa": "香ばしさとやわらかさの対比",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "roasted"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "curry",
+      "labelJa": "カレー",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "curry"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "customizable",
+      "labelJa": "好みで味を調整できる",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "cut_without_folding",
+      "labelJa": "生地を折らずに裁つ",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "handmade"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "dark_broth",
+      "labelJa": "濃い色のスープ",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "dark_broth"
+      ]
+    },
+    {
+      "id": "dark_color",
+      "labelJa": "濃い色",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "dark_sauce",
+      "labelJa": "濃色のソース",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "sauce"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "dark_tare",
+      "labelJa": "濃い色のたれ",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "sweet_savory"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "dashi",
+      "labelJa": "だし",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "dashi_forward"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "dashi_added",
+      "labelJa": "だしを加えて蒸し焼き",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "dashi_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "dashi_curry",
+      "labelJa": "だしの効いたカレー",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "curry"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "dashi_forward",
+      "labelJa": "だしが主役",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "dashi_forward"
+      ],
+      "usageCountAtSpecTime": 7
+    },
+    {
+      "id": "delicate",
+      "labelJa": "繊細な味わい",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "dipping",
+      "labelJa": "つけて食べる",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "dipping"
+      ],
+      "usageCountAtSpecTime": 7
+    },
+    {
+      "id": "dipping_basket",
+      "labelJa": "小かごで鍋にくぐらせる",
+      "groupId": "serving",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "dipping_sauce",
+      "labelJa": "つけだれ",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "dipping"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "double_broth",
+      "labelJa": "動物系と魚介の合わせだし",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "double_broth"
+      ]
+    },
+    {
+      "id": "dried_fish",
+      "labelJa": "干し魚のだし",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "niboshi",
+        "seafood_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "dried_noodle",
+      "labelJa": "乾麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "dried_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "dried_udon",
+      "labelJa": "乾燥うどん",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "dried_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "duck",
+      "labelJa": "鴨肉",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "egg",
+      "labelJa": "卵",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "egg"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "egg_bound",
+      "labelJa": "卵でまとめる",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "egg"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "elastic",
+      "labelJa": "弾力がある",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "elastic_noodle"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "emulsified",
+      "labelJa": "乳化スープ",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "chicken_paitan",
+        "rich"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "extra_firm",
+      "labelJa": "非常に硬い麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "firm_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "extra_thick",
+      "labelJa": "極太麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "extra_thick_noodle"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "fast_food_culture",
+      "labelJa": "手軽な食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "fermented",
+      "labelJa": "発酵のコク",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "fermented"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "festival_food",
+      "labelJa": "祭り・行事の料理",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "festival_food"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "firm",
+      "labelJa": "コシが強い",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "firm_noodle"
+      ],
+      "usageCountAtSpecTime": 6
+    },
+    {
+      "id": "firm_noodle",
+      "labelJa": "コシが強い麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "firm_noodle"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "fish_paste",
+      "labelJa": "魚を使ったペースト調味料",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_forward",
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "fish_powder",
+      "labelJa": "魚粉を使う",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "fish_powder"
+      ]
+    },
+    {
+      "id": "flat",
+      "labelJa": "平打ち麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "flat_noodle"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "fried",
+      "labelJa": "焼き・炒め",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "fried_griddle"
+      ],
+      "usageCountAtSpecTime": 6
+    },
+    {
+      "id": "fried_egg",
+      "labelJa": "目玉焼き",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "egg"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "fried_noodle",
+      "labelJa": "焼き付けた麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "fried_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "fried_topping",
+      "labelJa": "揚げ物の具",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "tempura"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "fukujinzuke",
+      "labelJa": "福神漬け",
+      "groupId": "ingredient",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "funori_binder",
+      "labelJa": "布海苔つなぎ",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "garlic",
+      "labelJa": "にんにく",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "garlic"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "garlic_optional",
+      "labelJa": "にんにくは好みで追加",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "garlic"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "gi_protected",
+      "labelJa": "地理的表示（GI）登録",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "regional_rules"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "ginger",
+      "labelJa": "生姜が効く",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "ginger"
+      ]
+    },
+    {
+      "id": "glass_noodle",
+      "labelJa": "春雨・でん粉麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "glass_noodle"
+      ]
+    },
+    {
+      "id": "gobo_tempura",
+      "labelJa": "ごぼう天",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "tempura"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "grated_daikon",
+      "labelJa": "大根おろし",
+      "groupId": "ingredient",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "grated_daikon_juice",
+      "labelJa": "大根のおろし汁",
+      "groupId": "ingredient",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "griddle",
+      "labelJa": "鉄板調理",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "fried_griddle"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "id": "grilled_leek",
+      "labelJa": "焼きねぎ",
+      "groupId": "ingredient",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "hand_stretched",
+      "labelJa": "手延べ",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "hand_stretched"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "handmade",
+      "labelJa": "手打ち",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "handmade"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "heated_tile",
+      "labelJa": "熱した瓦で提供",
+      "groupId": "serving",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "high_buckwheat",
+      "labelJa": "そば粉の割合が高い",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "buckwheat_noodle"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "high_hydration_curly",
+      "labelJa": "多加水の縮れ麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "high_hydration_curly"
+      ]
+    },
+    {
+      "id": "highland_food",
+      "labelJa": "高原の食文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "mountain_food"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "historic_dipping_sauce",
+      "labelJa": "伝統的なつけ汁",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "traditional"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "historic_method",
+      "labelJa": "伝統製法",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "traditional"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "historic_soba_shops",
+      "labelJa": "歴史あるそば店",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "traditional"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "homemade_noodle",
+      "labelJa": "自家製麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "handmade"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "hospitality",
+      "labelJa": "もてなしの料理",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "hospitality"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "hot_noodle_water",
+      "labelJa": "ゆで湯ごと提供",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "hot",
+        "kamaage"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "hot_pot",
+      "labelJa": "鍋料理",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "stew"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "hot_soup",
+      "labelJa": "温かい汁",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "hot",
+        "soup"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "id": "hot_soup_common",
+      "labelJa": "温かい汁が一般的",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "hot",
+        "soup"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "hybrid_food",
+      "labelJa": "複数の料理要素を組み合わせる",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "industrial_city",
+      "labelJa": "工業都市の食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "instant_noodle",
+      "labelJa": "即席麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "instant_noodle"
+      ]
+    },
+    {
+      "id": "interactive",
+      "labelJa": "食べ方を体験する料理",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "hospitality"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "iriko_dashi",
+      "labelJa": "いりこだし",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "dashi_forward",
+        "seafood_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "irregular",
+      "labelJa": "不ぞろいな麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "irregular_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "irregular_shape",
+      "labelJa": "変わった形の麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "irregular_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "island_food",
+      "labelJa": "島の食文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "coastal_island"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "japanese_seasoning",
+      "labelJa": "和風の調味",
+      "groupId": "broth_seasoning",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "jigokudaki",
+      "labelJa": "地獄炊き",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "kamaage"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "kaedama",
+      "labelJa": "替え玉文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "kaedama"
+      ]
+    },
+    {
+      "id": "kamaage",
+      "labelJa": "釜揚げ",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "kamaage"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "kiryu_food",
+      "labelJa": "桐生の食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "kobe_food",
+      "labelJa": "神戸の食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "kombu_water",
+      "labelJa": "昆布水",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "kombu_water"
+      ]
+    },
+    {
+      "id": "layered",
+      "labelJa": "層になった盛り付け",
+      "groupId": "serving",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "light_broth",
+      "labelJa": "あっさりしただし",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "light_color",
+      "labelJa": "淡い色の仕上がり",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "local_canteen_food",
+      "labelJa": "地域の食堂文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "local_food",
+      "labelJa": "地域で親しまれる料理",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "local_ingredients",
+      "labelJa": "地元食材を使用",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "local_ingredients"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "local_standard",
+      "labelJa": "地域独自の基準",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "regional_rules"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "many_serving_styles",
+      "labelJa": "食べ方の種類が多い",
+      "groupId": "internal",
+      "visibility": "internal",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "meat",
+      "labelJa": "肉",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "meat_dipping_soup",
+      "labelJa": "肉入りのつけ汁",
+      "groupId": "ingredient",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "meat_scraps",
+      "labelJa": "肉かす",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "miso",
+      "labelJa": "味噌",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "fermented",
+        "miso"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "miso_sauce",
+      "labelJa": "味噌だれ",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "fermented",
+        "miso"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "miso_stew",
+      "labelJa": "味噌煮込み",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "fermented",
+        "miso"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "mixed",
+      "labelJa": "混ぜて食べる",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "brothless"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "mixed_noodle",
+      "labelJa": "まぜ麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "brothless"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "moist",
+      "labelJa": "しっとりした麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "soft_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "mori_zaru",
+      "labelJa": "もり・ざる",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "mountain_city",
+      "labelJa": "山あいの町の食文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "mountain_food"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "mountain_food",
+      "labelJa": "山里の食文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "mountain_food"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "mountain_soba",
+      "labelJa": "山間部のそば文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "mountain_food"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "mountain_village",
+      "labelJa": "山村の食文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "mountain_food"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "multicultural",
+      "labelJa": "多文化の影響",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "multicultural"
+      ]
+    },
+    {
+      "id": "multiple_servings",
+      "labelJa": "小分けで何皿も食べる",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "shared_serving"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "mushrooms",
+      "labelJa": "きのこ",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "nagasaki_food",
+      "labelJa": "長崎の食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "nagoya_food",
+      "labelJa": "名古屋の食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "nanban",
+      "labelJa": "南蛮そば",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "native_buckwheat",
+      "labelJa": "在来種のそば",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "buckwheat_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "natto",
+      "labelJa": "納豆",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "fermented",
+        "natto"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "new_year",
+      "labelJa": "正月の料理",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "festival_food"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "niboshi",
+      "labelJa": "煮干し",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "niboshi",
+        "seafood_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "night_food",
+      "labelJa": "夜食・締めの料理",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "no_flour_batter",
+      "labelJa": "小麦粉の生地を使わない",
+      "groupId": "serving",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "noodle_aroma",
+      "labelJa": "麺の香りが強い",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "strong_aroma"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "noodle_forward",
+      "labelJa": "麺が主役",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "not_rinsed",
+      "labelJa": "水で締めない",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "kamaage"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "oil_tare",
+      "labelJa": "香味油とたれ",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "brothless"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "okinawa_soba_noodle",
+      "labelJa": "沖縄そば麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "okinawa_soba_noodle"
+      ]
+    },
+    {
+      "id": "one_pot",
+      "labelJa": "一つの鍋で煮込む",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "stew"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "onion",
+      "labelJa": "玉ねぎ",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "other_regional_noodle",
+      "labelJa": "その他のご当地麺類",
+      "groupId": "internal",
+      "visibility": "internal",
+      "filterIds": [],
+      "usageCountAtSpecTime": 8
+    },
+    {
+      "id": "pickles",
+      "labelJa": "漬物",
+      "groupId": "ingredient",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "pilgrimage",
+      "labelJa": "参詣・信仰と関わる",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "temple_pilgrimage"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "pilgrimage_food",
+      "labelJa": "参詣の食文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "temple_pilgrimage"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "pork",
+      "labelJa": "豚肉",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "pork_bone",
+      "labelJa": "豚骨",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "animal_forward",
+        "pork_bone"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "pork_broth",
+      "labelJa": "豚肉の煮汁",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "animal_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "pork_common",
+      "labelJa": "豚肉を使うことが多い",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "portion_bundles",
+      "labelJa": "一口分ずつ束ねる",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "postwar_food",
+      "labelJa": "戦後に広まった料理",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "pot_to_bowl",
+      "labelJa": "鍋から直接取り分ける",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "shared_serving"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "pottery_town",
+      "labelJa": "焼き物の町の食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "poured_sauce",
+      "labelJa": "つゆを直接かける",
+      "groupId": "serving",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "pressed_on_griddle",
+      "labelJa": "鉄板で押し焼き",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "fried_griddle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "pumpkin",
+      "labelJa": "かぼちゃ",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "quail_egg",
+      "labelJa": "うずら卵",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "egg"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "quick_soup",
+      "labelJa": "手早く作れる汁",
+      "groupId": "serving",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "refill",
+      "labelJa": "おかわりを重ねる",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "shared_serving"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "refreshing",
+      "labelJa": "さっぱり",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "regional_color_name",
+      "labelJa": "地域独自の色名",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": []
+    },
+    {
+      "id": "regional_rules",
+      "labelJa": "地域独自の提供ルール",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "regional_rules"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "retro_city_food",
+      "labelJa": "昔ながらの町の食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "rice_and_noodle",
+      "labelJa": "ご飯と麺を合わせる",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "rich",
+      "labelJa": "濃厚",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "rich"
+      ],
+      "usageCountAtSpecTime": 7
+    },
+    {
+      "id": "rich_umami",
+      "labelJa": "うま味が濃い",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "rich",
+        "umami_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "rinsed",
+      "labelJa": "冷水で締める",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "roasted",
+      "labelJa": "香ばしい",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "roasted"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "roasted_miso",
+      "labelJa": "焼き味噌",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "fermented",
+        "miso"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "robust_buckwheat",
+      "labelJa": "そばの風味が力強い",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "buckwheat_noodle",
+        "strong_aroma"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "round",
+      "labelJa": "丸い麺",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "round_fishcake",
+      "labelJa": "丸天",
+      "groupId": "ingredient",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "rural_food",
+      "labelJa": "農村の食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "rural_soba",
+      "labelJa": "農村のそば文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "rustic",
+      "labelJa": "素朴な味わい",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "sake_lees",
+      "labelJa": "酒粕を使う",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "sake_lees"
+      ]
+    },
+    {
+      "id": "salt_sauce",
+      "labelJa": "塩だれ",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "salt"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "salt_seasoning",
+      "labelJa": "塩味",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "salt"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "salt_tare",
+      "labelJa": "塩だれ",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "salt"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "sardine_powder",
+      "labelJa": "いわしの削り粉",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "niboshi",
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "sauce",
+      "labelJa": "ソース味",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "sauce"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "savory",
+      "labelJa": "うま味が豊か",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "umami_forward"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "scallop",
+      "labelJa": "ほたて",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "seafood",
+      "labelJa": "魚介",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "id": "seafood_forward",
+      "labelJa": "魚介の風味が強い",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "seafood_or_meat",
+      "labelJa": "魚介または肉",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "seasonal",
+      "labelJa": "季節の料理",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "self_service_culture",
+      "labelJa": "セルフサービス文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "separate_soup",
+      "labelJa": "麺と汁を別々に提供",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "dipping"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "separate_toppings",
+      "labelJa": "具材が別添え",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "separate_toppings"
+      ]
+    },
+    {
+      "id": "sesame",
+      "labelJa": "ごま",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "sesame",
+        "sesame_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "sesame_sauce_optional",
+      "labelJa": "ごまだれも選べる",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "sesame"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "shop_variation",
+      "labelJa": "店ごとの違いが大きい",
+      "groupId": "internal",
+      "visibility": "internal",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "short",
+      "labelJa": "短い麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "irregular_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "simple",
+      "labelJa": "シンプル",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "simple_ingredients",
+      "labelJa": "具材がシンプル",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "small_plates",
+      "labelJa": "小皿で提供",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "shared_serving"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "small_servings",
+      "labelJa": "一口分ずつ提供",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "shared_serving"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "smooth",
+      "labelJa": "なめらか",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "smooth_noodle"
+      ],
+      "usageCountAtSpecTime": 7
+    },
+    {
+      "id": "soba",
+      "labelJa": "そば",
+      "groupId": "noodle",
+      "visibility": "internal",
+      "filterIds": [
+        "buckwheat_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "soft",
+      "labelJa": "やわらかい麺",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "soft_noodle"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "id": "soup",
+      "labelJa": "汁あり",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "soup"
+      ],
+      "usageCountAtSpecTime": 6
+    },
+    {
+      "id": "soy_sauce",
+      "labelJa": "醤油",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "soy_sauce"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "soybean_binder",
+      "labelJa": "大豆をつなぎに使う",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "spiced",
+      "labelJa": "香辛料が効く",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "spicy"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "spicy",
+      "labelJa": "辛い",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "spicy"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "spicy_condiment",
+      "labelJa": "辛味調味料",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "spicy"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "spring_water",
+      "labelJa": "湧水・良質な水",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "squid_ink",
+      "labelJa": "いか墨",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "squid_ink"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "starchy_sauce",
+      "labelJa": "あんかけ",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "ankake"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "steamed_twice",
+      "labelJa": "二度蒸し麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "fried_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "stew",
+      "labelJa": "煮込み",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "stew"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "straight_noodle",
+      "labelJa": "まっすぐな麺",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "street_food",
+      "labelJa": "屋台文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "street_food"
+      ]
+    },
+    {
+      "id": "strong_aroma",
+      "labelJa": "香りが強い",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "strong_aroma"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "strong_roast",
+      "labelJa": "強い香ばしさ",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "roasted"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "strong_sauce",
+      "labelJa": "濃いソース",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "sauce"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "strong_tare",
+      "labelJa": "濃いたれ",
+      "groupId": "broth_seasoning",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "sweet_sauce",
+      "labelJa": "甘めのソース",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "sweet_savory"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "sweet_savory",
+      "labelJa": "甘辛い",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "sweet_savory"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "tea",
+      "labelJa": "茶を使う",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "tea"
+      ]
+    },
+    {
+      "id": "tea_soba",
+      "labelJa": "茶そば",
+      "groupId": "noodle",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "temple_town",
+      "labelJa": "門前町の食文化",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "temple_pilgrimage"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "tempura",
+      "labelJa": "天ぷら",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "tempura"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "thick",
+      "labelJa": "太麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "thick_noodle"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "id": "thick_noodle",
+      "labelJa": "太麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "thick_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "thick_noodle_common",
+      "labelJa": "太麺が多い",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "thick_noodle"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "thick_soup",
+      "labelJa": "とろみのある汁",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "rich"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "thin",
+      "labelJa": "細麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "thin_noodle"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "id": "thin_noodle_common",
+      "labelJa": "細麺が多い",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "thin_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "tofu",
+      "labelJa": "豆腐を使う",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "tofu"
+      ]
+    },
+    {
+      "id": "tororo",
+      "labelJa": "とろろ",
+      "groupId": "ingredient",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "udon",
+      "labelJa": "うどん",
+      "groupId": "noodle",
+      "visibility": "internal",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "umami",
+      "labelJa": "うま味が強い",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "umami_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "vegetables",
+      "labelJa": "野菜",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 8
+    },
+    {
+      "id": "vegetables_common",
+      "labelJa": "野菜を使うことが多い",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "very_soft",
+      "labelJa": "非常にやわらかい麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "soft_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "very_wide",
+      "labelJa": "非常に幅広い麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "flat_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "warigo",
+      "labelJa": "割子そば",
+      "groupId": "taste_aroma",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "warming",
+      "labelJa": "体が温まる",
+      "groupId": "taste_aroma",
+      "visibility": "filter",
+      "filterIds": [
+        "hot",
+        "winter_food"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "wheat_aroma",
+      "labelJa": "小麦の香り",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "strong_aroma"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "wheat_region",
+      "labelJa": "小麦産地の食文化",
+      "groupId": "culture",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "white_broth",
+      "labelJa": "白濁スープ",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "chicken_paitan",
+        "rich"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "id": "whole_ground_buckwheat",
+      "labelJa": "挽きぐるみそば",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "buckwheat_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "wide_flat",
+      "labelJa": "幅広い平打ち麺",
+      "groupId": "noodle",
+      "visibility": "filter",
+      "filterIds": [
+        "flat_noodle"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "winter_food",
+      "labelJa": "冬の料理",
+      "groupId": "culture",
+      "visibility": "filter",
+      "filterIds": [
+        "winter_food"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "id": "wonton",
+      "labelJa": "雲呑を使う",
+      "groupId": "ingredient",
+      "visibility": "filter",
+      "filterIds": [
+        "wonton"
+      ]
+    },
+    {
+      "id": "wooden_board",
+      "labelJa": "板に盛る",
+      "groupId": "serving",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "wooden_tray",
+      "labelJa": "木の器に盛る",
+      "groupId": "serving",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "worcestershire_sauce",
+      "labelJa": "ウスター系ソース",
+      "groupId": "broth_seasoning",
+      "visibility": "filter",
+      "filterIds": [
+        "sauce"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "id": "yakiudon",
+      "labelJa": "焼うどん",
+      "groupId": "serving",
+      "visibility": "filter",
+      "filterIds": [
+        "fried_griddle"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "id": "year_round",
+      "labelJa": "一年を通して食べる",
+      "groupId": "serving",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 1
+    }
+  ],
+  "legacyJapaneseTags": [
+    {
+      "value": "あごだし",
+      "labelJa": "あごだし",
+      "visibility": "filter",
+      "filterIds": [
+        "dashi_forward",
+        "niboshi"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "あっさり",
+      "labelJa": "あっさり",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "value": "あんかけ",
+      "labelJa": "あんかけ",
+      "visibility": "filter",
+      "filterIds": [
+        "ankake"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "カツ",
+      "labelJa": "カツ",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "かつお",
+      "labelJa": "かつお",
+      "visibility": "filter",
+      "filterIds": [
+        "niboshi"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "カレー",
+      "labelJa": "カレー",
+      "visibility": "filter",
+      "filterIds": [
+        "curry"
+      ],
+      "usageCountAtSpecTime": 6
+    },
+    {
+      "value": "ココナッツ",
+      "labelJa": "ココナッツ",
+      "visibility": "filter",
+      "filterIds": [
+        "coconut"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "さっぱり",
+      "labelJa": "さっぱり",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "value": "ソース",
+      "labelJa": "ソース",
+      "visibility": "filter",
+      "filterIds": [
+        "sauce"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "そば粉",
+      "labelJa": "そば粉",
+      "visibility": "filter",
+      "filterIds": [
+        "buckwheat_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "タマリンド",
+      "labelJa": "タマリンド",
+      "visibility": "filter",
+      "filterIds": [
+        "sour"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "チャーシュー煮汁を生かす醤油味",
+      "labelJa": "チャーシュー煮汁を生かす醤油味",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient",
+        "soy_sauce"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "つけ麺",
+      "labelJa": "つけ麺",
+      "visibility": "filter",
+      "filterIds": [
+        "dipping"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "でんぷん質の強い麺",
+      "labelJa": "でんぷん質の強い麺",
+      "visibility": "filter",
+      "filterIds": [
+        "firm_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "トマト",
+      "labelJa": "トマト",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "とろみ",
+      "labelJa": "とろみ",
+      "visibility": "filter",
+      "filterIds": [
+        "ankake"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "にんにく",
+      "labelJa": "にんにく",
+      "visibility": "filter",
+      "filterIds": [
+        "garlic"
+      ],
+      "usageCountAtSpecTime": 7
+    },
+    {
+      "value": "まぐろ",
+      "labelJa": "まぐろ",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_forward",
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "まろやか",
+      "labelJa": "まろやか",
+      "visibility": "filter",
+      "filterIds": [
+        "rich"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "value": "もつ",
+      "labelJa": "もつ",
+      "visibility": "filter",
+      "filterIds": [
+        "offal"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "value": "やさしい味",
+      "labelJa": "やさしい味",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "ラー油",
+      "labelJa": "ラー油",
+      "visibility": "filter",
+      "filterIds": [
+        "spicy"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "レモングラス",
+      "labelJa": "レモングラス",
+      "visibility": "filter",
+      "filterIds": [
+        "herbal"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "雲呑",
+      "labelJa": "雲呑",
+      "visibility": "detail",
+      "filterIds": [
+        "wonton"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "塩",
+      "labelJa": "塩",
+      "visibility": "filter",
+      "filterIds": [
+        "salt"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "塩味",
+      "labelJa": "塩味",
+      "visibility": "filter",
+      "filterIds": [
+        "salt"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "value": "沖縄そば麺",
+      "labelJa": "沖縄そば麺",
+      "visibility": "detail",
+      "filterIds": [
+        "okinawa_soba_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "屋台",
+      "labelJa": "屋台",
+      "visibility": "detail",
+      "filterIds": [
+        "street_food"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "牡蠣",
+      "labelJa": "牡蠣",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_forward",
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "温かいスープ",
+      "labelJa": "温かいスープ",
+      "visibility": "filter",
+      "filterIds": [
+        "hot",
+        "soup"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "穏やかな味",
+      "labelJa": "穏やかな味",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "家庭料理",
+      "labelJa": "家庭料理",
+      "visibility": "filter",
+      "filterIds": [
+        "traditional"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "花椒",
+      "labelJa": "花椒",
+      "visibility": "filter",
+      "filterIds": [
+        "spicy"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "海鮮",
+      "labelJa": "海鮮",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_forward",
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "海老",
+      "labelJa": "海老",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_forward",
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "貝のうま味",
+      "labelJa": "貝のうま味",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_forward",
+        "umami_forward"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "甘辛い醤油",
+      "labelJa": "甘辛い醤油",
+      "visibility": "filter",
+      "filterIds": [
+        "sweet_savory"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "牛骨",
+      "labelJa": "牛骨",
+      "visibility": "filter",
+      "filterIds": [
+        "animal_forward",
+        "beef_bone"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "牛肉",
+      "labelJa": "牛肉",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "魚",
+      "labelJa": "魚",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_forward",
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "魚介",
+      "labelJa": "魚介",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_forward",
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 11
+    },
+    {
+      "value": "強い弾力",
+      "labelJa": "強い弾力",
+      "visibility": "filter",
+      "filterIds": [
+        "elastic_noodle",
+        "firm_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "強めの塩味",
+      "labelJa": "強めの塩味",
+      "visibility": "filter",
+      "filterIds": [
+        "salt"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "具だくさん",
+      "labelJa": "具だくさん",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 8
+    },
+    {
+      "value": "鶏",
+      "labelJa": "鶏",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "鶏・豚の濃いだし",
+      "labelJa": "鶏・豚の濃いだし",
+      "visibility": "filter",
+      "filterIds": [
+        "animal_forward",
+        "rich"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "鶏スープ",
+      "labelJa": "鶏スープ",
+      "visibility": "filter",
+      "filterIds": [
+        "animal_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "鶏白湯",
+      "labelJa": "鶏白湯",
+      "visibility": "filter",
+      "filterIds": [
+        "chicken_paitan"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "甲殻類",
+      "labelJa": "甲殻類",
+      "visibility": "filter",
+      "filterIds": [
+        "seafood_forward",
+        "seafood_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "香辛料",
+      "labelJa": "香辛料",
+      "visibility": "filter",
+      "filterIds": [
+        "spicy"
+      ],
+      "usageCountAtSpecTime": 18
+    },
+    {
+      "value": "香草",
+      "labelJa": "香草",
+      "visibility": "filter",
+      "filterIds": [
+        "herbal"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "value": "細麺",
+      "labelJa": "細麺",
+      "visibility": "filter",
+      "filterIds": [
+        "thin_noodle"
+      ],
+      "usageCountAtSpecTime": 8
+    },
+    {
+      "value": "酸味",
+      "labelJa": "酸味",
+      "visibility": "filter",
+      "filterIds": [
+        "sour"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "value": "自家製麺文化",
+      "labelJa": "自家製麺文化",
+      "visibility": "filter",
+      "filterIds": [
+        "handmade"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "煮干し",
+      "labelJa": "煮干し",
+      "visibility": "filter",
+      "filterIds": [
+        "niboshi"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "value": "煮込み",
+      "labelJa": "煮込み",
+      "visibility": "filter",
+      "filterIds": [
+        "stew"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "手ちぎり麺",
+      "labelJa": "手ちぎり麺",
+      "visibility": "filter",
+      "filterIds": [
+        "handmade",
+        "irregular_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "手延べ",
+      "labelJa": "手延べ",
+      "visibility": "filter",
+      "filterIds": [
+        "hand_stretched"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "手延べ麺",
+      "labelJa": "手延べ麺",
+      "visibility": "filter",
+      "filterIds": [
+        "hand_stretched"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "手切り麺",
+      "labelJa": "手切り麺",
+      "visibility": "filter",
+      "filterIds": [
+        "handmade"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "手打ち・手もみ",
+      "labelJa": "手打ち・手もみ",
+      "visibility": "filter",
+      "filterIds": [
+        "handmade"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "手打ちの縮れ麺",
+      "labelJa": "手打ちの縮れ麺",
+      "visibility": "filter",
+      "filterIds": [
+        "handmade"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "酒粕",
+      "labelJa": "酒粕",
+      "visibility": "filter",
+      "filterIds": [
+        "fermented",
+        "sake_lees"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "汁あり・汁なし",
+      "labelJa": "汁あり・汁なし",
+      "visibility": "filter",
+      "filterIds": [
+        "brothless"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "汁なし",
+      "labelJa": "汁なし",
+      "visibility": "filter",
+      "filterIds": [
+        "brothless"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "出汁",
+      "labelJa": "出汁",
+      "visibility": "filter",
+      "filterIds": [
+        "dashi_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "春雨",
+      "labelJa": "春雨",
+      "visibility": "detail",
+      "filterIds": [
+        "glass_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "小ぶりな器",
+      "labelJa": "小ぶりな器",
+      "visibility": "filter",
+      "filterIds": [
+        "shared_serving"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "焼き・炒め",
+      "labelJa": "焼き・炒め",
+      "visibility": "filter",
+      "filterIds": [
+        "fried_griddle",
+        "roasted"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "value": "焦がしにんにく",
+      "labelJa": "焦がしにんにく",
+      "visibility": "filter",
+      "filterIds": [
+        "garlic",
+        "roasted"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "醤油",
+      "labelJa": "醤油",
+      "visibility": "filter",
+      "filterIds": [
+        "soy_sauce"
+      ],
+      "usageCountAtSpecTime": 15
+    },
+    {
+      "value": "蒸し麺",
+      "labelJa": "蒸し麺",
+      "visibility": "filter",
+      "filterIds": [
+        "fried_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "辛味",
+      "labelJa": "辛味",
+      "visibility": "filter",
+      "filterIds": [
+        "spicy"
+      ],
+      "usageCountAtSpecTime": 17
+    },
+    {
+      "value": "澄んだスープ",
+      "labelJa": "澄んだスープ",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 11
+    },
+    {
+      "value": "澄んだ味わい",
+      "labelJa": "澄んだ味わい",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "生姜",
+      "labelJa": "生姜",
+      "visibility": "detail",
+      "filterIds": [
+        "ginger"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "節系",
+      "labelJa": "節系",
+      "visibility": "filter",
+      "filterIds": [
+        "niboshi"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "素朴",
+      "labelJa": "素朴",
+      "visibility": "filter",
+      "filterIds": [
+        "traditional"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "即席麺",
+      "labelJa": "即席麺",
+      "visibility": "detail",
+      "filterIds": [
+        "instant_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "多加水の縮れ麺",
+      "labelJa": "多加水の縮れ麺",
+      "visibility": "detail",
+      "filterIds": [
+        "high_hydration_curly"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "多文化",
+      "labelJa": "多文化",
+      "visibility": "detail",
+      "filterIds": [
+        "multicultural"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "太い米麺",
+      "labelJa": "太い米麺",
+      "visibility": "filter",
+      "filterIds": [
+        "rice_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "太い麺",
+      "labelJa": "太い麺",
+      "visibility": "filter",
+      "filterIds": [
+        "thick_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "太めの麺",
+      "labelJa": "太めの麺",
+      "visibility": "filter",
+      "filterIds": [
+        "thick_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "替え玉文化",
+      "labelJa": "替え玉文化",
+      "visibility": "detail",
+      "filterIds": [
+        "kaedama"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "淡麗",
+      "labelJa": "淡麗",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "value": "短い麺",
+      "labelJa": "短い麺",
+      "visibility": "filter",
+      "filterIds": [
+        "irregular_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "弾力",
+      "labelJa": "弾力",
+      "visibility": "filter",
+      "filterIds": [
+        "elastic_noodle",
+        "firm_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "地域ごとの穏やかな豚骨",
+      "labelJa": "地域ごとの穏やかな豚骨",
+      "visibility": "filter",
+      "filterIds": [
+        "pork_bone"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "地域独自の色名",
+      "labelJa": "地域独自の色名",
+      "visibility": "detail",
+      "filterIds": [],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "茶",
+      "labelJa": "茶",
+      "visibility": "detail",
+      "filterIds": [
+        "tea"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "中華系",
+      "labelJa": "中華系",
+      "visibility": "detail",
+      "filterIds": [
+        "chinese_influenced"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "中細麺",
+      "labelJa": "中細麺",
+      "visibility": "filter",
+      "filterIds": [
+        "thin_noodle"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "朝食",
+      "labelJa": "朝食",
+      "visibility": "detail",
+      "filterIds": [
+        "breakfast_culture"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "天ぷら",
+      "labelJa": "天ぷら",
+      "visibility": "filter",
+      "filterIds": [
+        "tempura"
+      ],
+      "usageCountAtSpecTime": 2
+    },
+    {
+      "value": "豆",
+      "labelJa": "豆",
+      "visibility": "detail",
+      "filterIds": [
+        "beans"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "豆腐",
+      "labelJa": "豆腐",
+      "visibility": "filter",
+      "filterIds": [
+        "tofu"
+      ],
+      "usageCountAtSpecTime": 0
+    },
+    {
+      "value": "透明感のあるスープ",
+      "labelJa": "透明感のあるスープ",
+      "visibility": "filter",
+      "filterIds": [
+        "light"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "動物系と魚介の合わせ出汁",
+      "labelJa": "動物系と魚介の合わせ出汁",
+      "visibility": "detail",
+      "filterIds": [
+        "double_broth"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "豚",
+      "labelJa": "豚",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "豚骨",
+      "labelJa": "豚骨",
+      "visibility": "filter",
+      "filterIds": [
+        "animal_forward",
+        "pork_bone"
+      ],
+      "usageCountAtSpecTime": 10
+    },
+    {
+      "value": "豚骨醤油",
+      "labelJa": "豚骨醤油",
+      "visibility": "filter",
+      "filterIds": [
+        "pork_bone",
+        "soy_sauce"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "value": "鍋調理",
+      "labelJa": "鍋調理",
+      "visibility": "filter",
+      "filterIds": [
+        "stew"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "肉",
+      "labelJa": "肉",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "肉団子",
+      "labelJa": "肉団子",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "乳製品",
+      "labelJa": "乳製品",
+      "visibility": "filter",
+      "filterIds": [
+        "dairy"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "value": "熱いスープ",
+      "labelJa": "熱いスープ",
+      "visibility": "filter",
+      "filterIds": [
+        "hot",
+        "soup"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "濃い出汁",
+      "labelJa": "濃い出汁",
+      "visibility": "filter",
+      "filterIds": [
+        "dashi_forward",
+        "umami_forward"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "濃い色",
+      "labelJa": "濃い色",
+      "visibility": "detail",
+      "filterIds": [
+        "dark_broth"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "value": "濃厚",
+      "labelJa": "濃厚",
+      "visibility": "filter",
+      "filterIds": [
+        "rich"
+      ],
+      "usageCountAtSpecTime": 14
+    },
+    {
+      "value": "濃厚な豚骨",
+      "labelJa": "濃厚な豚骨",
+      "visibility": "filter",
+      "filterIds": [
+        "pork_bone",
+        "rich"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "濃口醤油",
+      "labelJa": "濃口醤油",
+      "visibility": "filter",
+      "filterIds": [
+        "soy_sauce"
+      ],
+      "usageCountAtSpecTime": 5
+    },
+    {
+      "value": "背脂",
+      "labelJa": "背脂",
+      "visibility": "detail",
+      "filterIds": [
+        "backfat"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "value": "発酵",
+      "labelJa": "発酵",
+      "visibility": "filter",
+      "filterIds": [
+        "fermented"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "発酵のコク",
+      "labelJa": "発酵のコク",
+      "visibility": "filter",
+      "filterIds": [
+        "fermented",
+        "miso"
+      ],
+      "usageCountAtSpecTime": 13
+    },
+    {
+      "value": "発酵乳",
+      "labelJa": "発酵乳",
+      "visibility": "filter",
+      "filterIds": [
+        "dairy",
+        "fermented"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "平打ち麺",
+      "labelJa": "平打ち麺",
+      "visibility": "filter",
+      "filterIds": [
+        "flat_noodle"
+      ],
+      "usageCountAtSpecTime": 3
+    },
+    {
+      "value": "米線",
+      "labelJa": "米線",
+      "visibility": "filter",
+      "filterIds": [
+        "rice_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "米粉麺",
+      "labelJa": "米粉麺",
+      "visibility": "filter",
+      "filterIds": [
+        "rice_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "米麺",
+      "labelJa": "米麺",
+      "visibility": "filter",
+      "filterIds": [
+        "rice_noodle"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "value": "別添え具材",
+      "labelJa": "別添え具材",
+      "visibility": "detail",
+      "filterIds": [
+        "separate_toppings"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "味噌",
+      "labelJa": "味噌",
+      "visibility": "filter",
+      "filterIds": [
+        "fermented",
+        "miso"
+      ],
+      "usageCountAtSpecTime": 13
+    },
+    {
+      "value": "野菜",
+      "labelJa": "野菜",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 14
+    },
+    {
+      "value": "油のコク",
+      "labelJa": "油のコク",
+      "visibility": "filter",
+      "filterIds": [
+        "rich",
+        "backfat"
+      ],
+      "usageCountAtSpecTime": 4
+    },
+    {
+      "value": "揚げ麺",
+      "labelJa": "揚げ麺",
+      "visibility": "filter",
+      "filterIds": [
+        "fried_noodle"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "羊肉",
+      "labelJa": "羊肉",
+      "visibility": "filter",
+      "filterIds": [
+        "meat_ingredient"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "卵",
+      "labelJa": "卵",
+      "visibility": "filter",
+      "filterIds": [
+        "egg"
+      ],
+      "usageCountAtSpecTime": 1
+    },
+    {
+      "value": "冷製",
+      "labelJa": "冷製",
+      "visibility": "filter",
+      "filterIds": [
+        "cold"
+      ],
+      "usageCountAtSpecTime": 6
+    },
+    {
+      "value": "和風だし",
+      "labelJa": "和風だし",
+      "visibility": "filter",
+      "filterIds": [
+        "dashi_forward"
+      ],
+      "usageCountAtSpecTime": 7
+    },
+    {
+      "value": "炒め野菜",
+      "labelJa": "炒め野菜",
+      "visibility": "filter",
+      "filterIds": [
+        "vegetables"
+      ],
+      "usageCountAtSpecTime": 2
+    }
+  ],
+  "quickFilterIds": [
+    "light",
+    "rich",
+    "spicy",
+    "roasted",
+    "garlic",
+    "soy_sauce",
+    "salt",
+    "miso",
+    "curry",
+    "sauce",
+    "pork_bone",
+    "niboshi",
+    "dashi_forward",
+    "seafood_forward",
+    "animal_forward",
+    "thin_noodle",
+    "thick_noodle",
+    "flat_noodle",
+    "firm_noodle",
+    "soft_noodle",
+    "soup",
+    "dipping",
+    "brothless",
+    "fried_griddle",
+    "stew",
+    "cold",
+    "vegetables",
+    "seafood_ingredient",
+    "meat_ingredient"
+  ]
+}

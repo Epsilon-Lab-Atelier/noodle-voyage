@@ -1,0 +1,224 @@
+{
+  "schemaVersion": 3,
+  "operation": "add",
+  "reviewedAt": "2026-08-10",
+  "dish": {
+    "id": "jp-udon-toyohashi-curry",
+    "slug": "udon-toyohashi-curry",
+    "name": "豊橋カレーうどん",
+    "local_name": "",
+    "aliases": [
+      "とよはしカレーうどん"
+    ],
+    "country_code": "JP",
+    "prefecture_codes": [
+      "23"
+    ],
+    "region_codes": [
+      "chubu"
+    ],
+    "city": "豊橋市",
+    "coordinates": {
+      "lat": 34.769,
+      "lon": 137.391
+    },
+    "domain": "japan",
+    "noodle_category": "udon",
+    "cultural_scope": "regional",
+    "publication_status": "published",
+    "form": "soup",
+    "noodle_materials": [
+      "小麦粉",
+      "食塩",
+      "水"
+    ],
+    "noodle_shape": "自家製のうどん。太さ、硬さ、食感は提供店によって異なる。",
+    "broth_bases": [
+      "和風だし",
+      "カレー"
+    ],
+    "seasonings": [
+      "カレー粉またはカレールウ",
+      "醤油",
+      "みりん",
+      "塩等"
+    ],
+    "ingredients": [
+      "ごはん",
+      "とろろ",
+      "豊橋産うずら卵",
+      "福神漬け、壺漬け、または紅しょうが",
+      "店ごとの肉・野菜・揚げ物等"
+    ],
+    "tags": [
+      "curry",
+      "dashi_curry",
+      "layered",
+      "rice_and_noodle",
+      "tororo",
+      "quail_egg",
+      "homemade_noodle",
+      "regional_rules",
+      "pickles",
+      "local_ingredients"
+    ],
+    "keywords": [
+      "愛知",
+      "豊橋",
+      "カレーうどん",
+      "とろろごはん",
+      "うずら卵",
+      "二層構造"
+    ],
+    "summary": "器の底からごはん、とろろ、カレーうどんの順に重ね、豊橋産うずら卵などを用いる豊橋市のご当地うどん。まずカレーうどんを食べ、最後に残ったカレーととろろごはんを合わせて味わう。",
+    "background": "豊橋の自家製うどん文化を広く知ってもらうために考案され、2010年に誕生した。市や地域団体が示す提供ルールを共有しながら、店ごとのカレーや具材の違いを楽しむ。",
+    "variation": "五箇条の基本構成は共通するが、カレーの辛さ、だし、肉・野菜・揚げ物、麺の太さ、うずら卵の調理、盛り付けは提供店によって異なる。",
+    "allergen_note": "小麦、卵、やまいもを含む。カレー、だし、肉、乳、大豆、魚介、揚げ物の共用油などは店舗ごとに異なるため、必ず提供店へ確認する。",
+    "tradition": 3.1,
+    "uniqueness": 5.0,
+    "adventure": 3.4,
+    "parent_style_ids": [
+      "jp-style-udon-curry"
+    ],
+    "related_ids": [],
+    "bridge_ids": [],
+    "public_source_ids": [
+      "src-toyohashi-curry-city",
+      "src-toyohashi-curry-jpo"
+    ],
+    "verification_level": "reviewed",
+    "reviewed_at": "2026-08-10",
+    "score_method": "editorial_source_review_v1"
+  },
+  "taste": {
+    "dish_id": "jp-udon-toyohashi-curry",
+    "score_method": "editorial_source_review_v1",
+    "score_note": "公式資料で確認できる五箇条と典型的なカレーうどんの構成をもとにしたEpsilonLab編集値。公式評価や官能試験値ではない。",
+    "taste": {
+      "richness": {
+        "typical": 4.2,
+        "min": 3.2,
+        "max": 5.0
+      },
+      "oiliness": {
+        "typical": 2.6,
+        "min": 1.4,
+        "max": 3.8
+      },
+      "saltiness": {
+        "typical": 3.2,
+        "min": 2.3,
+        "max": 4.1
+      },
+      "sweetness": {
+        "typical": 2.3,
+        "min": 1.2,
+        "max": 3.5
+      },
+      "sourness": {
+        "typical": 0.4,
+        "min": 0.0,
+        "max": 1.2
+      },
+      "heat": {
+        "typical": 1.7,
+        "min": 0.5,
+        "max": 3.0
+      },
+      "umami": {
+        "typical": 4.2,
+        "min": 3.3,
+        "max": 5.0
+      },
+      "animalIntensity": {
+        "typical": 1.7,
+        "min": 0.4,
+        "max": 3.0
+      },
+      "seafoodIntensity": {
+        "typical": 1.5,
+        "min": 0.5,
+        "max": 2.7
+      },
+      "spiceIntensity": {
+        "typical": 4.3,
+        "min": 3.0,
+        "max": 5.0
+      },
+      "herbalIntensity": {
+        "typical": 0.3,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "fermentation": {
+        "typical": 0.7,
+        "min": 0.0,
+        "max": 1.6
+      },
+      "roastedAroma": {
+        "typical": 1.8,
+        "min": 0.8,
+        "max": 2.9
+      },
+      "garlicIntensity": {
+        "typical": 1.0,
+        "min": 0.0,
+        "max": 2.0
+      },
+      "dashiIntensity": {
+        "typical": 3.5,
+        "min": 2.5,
+        "max": 4.5
+      },
+      "sauceIntensity": {
+        "typical": 4.4,
+        "min": 3.3,
+        "max": 5.0
+      },
+      "noodleAroma": {
+        "typical": 3.0,
+        "min": 2.0,
+        "max": 4.0
+      }
+    },
+    "noodle_metrics": {
+      "thickness": 3.6,
+      "width": 3.3,
+      "firmness": 3.6,
+      "elasticity": 3.8,
+      "chewiness": 4.0,
+      "smoothness": 3.4
+    },
+    "noodle_notes": "自家製麺を用いるが、太さと食感は提供店によって異なる。"
+  },
+  "sources": [
+    {
+      "id": "src-toyohashi-curry-city",
+      "title": "豊橋ウェブ百科事典「豊橋カレーうどん」",
+      "publisher": "豊橋市",
+      "url": "https://www.city.toyohashi.lg.jp/33978.htm",
+      "kind": "official_government",
+      "visibility": "public",
+      "checked_at": "2026-08-10",
+      "note": "成立背景、食べ方、豊橋カレーうどん五箇条の確認"
+    },
+    {
+      "id": "src-toyohashi-curry-jpo",
+      "title": "商標登録第5990959号 豊橋カレーうどん",
+      "publisher": "特許庁",
+      "url": "https://www.jpo.go.jp/system/trademark/gaiyo/chidan/shoukai/ichiran/5990959.html",
+      "kind": "official_government",
+      "visibility": "public",
+      "checked_at": "2026-08-10",
+      "note": "地域団体商標、豊橋市での提供、二層構造と地域ブランドの確認"
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "jp-style-udon-curry",
+      "target_id": "jp-udon-toyohashi-curry",
+      "relation_type": "regional_example",
+      "note": "定番カレーうどんの具体的なご当地料理例"
+    }
+  ]
+}

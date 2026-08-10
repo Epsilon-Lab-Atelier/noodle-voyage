@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 4,
+  "release": "2.3.0",
+  "storage": {
+    "engine": "IndexedDB",
+    "databaseName": "noodle-voyage",
+    "stores": [
+      {
+        "name": "places",
+        "keyPath": "id",
+        "indexes": [
+          "nameNormalized",
+          "googlePlaceId",
+          "updatedAt",
+          "visibility"
+        ]
+      },
+      {
+        "name": "menus",
+        "keyPath": "id",
+        "indexes": [
+          "placeId",
+          "nameNormalized",
+          "updatedAt",
+          "visibility"
+        ]
+      },
+      {
+        "name": "customConcepts",
+        "keyPath": "id",
+        "indexes": [
+          "nameNormalized",
+          "updatedAt"
+        ]
+      },
+      {
+        "name": "wishEntries",
+        "keyPath": "id",
+        "indexes": [
+          "targetType",
+          "targetId",
+          "createdAt"
+        ]
+      },
+      {
+        "name": "mealEntries",
+        "keyPath": "id",
+        "indexes": [
+          "placeId",
+          "menuId",
+          "eatenAt",
+          "isFavorite"
+        ]
+      },
+      {
+        "name": "settings",
+        "keyPath": "key"
+      }
+    ]
+  },
+  "entities": {
+    "PlaceRecord": {
+      "required": [
+        "id",
+        "visibility",
+        "name",
+        "createdAt",
+        "updatedAt"
+      ],
+      "properties": {
+        "id": {
+          "type": "uuid"
+        },
+        "visibility": {
+          "enum": [
+            "private",
+            "public_editorial"
+          ],
+          "default": "private"
+        },
+        "name": {
+          "type": "string",
+          "maxLength": 120
+        },
+        "nameNormalized": {
+          "type": "string",
+          "generated": true
+        },
+        "addressText": {
+          "type": "string",
+          "maxLength": 300,
+          "nullable": true
+        },
+        "latitude": {
+          "type": "number",
+          "min": -90,
+          "max": 90,
+          "nullable": true
+        },
+        "longitude": {
+          "type": "number",
+          "min": -180,
+          "max": 180,
+          "nullable": true
+        },
+        "googleMapsUrl": {
+          "type": "url",
+          "allowedHosts": [
+            "google.com",
+            "www.google.com",
+            "maps.google.com",
+            "goo.gl"
+          ],
+          "nullable": true
+        },
+        "googlePlaceId": {
+          "type": "string",
+          "maxLength": 256,
+          "nullable": true
+        },
+        "tabelogUrl": {
+          "type": "url",
+          "allowedHosts": [
+            "tabelog.com",
+            "www.tabelog.com"
+          ],
+          "nullable": true
+        },
+        "officialUrl": {
+          "type": "url",
+          "schemes": [
+            "https"
+          ],
+          "nullable": true
+        },
+        "status": {
+          "enum": [
+            "unknown",
+            "open",
+            "temporarily_closed",
+            "closed"
+          ],
+          "default": "unknown"
+        },
+        "sourceType": {
+          "enum": [
+            "user_manual",
+            "external_link",
+            "public_editorial"
+          ],
+          "default": "user_manual"
+        },
+        "note": {
+          "type": "string",
+          "maxLength": 2000,
+          "nullable": true
+        },
+        "createdAt": {
+          "type": "iso_datetime"
+        },
+        "updatedAt": {
+          "type": "iso_datetime"
+        }
+      }
+    },
+    "MenuRecord": {
+      "required": [
+        "id",
+        "placeId",
+        "name",
+        "createdAt",
+        "updatedAt"
+      ],
+      "properties": {
+        "id": {
+          "type": "uuid"
+        },
+        "placeId": {
+          "type": "uuid"
+        },
+        "visibility": {
+          "enum": [
+            "private",
+            "public_editorial"
+          ],
+          "default": "private"
+        },
+        "name": {
+          "type": "string",
+          "maxLength": 160
+        },
+        "nameNormalized": {
+          "type": "string",
+          "generated": true
+        },
+        "conceptIds": {
+          "type": "array",
+          "items": "public concept id",
+          "maxItems": 5
+        },
+        "customConceptId": {
+          "type": "uuid",
+          "nullable": true
+        },
+        "featureFilterIds": {
+          "type": "array",
+          "items": "known Japanese filter id",
+          "maxItems": 20
+        },
+        "priceText": {
+          "type": "string",
+          "maxLength": 50,
+          "nullable": true
+        },
+        "availability": {
+          "enum": [
+            "unknown",
+            "regular",
+            "limited",
+            "seasonal",
+            "ended"
+          ],
+          "default": "unknown"
+        },
+        "note": {
+          "type": "string",
+          "maxLength": 3000,
+          "nullable": true
+        },
+        "sourceLinks": {
+          "type": "array",
+          "items": "url",
+          "maxItems": 5
+        },
+        "createdAt": {
+          "type": "iso_datetime"
+        },
+        "updatedAt": {
+          "type": "iso_datetime"
+        }
+      }
+    },
+    "CustomConcept": {
+      "required": [
+        "id",
+        "name",
+        "createdAt",
+        "updatedAt"
+      ],
+      "properties": {
+        "id": {
+          "type": "uuid"
+        },
+        "name": {
+          "type": "string",
+          "maxLength": 120
+        },
+        "noodleCategory": {
+          "enum": [
+            "ramen",
+            "udon",
+            "soba",
+            "yakisoba",
+            "other",
+            "world_noodle"
+          ]
+        },
+        "featureFilterIds": {
+          "type": "array",
+          "maxItems": 20
+        },
+        "note": {
+          "type": "string",
+          "maxLength": 2000,
+          "nullable": true
+        },
+        "createdAt": {
+          "type": "iso_datetime"
+        },
+        "updatedAt": {
+          "type": "iso_datetime"
+        }
+      }
+    },
+    "WishEntry": {
+      "required": [
+        "id",
+        "targetType",
+        "targetId",
+        "createdAt",
+        "updatedAt"
+      ],
+      "properties": {
+        "id": {
+          "type": "uuid"
+        },
+        "targetType": {
+          "enum": [
+            "concept",
+            "place",
+            "menu",
+            "customConcept"
+          ]
+        },
+        "targetId": {
+          "type": "string"
+        },
+        "snapshot": {
+          "type": "object",
+          "purpose": "retain readable label if target is deleted"
+        },
+        "priority": {
+          "enum": [
+            "normal",
+            "high"
+          ],
+          "default": "normal"
+        },
+        "note": {
+          "type": "string",
+          "maxLength": 2000,
+          "nullable": true
+        },
+        "createdAt": {
+          "type": "iso_datetime"
+        },
+        "updatedAt": {
+          "type": "iso_datetime"
+        }
+      }
+    },
+    "MealEntry": {
+      "required": [
+        "id",
+        "eatenAt",
+        "createdAt",
+        "updatedAt"
+      ],
+      "properties": {
+        "id": {
+          "type": "uuid"
+        },
+        "conceptIds": {
+          "type": "array",
+          "maxItems": 5
+        },
+        "placeId": {
+          "type": "uuid",
+          "nullable": true
+        },
+        "menuId": {
+          "type": "uuid",
+          "nullable": true
+        },
+        "customTitle": {
+          "type": "string",
+          "maxLength": 160,
+          "nullable": true
+        },
+        "placeSnapshot": {
+          "type": "object",
+          "nullable": true
+        },
+        "menuSnapshot": {
+          "type": "object",
+          "nullable": true
+        },
+        "eatenAt": {
+          "type": "iso_datetime"
+        },
+        "rating": {
+          "type": "number",
+          "min": 1,
+          "max": 5,
+          "nullable": true
+        },
+        "note": {
+          "type": "string",
+          "maxLength": 5000,
+          "nullable": true
+        },
+        "isFavorite": {
+          "type": "boolean",
+          "default": false
+        },
+        "createdAt": {
+          "type": "iso_datetime"
+        },
+        "updatedAt": {
+          "type": "iso_datetime"
+        }
+      }
+    }
+  },
+  "migration": {
+    "fromSchemaVersion": 3,
+    "rules": [
+      "Existing concept-only WishEntry becomes targetType=concept without changing its id.",
+      "Existing MealEntry keeps its conceptIds and receives null placeId/menuId.",
+      "Existing favorites remain MealEntry.isFavorite.",
+      "Old backup files remain importable and are upgraded in memory before commit.",
+      "The old state is retained until all v4 stores are written and verified."
+    ]
+  },
+  "privacy": {
+    "defaultVisibility": "private",
+    "networkUpload": false,
+    "publicExportByDefault": false,
+    "photos": "deferred_to_v3",
+    "locationPermission": "request only after explicit user action",
+    "backupIncludes": [
+      "places",
+      "menus",
+      "customConcepts",
+      "wishEntries",
+      "mealEntries",
+      "settings"
+    ]
+  },
+  "deduplication": {
+    "strongKeys": [
+      "googlePlaceId",
+      "exact normalized googleMapsUrl"
+    ],
+    "softKeys": [
+      "nameNormalized + addressText normalized"
+    ],
+    "policy": "Warn and let the user merge or keep both; never auto-delete."
+  }
+}

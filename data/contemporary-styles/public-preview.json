@@ -1,0 +1,487 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "2026.08.10-v2.3.0-contemporary-styles",
+  "styles": [
+    {
+      "id": "jp-style-ramen-tsukemen-rich-pork-seafood",
+      "slug": "ramen-tsukemen-rich-pork-seafood",
+      "name": "濃厚魚介豚骨つけ麺",
+      "aliases": [
+        "濃厚魚介つけ麺",
+        "魚介豚骨つけ麺"
+      ],
+      "domain": "japan",
+      "noodleCategory": "ramen",
+      "culturalScope": "contemporary",
+      "publicationStatus": "published",
+      "countryCode": "JP",
+      "prefectureCodes": [],
+      "regionCodes": [],
+      "city": null,
+      "coordinates": null,
+      "form": "dipping",
+      "noodle": {
+        "materials": [
+          "小麦粉",
+          "かんすい",
+          "食塩"
+        ],
+        "shape": "極太から太めで、もちもち感と強い噛みごたえを持つ中華麺",
+        "metrics": {
+          "thickness": 4.7,
+          "width": 3.8,
+          "firmness": 4.2,
+          "elasticity": 4.4,
+          "chewiness": 4.7,
+          "smoothness": 3.1
+        }
+      },
+      "broth": {
+        "bases": [
+          "豚骨",
+          "鶏ガラ",
+          "煮干し",
+          "かつお節等"
+        ],
+        "seasonings": [
+          "醤油だれ",
+          "魚粉"
+        ]
+      },
+      "ingredients": [
+        "チャーシュー",
+        "メンマ",
+        "ねぎ",
+        "魚粉",
+        "のり等"
+      ],
+      "rawTagIds": [
+        "rich",
+        "dipping",
+        "thick_noodle",
+        "firm_noodle",
+        "pork_bone",
+        "seafood_forward",
+        "noodle_forward",
+        "fish_powder"
+      ],
+      "summary": "極太麺を、豚骨・鶏などの動物系と煮干し・かつおなどの魚介系を重ねた濃厚なつけ汁で味わう現代的なつけ麺スタイル。",
+      "background": "2000年代に「極太麺×濃厚つけダレ×魚粉」という構成が広く普及し、現代つけ麺の代表的な一類型になった。",
+      "variation": "動物系と魚介系の比率、粘度、甘味・酸味、魚粉、麺の太さ、スープ割りは店ごとの差が大きい。",
+      "allergenNote": "小麦・豚肉・鶏肉・魚・大豆を含むことが多い。卵、乳、ごま等は店舗ごとに異なる。",
+      "taste": {
+        "richness": {
+          "typical": 4.5,
+          "min": 3.7,
+          "max": 5,
+          "confidence": 0.85
+        },
+        "oiliness": {
+          "typical": 3.4,
+          "min": 2.6,
+          "max": 4.2,
+          "confidence": 0.85
+        },
+        "saltiness": {
+          "typical": 4.0,
+          "min": 3.2,
+          "max": 4.8,
+          "confidence": 0.85
+        },
+        "sweetness": {
+          "typical": 2.0,
+          "min": 1.2,
+          "max": 2.8,
+          "confidence": 0.85
+        },
+        "sourness": {
+          "typical": 0.8,
+          "min": 0,
+          "max": 1.6,
+          "confidence": 0.85
+        },
+        "heat": {
+          "typical": 0.3,
+          "min": 0,
+          "max": 1.1,
+          "confidence": 0.85
+        },
+        "umami": {
+          "typical": 4.7,
+          "min": 3.9,
+          "max": 5,
+          "confidence": 0.85
+        },
+        "animalIntensity": {
+          "typical": 3.8,
+          "min": 2.8,
+          "max": 4.8,
+          "confidence": 0.85
+        },
+        "seafoodIntensity": {
+          "typical": 4.0,
+          "min": 3.0,
+          "max": 5,
+          "confidence": 0.85
+        },
+        "spiceIntensity": {
+          "typical": 0.5,
+          "min": 0,
+          "max": 1.3,
+          "confidence": 0.85
+        },
+        "herbalIntensity": {
+          "typical": 0.2,
+          "min": 0,
+          "max": 1.0,
+          "confidence": 0.85
+        },
+        "fermentation": {
+          "typical": 0.5,
+          "min": 0,
+          "max": 1.3,
+          "confidence": 0.85
+        },
+        "roastedAroma": {
+          "typical": 1.6,
+          "min": 0.8,
+          "max": 2.4,
+          "confidence": 0.85
+        },
+        "garlicIntensity": {
+          "typical": 0.8,
+          "min": 0,
+          "max": 1.6,
+          "confidence": 0.85
+        },
+        "dashiIntensity": {
+          "typical": 3.6,
+          "min": 2.8,
+          "max": 4.4,
+          "confidence": 0.85
+        },
+        "sauceIntensity": {
+          "typical": 4.7,
+          "min": 3.9,
+          "max": 5,
+          "confidence": 0.85
+        },
+        "noodleAroma": {
+          "typical": 4.1,
+          "min": 3.3,
+          "max": 4.9,
+          "confidence": 0.85
+        }
+      },
+      "relatedIds": [
+        "jp-style-ramen-tsukemen",
+        "jp-style-ramen-tonkotsu",
+        "jp-style-ramen-niboshi"
+      ],
+      "publicSourceIds": [
+        "src-contemporary-rich-seafood-pork-tsukemen-1",
+        "src-contemporary-rich-seafood-pork-tsukemen-2"
+      ],
+      "reviewedAt": "2026-08-10",
+      "scoreMethod": "editorial_source_review_v1"
+    },
+    {
+      "id": "jp-style-ramen-tsukemen-kombu-water",
+      "slug": "ramen-tsukemen-kombu-water",
+      "name": "昆布水つけ麺",
+      "aliases": [
+        "昆布水のつけ麺"
+      ],
+      "domain": "japan",
+      "noodleCategory": "ramen",
+      "culturalScope": "contemporary",
+      "publicationStatus": "published",
+      "countryCode": "JP",
+      "prefectureCodes": [],
+      "regionCodes": [],
+      "city": null,
+      "coordinates": null,
+      "form": "dipping",
+      "noodle": {
+        "materials": [
+          "小麦粉",
+          "かんすい",
+          "食塩"
+        ],
+        "shape": "中細から太めの麺を粘りのある昆布水へ浸し、麺そのものの香りと滑らかさを生かす",
+        "metrics": {
+          "thickness": 3.4,
+          "width": 3.0,
+          "firmness": 3.8,
+          "elasticity": 4.0,
+          "chewiness": 3.8,
+          "smoothness": 4.8
+        }
+      },
+      "broth": {
+        "bases": [
+          "昆布水",
+          "鶏・豚・魚介等のつけ汁（店による）"
+        ],
+        "seasonings": [
+          "塩",
+          "醤油",
+          "薬味等"
+        ]
+      },
+      "ingredients": [
+        "昆布",
+        "薬味",
+        "チャーシュー",
+        "柑橘等（店による）"
+      ],
+      "rawTagIds": [
+        "dipping",
+        "dashi_forward",
+        "noodle_forward",
+        "smooth",
+        "cold_noodle_common",
+        "kombu_water"
+      ],
+      "summary": "昆布のうま味と粘りを含む水へ麺を浸し、麺をそのまま、塩や薬味、別添えのつけ汁と段階的に味わう現代的なつけ麺技法。",
+      "background": "2000年代に生まれた昆布水のつけ麺は、麺の香り、昆布のうま味、つけ汁との変化を楽しむ技法として広く浸透した。",
+      "variation": "昆布の種類と濃度、麺、塩・薬味、つけ汁の動物・魚介構成、柑橘等は店ごとの差が大きい。",
+      "allergenNote": "小麦を含む。つけ汁は大豆、鶏・豚、魚介を含む場合があり、薬味や具材は店舗ごとに異なる。",
+      "taste": {
+        "richness": {
+          "typical": 2.3,
+          "min": 1.5,
+          "max": 3.1,
+          "confidence": 0.85
+        },
+        "oiliness": {
+          "typical": 1.1,
+          "min": 0.3,
+          "max": 1.9,
+          "confidence": 0.85
+        },
+        "saltiness": {
+          "typical": 3.1,
+          "min": 2.3,
+          "max": 3.9,
+          "confidence": 0.85
+        },
+        "sweetness": {
+          "typical": 1.0,
+          "min": 0.2,
+          "max": 1.8,
+          "confidence": 0.85
+        },
+        "sourness": {
+          "typical": 0.5,
+          "min": 0,
+          "max": 1.3,
+          "confidence": 0.85
+        },
+        "heat": {
+          "typical": 0.2,
+          "min": 0,
+          "max": 1.0,
+          "confidence": 0.85
+        },
+        "umami": {
+          "typical": 4.3,
+          "min": 3.5,
+          "max": 5,
+          "confidence": 0.85
+        },
+        "animalIntensity": {
+          "typical": 1.8,
+          "min": 0.8,
+          "max": 2.8,
+          "confidence": 0.85
+        },
+        "seafoodIntensity": {
+          "typical": 2.5,
+          "min": 1.5,
+          "max": 3.5,
+          "confidence": 0.85
+        },
+        "spiceIntensity": {
+          "typical": 0.3,
+          "min": 0,
+          "max": 1.1,
+          "confidence": 0.85
+        },
+        "herbalIntensity": {
+          "typical": 0.5,
+          "min": 0,
+          "max": 1.3,
+          "confidence": 0.85
+        },
+        "fermentation": {
+          "typical": 0.3,
+          "min": 0,
+          "max": 1.1,
+          "confidence": 0.85
+        },
+        "roastedAroma": {
+          "typical": 0.6,
+          "min": 0,
+          "max": 1.4,
+          "confidence": 0.85
+        },
+        "garlicIntensity": {
+          "typical": 0.3,
+          "min": 0,
+          "max": 1.1,
+          "confidence": 0.85
+        },
+        "dashiIntensity": {
+          "typical": 4.8,
+          "min": 4.0,
+          "max": 5,
+          "confidence": 0.85
+        },
+        "sauceIntensity": {
+          "typical": 3.6,
+          "min": 2.8,
+          "max": 4.4,
+          "confidence": 0.85
+        },
+        "noodleAroma": {
+          "typical": 4.4,
+          "min": 3.6,
+          "max": 5,
+          "confidence": 0.85
+        }
+      },
+      "relatedIds": [
+        "jp-style-ramen-tsukemen",
+        "jp-style-ramen-shio",
+        "jp-style-ramen-shoyu"
+      ],
+      "publicSourceIds": [
+        "src-contemporary-kombu-water-tsukemen-1",
+        "src-contemporary-kombu-water-tsukemen-2"
+      ],
+      "reviewedAt": "2026-08-10",
+      "scoreMethod": "editorial_source_review_v1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-contemporary-rich-seafood-pork-tsukemen-1",
+      "title": "埼玉川越「頑者」",
+      "publisher": "新横浜ラーメン博物館",
+      "url": "https://www.raumen.co.jp/shop/ganja-raumen.html",
+      "kind": "professional_reference",
+      "note": "極太麺、濃厚つけダレ、動物系と魚介系のWスープ、魚粉という構造の確認",
+      "visibility": "public",
+      "checkedAt": "2026-08-10"
+    },
+    {
+      "id": "src-contemporary-rich-seafood-pork-tsukemen-2",
+      "title": "「あの銘店をもう一度」第3弾はつけ麺の歴史を変えた川越の銘店「頑者」",
+      "publisher": "新横浜ラーメン博物館",
+      "url": "https://www.raumen.co.jp/information/news_001526.html",
+      "kind": "professional_reference",
+      "note": "極太麺×濃厚つけダレ×魚粉が広く普及した現代つけ麺スタイルであることの確認",
+      "visibility": "public",
+      "checkedAt": "2026-08-10"
+    },
+    {
+      "id": "src-contemporary-kombu-water-tsukemen-1",
+      "title": "『ロックンスリー』の「昆布水つけ麺」定期的な発売が決定",
+      "publisher": "新横浜ラーメン博物館",
+      "url": "https://www.raumen.co.jp/information/news_002047.html",
+      "kind": "professional_reference",
+      "note": "昆布水つけ麺が技法として広く浸透したこと、昆布水と麺・つけ汁の構成確認",
+      "visibility": "public",
+      "checkedAt": "2026-08-10"
+    },
+    {
+      "id": "src-contemporary-kombu-water-tsukemen-2",
+      "title": "ロックンスリー",
+      "publisher": "新横浜ラーメン博物館",
+      "url": "https://www.raumen.co.jp/shop/rocknthree.html",
+      "kind": "professional_reference",
+      "note": "鶏と水のラーメン、昆布水つけ麺の技法と現代ラーメンへの広がりの確認",
+      "visibility": "public",
+      "checkedAt": "2026-08-10"
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "jp-style-ramen-tsukemen-rich-pork-seafood",
+      "target_id": "jp-style-ramen-tsukemen",
+      "relation_type": "related_style",
+      "note": "味・提供形式・調理構造が近い既存スタイル"
+    },
+    {
+      "source_id": "jp-style-ramen-tsukemen-rich-pork-seafood",
+      "target_id": "jp-style-ramen-tonkotsu",
+      "relation_type": "related_style",
+      "note": "味・提供形式・調理構造が近い既存スタイル"
+    },
+    {
+      "source_id": "jp-style-ramen-tsukemen-rich-pork-seafood",
+      "target_id": "jp-style-ramen-niboshi",
+      "relation_type": "related_style",
+      "note": "味・提供形式・調理構造が近い既存スタイル"
+    },
+    {
+      "source_id": "jp-style-ramen-tsukemen-rich-pork-seafood",
+      "target_id": "jp-style-ramen-tsukemen",
+      "relation_type": "parent_style",
+      "note": "つけ麺の現代的な派生スタイル"
+    },
+    {
+      "source_id": "jp-style-ramen-tsukemen-kombu-water",
+      "target_id": "jp-style-ramen-tsukemen",
+      "relation_type": "related_style",
+      "note": "味・提供形式・調理構造が近い既存スタイル"
+    },
+    {
+      "source_id": "jp-style-ramen-tsukemen-kombu-water",
+      "target_id": "jp-style-ramen-shio",
+      "relation_type": "related_style",
+      "note": "味・提供形式・調理構造が近い既存スタイル"
+    },
+    {
+      "source_id": "jp-style-ramen-tsukemen-kombu-water",
+      "target_id": "jp-style-ramen-shoyu",
+      "relation_type": "related_style",
+      "note": "味・提供形式・調理構造が近い既存スタイル"
+    },
+    {
+      "source_id": "jp-style-ramen-tsukemen-kombu-water",
+      "target_id": "jp-style-ramen-tsukemen",
+      "relation_type": "parent_style",
+      "note": "つけ麺の現代的な派生スタイル"
+    }
+  ],
+  "taxonomyPatch": {
+    "culturalScopeLabels": {
+      "contemporary": "現代スタイル"
+    },
+    "mapAndPassportPolicy": {
+      "contemporary": "exclude"
+    }
+  },
+  "tagTaxonomyAdditions": [
+    {
+      "id": "fish_powder",
+      "labelJa": "魚粉",
+      "groupId": "broth_seasoning",
+      "filterIds": [
+        "seafood_forward"
+      ],
+      "displayable": true
+    },
+    {
+      "id": "kombu_water",
+      "labelJa": "昆布水",
+      "groupId": "broth_seasoning",
+      "filterIds": [
+        "dashi_forward"
+      ],
+      "displayable": true
+    }
+  ]
+}

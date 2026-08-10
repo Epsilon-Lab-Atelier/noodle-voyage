@@ -1,0 +1,197 @@
+﻿id,name,collection,country,prefecture,priority,score,unknown_dimensions,reasons,recommended_action,current_facets
+jp-006,上川ラーメン,japan_local_ramen,日本,北海道,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-012,稚内ラーメン,japan_local_ramen,日本,北海道,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-013,利尻ラーメン,japan_local_ramen,日本,北海道,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-018,つゆやきそば,japan_local_ramen,日本,青森県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-019,八戸ラーメン,japan_local_ramen,日本,青森県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-020,宮古ラーメン,japan_local_ramen,日本,岩手県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-021,釜石ラーメン,japan_local_ramen,日本,岩手県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-022,五穀ラーメン,japan_local_ramen,日本,岩手県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-025,じゃじゃ麺,japan_local_ramen,日本,岩手県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-027,江戸系ラーメン,japan_local_ramen,日本,秋田県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-028,十文字ラーメン,japan_local_ramen,日本,秋田県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-039,馬肉チャーシューラーメン,japan_local_ramen,日本,山形県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-041,肉中華,japan_local_ramen,日本,山形県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-044,会津ラーメン,japan_local_ramen,日本,福島県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-049,スタミナラーメン,japan_local_ramen,日本,茨城県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-050,水戸藩ラーメン,japan_local_ramen,日本,茨城県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-051,下館ラーメン,japan_local_ramen,日本,茨城県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-054,夕顔ラーメン,japan_local_ramen,日本,栃木県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-056,藤岡ラーメン,japan_local_ramen,日本,群馬県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-062,もばらーめん,japan_local_ramen,日本,千葉県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-065,スタミナラーメン,japan_local_ramen,日本,埼玉県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-071,油そば,japan_local_ramen,日本,東京都,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|possible_overlap_with_standard_style,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認 / 定番スタイルとの重複・役割を確認,brothless
+jp-076,サンマーメン,japan_local_ramen,日本,神奈川県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-079,小田原系ラーメン,japan_local_ramen,日本,神奈川県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-089,三条っ子ラーメン,japan_local_ramen,日本,新潟県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-090,見附へそラーメン,japan_local_ramen,日本,新潟県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-091,上越とん汁ラーメン,japan_local_ramen,日本,新潟県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-101,UFOラーメン,japan_local_ramen,日本,石川県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-103,敦賀ラーメン,japan_local_ramen,日本,福井県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-106,甲州地どりラーメン,japan_local_ramen,日本,山梨県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-108,安養寺ラーメン,japan_local_ramen,日本,長野県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-113,神岡ラーメン,japan_local_ramen,日本,岐阜県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-116,志太系ラーメン,japan_local_ramen,日本,静岡県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-120,好来系ラーメン,japan_local_ramen,日本,愛知県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-123,亀山ラーメン,japan_local_ramen,日本,三重県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-129,神戸ラーメン,japan_local_ramen,日本,兵庫県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-131,播州ラーメン,japan_local_ramen,日本,兵庫県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-135,天理ラーメン,japan_local_ramen,日本,奈良県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-141,松江ラーメン,japan_local_ramen,日本,島根県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-142,岡山ラーメン,japan_local_ramen,日本,岡山県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-144,新見ラーメン,japan_local_ramen,日本,岡山県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-145,笠岡ラーメン,japan_local_ramen,日本,岡山県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-152,宇部ラーメン,japan_local_ramen,日本,山口県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-156,松山瓢系ラーメン,japan_local_ramen,日本,愛媛県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-157,今治ラーメン,japan_local_ramen,日本,愛媛県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-170,マジェンバ,japan_local_ramen,日本,佐賀県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-177,佐伯ラーメン,japan_local_ramen,日本,大分県,high,8,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-011,ガタタンラーメン,japan_local_ramen,日本,北海道,high,7,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,soup|vegetables
+jp-066,豆腐ラーメン,japan_local_ramen,日本,埼玉県,high,7,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,soup|tofu
+jp-014,津軽中華そば,japan_local_ramen,日本,青森県,high,6,noodle|ingredients,noodle_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,soup|soy_sauce
+jp-033,冷やしラーメン,japan_local_ramen,日本,山形県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,cold|light
+jp-055,スープ入り焼きそば,japan_local_ramen,日本,栃木県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,fried_griddle|roasted
+jp-081,小田原タンタン麺,japan_local_ramen,日本,神奈川県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup|spicy
+jp-082,神奈川淡麗系,japan_local_ramen,日本,神奈川県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,light|soup
+jp-083,アホーメン,japan_local_ramen,日本,神奈川県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,garlic|soup
+jp-093,冷丼,japan_local_ramen,日本,新潟県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,cold|light
+jp-095,麻婆ラーメン,japan_local_ramen,日本,新潟県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup|spicy
+jp-098,入善ブラウンラーメン,japan_local_ramen,日本,富山県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-099,高岡グリーンラーメン,japan_local_ramen,日本,富山県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup
+jp-104,たけふ駅前中華そば,japan_local_ramen,日本,福井県,high,6,noodle|ingredients,noodle_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,soup|soy_sauce
+jp-107,やまなし源水ラーメン,japan_local_ramen,日本,山梨県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,light|soup
+jp-109,王様中華そば,japan_local_ramen,日本,長野県,high,6,noodle|ingredients,noodle_unknown|ingredients_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,soup|soy_sauce
+jp-121,ベトコンラーメン,japan_local_ramen,日本,愛知県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,garlic|soup|spicy
+jp-148,汁無し担々麺,japan_local_ramen,日本,広島県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,brothless|rich|spicy
+jp-150,呉冷麺,japan_local_ramen,日本,広島県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,cold|light
+jp-160,須崎鍋焼きラーメン,japan_local_ramen,日本,高知県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,fried_griddle|roasted
+jp-164,焼きラーメン,japan_local_ramen,日本,福岡県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,fried_griddle|roasted
+jp-178,別府冷麺,japan_local_ramen,日本,大分県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,cold|light
+jp-180,宮崎辛麺,japan_local_ramen,日本,宮崎県,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,soup|spicy
+world-007,ラミョン,global_ramen_culture,韓国,,high,6,brothSeasoning|noodle|ingredients,noodle_unknown|broth_seasoning_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認 / 代表的な具材を確認,instant_noodle|spicy|stew
+jp-007,天ぷらラーメン,japan_local_ramen,日本,北海道,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,soup|tempura
+jp-008,中標津ミルキーラーメン,japan_local_ramen,日本,北海道,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,dairy|rich|soup
+jp-010,旭川ホルメン,japan_local_ramen,日本,北海道,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,meat_ingredient|offal|rich|soup
+jp-023,三陸磯ラーメン,japan_local_ramen,日本,岩手県,medium,5,noodle,noodle_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認,seafood_forward|seafood_ingredient|soup
+jp-024,大船渡さんまラーメン,japan_local_ramen,日本,岩手県,medium,5,noodle,noodle_unknown|zero_legacy_tags,麺の太さ・形・硬さを資料で確認,seafood_forward|seafood_ingredient|soup
+jp-030,かつラーメン,japan_local_ramen,日本,秋田県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,meat_ingredient|rich|soup|tempura
+jp-031,秋田天ぷら中華,japan_local_ramen,日本,秋田県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,soup|tempura
+jp-036,とりもつラーメン,japan_local_ramen,日本,山形県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,meat_ingredient|offal|rich|soup
+jp-063,ホワイトガウラーメン,japan_local_ramen,日本,千葉県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,dairy|rich|soup
+jp-068,茶ラーメン,japan_local_ramen,日本,埼玉県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,soup|tea
+jp-072,つけ麺,japan_local_ramen,日本,東京都,medium,5,brothSeasoning|ingredients,broth_seasoning_unknown|ingredients_unknown|possible_overlap_with_standard_style,スープ・だし・たれを確認 / 代表的な具材を確認 / 定番スタイルとの重複・役割を確認,dipping|rich|thick_noodle
+jp-092,もつラーメン,japan_local_ramen,日本,新潟県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,meat_ingredient|offal|rich|soup
+jp-100,おやべホワイトラーメン,japan_local_ramen,日本,富山県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,dairy|rich|soup
+jp-117,富士つけナポリタン,japan_local_ramen,日本,静岡県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,soup|vegetables
+jp-118,台湾ラーメン,japan_local_ramen,日本,愛知県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,garlic|meat_ingredient|soup|spicy
+jp-119,台湾まぜそば,japan_local_ramen,日本,愛知県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,brothless|egg|garlic|meat_ingredient|rich|spicy
+jp-122,玉子とじラーメン,japan_local_ramen,日本,愛知県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,egg|soup
+jp-143,トンカツラーメン,japan_local_ramen,日本,岡山県,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,meat_ingredient|rich|soup|tempura
+world-024,トゥクパ,world_noodle_soup,チベット・ネパール・インド,,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,hot|meat_ingredient|soup|vegetables
+world-027,アーシュ・レシュテ,world_noodle_soup,イラン,,medium,5,brothSeasoning|noodle,noodle_unknown|broth_seasoning_unknown,麺の太さ・形・硬さを資料で確認 / スープ・だし・たれを確認,beans|dairy|fermented|herbal|rich|soup
+jp-005,カレーラーメン,japan_local_ramen,日本,北海道,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,curry|soup|spicy
+jp-016,濃厚津軽煮干しラーメン,japan_local_ramen,日本,青森県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dashi_forward|fermented|miso|niboshi|rich|salt|seafood_forward|soup|soy_sauce|umami_forward
+jp-032,辛味噌ラーメン,japan_local_ramen,日本,宮城県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|miso|rich|soup|spicy
+jp-035,からみそラーメン,japan_local_ramen,日本,山形県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|miso|rich|soup
+jp-037,鳥中華,japan_local_ramen,日本,山形県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dashi_forward|light|salt|seafood_forward|soup|soy_sauce
+jp-038,鶴岡節系ラーメン,japan_local_ramen,日本,山形県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dashi_forward|fermented|miso|niboshi|salt|seafood_forward|soup|soy_sauce|umami_forward
+jp-045,奥州郡山とんこつラーメン,japan_local_ramen,日本,福島県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,animal_forward|fermented|miso|pork_bone|rich|salt|soup|soy_sauce|umami_forward
+jp-046,郡山ブラックラーメン,japan_local_ramen,日本,福島県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dark_broth|soup|soy_sauce
+jp-047,会津野沢宿味噌ラーメン,japan_local_ramen,日本,福島県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|miso|rich|soup
+jp-061,船橋ソースラーメン,japan_local_ramen,日本,千葉県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,sauce|soup
+jp-064,小見川カレー焼きそば,japan_local_ramen,日本,千葉県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,curry|fried_griddle|rich|roasted|spicy
+jp-067,酒粕味噌ラーメン,japan_local_ramen,日本,埼玉県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|miso|rich|sake_lees|soup
+jp-070,荻窪ラーメン,japan_local_ramen,日本,東京都,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,niboshi|seafood_forward|soup|soy_sauce|umami_forward
+jp-074,背脂ラーメン,japan_local_ramen,日本,東京都,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,backfat|rich|soup
+jp-084,新潟あっさり醤油ラーメン,japan_local_ramen,日本,新潟県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,light|soup|soy_sauce
+jp-085,新潟濃厚味噌ラーメン,japan_local_ramen,日本,新潟県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|miso|rich|soup|umami_forward
+jp-086,長岡生姜醤油ラーメン,japan_local_ramen,日本,新潟県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,ginger|soup|soy_sauce
+jp-088,三条カレーラーメン,japan_local_ramen,日本,新潟県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,curry|soup|spicy
+jp-094,上越味噌ラーメン,japan_local_ramen,日本,新潟県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|miso|rich|soup
+jp-096,上越雪むろ酒かすラーメン,japan_local_ramen,日本,新潟県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|sake_lees|soup
+jp-097,富山ブラックラーメン,japan_local_ramen,日本,富山県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dark_broth|salt|soup|soy_sauce
+jp-102,加賀味噌ラーメン,japan_local_ramen,日本,石川県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|miso|rich|soup
+jp-111,信州味噌ラーメン,japan_local_ramen,日本,長野県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|miso|rich|soup
+jp-114,溶き味噌ラーメン,japan_local_ramen,日本,静岡県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|miso|rich|soup
+jp-125,京風ラーメン,japan_local_ramen,日本,京都府,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dashi_forward|light|salt|seafood_forward|soup|soy_sauce
+jp-126,キーシマ,japan_local_ramen,日本,京都府,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dashi_forward|light|salt|seafood_forward|soup|soy_sauce
+jp-128,大阪ライト豚骨,japan_local_ramen,日本,大阪府,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,animal_forward|fermented|miso|pork_bone|rich|salt|soup|soy_sauce|umami_forward
+jp-130,えきそば,japan_local_ramen,日本,兵庫県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dashi_forward|light|salt|seafood_forward|soup|soy_sauce
+jp-132,播州赤穂塩ラーメン,japan_local_ramen,日本,兵庫県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,light|salt|soup
+jp-137,素ラーメン,japan_local_ramen,日本,鳥取県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dashi_forward|light|salt|seafood_forward|soup|soy_sauce
+jp-138,鳥取牛骨ラーメン,japan_local_ramen,日本,鳥取県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,animal_forward|beef_bone|fermented|miso|salt|soup|soy_sauce
+jp-153,下松牛骨ラーメン,japan_local_ramen,日本,山口県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,animal_forward|beef_bone|fermented|miso|salt|soup|soy_sauce
+jp-154,瀬戸内ラーメンいりこそば,japan_local_ramen,日本,山口県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,fermented|miso|niboshi|salt|seafood_forward|soup|soy_sauce|umami_forward
+jp-161,中日そば,japan_local_ramen,日本,高知県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dashi_forward|light|salt|seafood_forward|soup|soy_sauce
+jp-166,ちゃんらー,japan_local_ramen,日本,福岡県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dashi_forward|light|salt|seafood_forward|soup|soy_sauce
+jp-171,あごだしラーメン,japan_local_ramen,日本,長崎県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,dashi_forward|fermented|miso|niboshi|salt|seafood_forward|soup|soy_sauce|umami_forward
+jp-174,玉名ラーメン,japan_local_ramen,日本,熊本県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,animal_forward|fermented|garlic|miso|pork_bone|rich|roasted|salt|soup|soy_sauce|umami_forward
+jp-179,宮崎ラーメン,japan_local_ramen,日本,宮崎県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,animal_forward|fermented|miso|pork_bone|rich|salt|soup|soy_sauce|umami_forward
+jp-184,ちゅら塩ラーメン,japan_local_ramen,日本,沖縄県,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,light|salt|soup
+world-015,ボートヌードル,world_noodle_soup,タイ,,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,animal_forward|rich|shared_serving|soup|spicy
+world-016,トムヤムヌードル,world_noodle_soup,タイ,,medium,4,noodle|ingredients,noodle_unknown|ingredients_unknown,麺の太さ・形・硬さを資料で確認 / 代表的な具材を確認,animal_forward|herbal|soup|sour|spicy|umami_forward
+world-028,サイミン,global_ramen_culture,アメリカ合衆国・ハワイ,,medium,4,servingForm|ingredients,ingredients_unknown|serving_unknown,代表的な具材を確認 / 提供形式を確認,animal_forward|light|multicultural|thin_noodle|umami_forward
+jp-009,オホーツク干貝柱ラーメン,japan_local_ramen,日本,北海道,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward
+jp-015,味噌カレー牛乳ラーメン,japan_local_ramen,日本,青森県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,curry|dairy|fermented|miso|rich|soup|spicy
+jp-017,しじみラーメン,japan_local_ramen,日本,青森県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward
+jp-026,盛岡冷麺,japan_local_ramen,日本,岩手県,medium,3,brothSeasoning|ingredients,broth_seasoning_unknown|ingredients_unknown,スープ・だし・たれを確認 / 代表的な具材を確認,cold|elastic_noodle|firm_noodle|light
+jp-048,福島鶏白湯,japan_local_ramen,日本,福島県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|chicken_paitan|fermented|meat_ingredient|miso|rich|salt|soup|soy_sauce|umami_forward
+jp-052,豆腐味噌ラーメン,japan_local_ramen,日本,茨城県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,fermented|miso|rich|soup|tofu
+jp-057,東毛手延べラーメン,japan_local_ramen,日本,群馬県,medium,3,brothSeasoning|ingredients,broth_seasoning_unknown|ingredients_unknown,スープ・だし・たれを確認 / 代表的な具材を確認,hand_stretched|soup
+jp-058,竹岡式ラーメン,japan_local_ramen,日本,千葉県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,dark_broth|meat_ingredient|soup|soy_sauce
+jp-059,勝浦タンタンメン,japan_local_ramen,日本,千葉県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|salt|soup|spicy|vegetables
+jp-060,アリランラーメン,japan_local_ramen,日本,千葉県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,dark_broth|garlic|rich|soup|soy_sauce|spicy|vegetables
+jp-073,八王子ラーメン,japan_local_ramen,日本,東京都,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,soup|soy_sauce|vegetables
+jp-077,ニュータンタンメン,japan_local_ramen,日本,神奈川県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|salt|soup|spicy|vegetables
+jp-078,平塚系タンメン,japan_local_ramen,日本,神奈川県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|salt|soup|vegetables
+jp-080,三崎まぐろラーメン,japan_local_ramen,日本,神奈川県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward
+jp-110,ローメン,japan_local_ramen,日本,長野県,medium,3,brothSeasoning|ingredients,broth_seasoning_unknown|ingredients_unknown,スープ・だし・たれを確認 / 代表的な具材を確認,brothless|fried_noodle
+jp-115,清水もつカレーラーメン,japan_local_ramen,日本,静岡県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,curry|meat_ingredient|offal|rich|soup|spicy
+jp-140,しじみラーメン,japan_local_ramen,日本,島根県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward
+jp-147,広島つけ麺,japan_local_ramen,日本,広島県,medium,3,brothSeasoning|ingredients,broth_seasoning_unknown|ingredients_unknown,スープ・だし・たれを確認 / 代表的な具材を確認,dipping|rich|thick_noodle
+jp-151,広島牡蠣ラーメン,japan_local_ramen,日本,広島県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward
+jp-159,みそカツラーメン,japan_local_ramen,日本,高知県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,fermented|miso|rich|soup|tempura
+jp-168,佐賀ラーメン,japan_local_ramen,日本,佐賀県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|egg|fermented|miso|pork_bone|rich|salt|soup|soy_sauce|umami_forward
+jp-176,太平燕,japan_local_ramen,日本,熊本県,medium,3,brothSeasoning|ingredients,broth_seasoning_unknown|ingredients_unknown,スープ・だし・たれを確認 / 代表的な具材を確認,glass_noodle|soup|thin_noodle
+jp-182,串木野まぐろラーメン,japan_local_ramen,日本,鹿児島県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward
+jp-183,枕崎かつおラーメン,japan_local_ramen,日本,鹿児島県,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,fermented|meat_ingredient|miso|niboshi|rich|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|tempura|umami_forward
+world-002,台湾牛肉麺,world_noodle_soup,台湾,,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|meat_ingredient|soy_sauce|spicy|stew
+world-008,チャンポン,world_noodle_soup,韓国,,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|seafood_forward|seafood_ingredient|soup|spicy|umami_forward|vegetables
+world-018,カレーラクサ,world_noodle_soup,マレーシア・シンガポール,,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|coconut|curry|rich|seafood_forward|seafood_ingredient|soup|spicy|umami_forward
+world-019,アッサムラクサ,world_noodle_soup,マレーシア,,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,herbal|seafood_forward|seafood_ingredient|soup|sour|spicy|umami_forward
+world-020,プロウンミー,world_noodle_soup,シンガポール・マレーシア,,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|dashi_forward|seafood_forward|seafood_ingredient|soup|spicy|umami_forward
+world-021,ミー・チェロール,world_noodle_soup,インドネシア,,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,ankake|coconut|rich|seafood_forward|seafood_ingredient|soup|umami_forward
+world-022,ミー・バクソ,world_noodle_soup,インドネシア,,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|light|meat_ingredient|soup|street_food
+world-025,テントゥク,world_noodle_soup,チベット,,medium,3,brothSeasoning|ingredients,broth_seasoning_unknown|ingredients_unknown,スープ・だし・たれを確認 / 代表的な具材を確認,handmade|irregular_noodle|stew|traditional
+world-029,ソパ・ワンタン,world_noodle_soup,ペルー,,medium,3,noodle,noodle_unknown,麺の太さ・形・硬さを資料で確認,animal_forward|chinese_influenced|soup|wonton
+jp-004,釧路ラーメン,japan_local_ramen,日本,北海道,low,1,ingredients,ingredients_unknown,代表的な具材を確認,light|soup|soy_sauce|thin_noodle
+jp-029,稲庭中華そば,japan_local_ramen,日本,秋田県,low,1,ingredients,ingredients_unknown,代表的な具材を確認,soup|soy_sauce|thin_noodle
+jp-087,燕背脂ラーメン,japan_local_ramen,日本,新潟県,low,1,ingredients,ingredients_unknown,代表的な具材を確認,backfat|niboshi|rich|seafood_forward|soup|soy_sauce|thick_noodle|umami_forward
+jp-127,高井田系ラーメン,japan_local_ramen,日本,大阪府,low,1,ingredients,ingredients_unknown,代表的な具材を確認,dark_broth|soup|soy_sauce|thick_noodle
+jp-163,長浜ラーメン,japan_local_ramen,日本,福岡県,low,1,ingredients,ingredients_unknown,代表的な具材を確認,animal_forward|fermented|firm_noodle|kaedama|miso|pork_bone|rich|salt|soup|soy_sauce|thin_noodle|umami_forward
+world-004,過橋米線,world_noodle_soup,中国,,low,1,ingredients,ingredients_unknown,代表的な具材を確認,animal_forward|hot|rice_noodle|separate_toppings|soup
+world-005,重慶小麺,world_noodle_soup,中国,,low,1,ingredients,ingredients_unknown,代表的な具材を確認,animal_forward|soup|spicy|thin_noodle
+world-006,螺蛳粉,world_noodle_soup,中国,,low,1,ingredients,ingredients_unknown,代表的な具材を確認,animal_forward|fermented|rice_noodle|soup|sour|spicy|umami_forward
+world-009,カルグクス,world_noodle_soup,韓国,,low,1,ingredients,ingredients_unknown,代表的な具材を確認,animal_forward|dashi_forward|handmade|light|soup|umami_forward
+world-010,冷麺,world_noodle_soup,韓国,,low,1,ingredients,ingredients_unknown,代表的な具材を確認,animal_forward|buckwheat_noodle|cold|elastic_noodle|firm_noodle|sour
+world-011,フォー・ボー,world_noodle_soup,ベトナム,,low,1,ingredients,ingredients_unknown,代表的な具材を確認,animal_forward|beef_bone|herbal|light|rice_noodle|soup|umami_forward
+world-012,ブンボーフエ,world_noodle_soup,ベトナム,,low,1,ingredients,ingredients_unknown,代表的な具材を確認,animal_forward|herbal|rice_noodle|soup|spicy|umami_forward
+world-014,クイティウ,world_noodle_soup,カンボジア,,low,1,ingredients,ingredients_unknown,代表的な具材を確認,animal_forward|breakfast_culture|light|rice_noodle|soup|umami_forward
+jp-034,酒田ラーメン,japan_local_ramen,日本,山形県,low,0,,,現状維持,handmade|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward
+jp-105,平打ちタンメン,japan_local_ramen,日本,山梨県,low,0,,,現状維持,animal_forward|flat_noodle|salt|soup|vegetables
+jp-133,尼崎あんかけちゃんぽん,japan_local_ramen,日本,兵庫県,low,0,,,現状維持,animal_forward|ankake|fermented|miso|rich|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward|vegetables
+jp-134,近江ちゃんぽん,japan_local_ramen,日本,滋賀県,low,0,,,現状維持,animal_forward|fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward|vegetables
+jp-139,山陰ちゃんぽん,japan_local_ramen,日本,島根県・鳥取県,low,0,,,現状維持,animal_forward|fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward|vegetables
+jp-158,八幡浜ちゃんぽん,japan_local_ramen,日本,愛媛県,low,0,,,現状維持,animal_forward|fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward|vegetables
+jp-167,戸畑ちゃんぽん,japan_local_ramen,日本,福岡県,low,0,,,現状維持,animal_forward|fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward|vegetables
+jp-169,佐賀ちゃんぽん,japan_local_ramen,日本,佐賀県,low,0,,,現状維持,animal_forward|fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward|vegetables
+jp-172,長崎ちゃんぽん,japan_local_ramen,日本,長崎県,low,0,,,現状維持,animal_forward|fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward|vegetables
+jp-175,天草ちゃんぽん,japan_local_ramen,日本,熊本県,low,0,,,現状維持,animal_forward|fermented|miso|salt|seafood_forward|seafood_ingredient|soup|soy_sauce|umami_forward|vegetables
+jp-185,沖縄そば,japan_local_ramen,日本,沖縄県,low,0,,,現状維持,animal_forward|meat_ingredient|okinawa_soba_noodle|salt|seafood_forward|soup|soy_sauce
+world-001,蘭州牛肉麺,world_noodle_soup,中国,,low,0,,,現状維持,animal_forward|hand_stretched|herbal|light|meat_ingredient|soup|spicy
+world-003,雲呑麺,world_noodle_soup,香港,,low,0,,,現状維持,animal_forward|light|seafood_forward|seafood_ingredient|soup|thin_noodle|umami_forward|wonton
+world-013,フーティウ,world_noodle_soup,ベトナム,,low,0,,,現状維持,animal_forward|brothless|meat_ingredient|rice_noodle|seafood_forward|seafood_ingredient|umami_forward
+world-017,カオソーイ,world_noodle_soup,タイ,,low,0,,,現状維持,animal_forward|coconut|curry|fried_noodle|rich|soup
+world-023,モヒンガー,world_noodle_soup,ミャンマー,,low,0,,,現状維持,breakfast_culture|fermented|herbal|rice_noodle|seafood_forward|seafood_ingredient|soup|umami_forward
+world-026,ラグマン,world_noodle_soup,中央アジア,,low,0,,,現状維持,animal_forward|hand_stretched|meat_ingredient|soup|vegetables
+world-030,ソパ・デ・フィデオ,world_noodle_soup,メキシコ,,low,0,,,現状維持,animal_forward|irregular_noodle|soup|traditional|vegetables

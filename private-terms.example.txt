@@ -1,0 +1,5 @@
+# Copy this file to private-terms.local.txt and place one private term per line.
+# The local file is ignored by Git.
+PRIVATE_NAME
+PRIVATE_ADDRESS
+PRIVATE_WORKPLACE

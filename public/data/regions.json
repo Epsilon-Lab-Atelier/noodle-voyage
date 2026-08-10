@@ -1,0 +1,328 @@
+{
+  "regions": [
+    {
+      "code": "hokkaido",
+      "name": "北海道",
+      "displayOrder": 1
+    },
+    {
+      "code": "tohoku",
+      "name": "東北",
+      "displayOrder": 2
+    },
+    {
+      "code": "kanto",
+      "name": "関東",
+      "displayOrder": 3
+    },
+    {
+      "code": "chubu",
+      "name": "中部",
+      "displayOrder": 4
+    },
+    {
+      "code": "kinki",
+      "name": "近畿",
+      "displayOrder": 5
+    },
+    {
+      "code": "chugoku",
+      "name": "中国",
+      "displayOrder": 6
+    },
+    {
+      "code": "shikoku",
+      "name": "四国",
+      "displayOrder": 7
+    },
+    {
+      "code": "kyushu_okinawa",
+      "name": "九州・沖縄",
+      "displayOrder": 8
+    }
+  ],
+  "prefectures": [
+    {
+      "code": "01",
+      "name": "北海道",
+      "regionCode": "hokkaido",
+      "displayOrder": 1
+    },
+    {
+      "code": "02",
+      "name": "青森県",
+      "regionCode": "tohoku",
+      "displayOrder": 2
+    },
+    {
+      "code": "03",
+      "name": "岩手県",
+      "regionCode": "tohoku",
+      "displayOrder": 3
+    },
+    {
+      "code": "04",
+      "name": "宮城県",
+      "regionCode": "tohoku",
+      "displayOrder": 4
+    },
+    {
+      "code": "05",
+      "name": "秋田県",
+      "regionCode": "tohoku",
+      "displayOrder": 5
+    },
+    {
+      "code": "06",
+      "name": "山形県",
+      "regionCode": "tohoku",
+      "displayOrder": 6
+    },
+    {
+      "code": "07",
+      "name": "福島県",
+      "regionCode": "tohoku",
+      "displayOrder": 7
+    },
+    {
+      "code": "08",
+      "name": "茨城県",
+      "regionCode": "kanto",
+      "displayOrder": 8
+    },
+    {
+      "code": "09",
+      "name": "栃木県",
+      "regionCode": "kanto",
+      "displayOrder": 9
+    },
+    {
+      "code": "10",
+      "name": "群馬県",
+      "regionCode": "kanto",
+      "displayOrder": 10
+    },
+    {
+      "code": "11",
+      "name": "埼玉県",
+      "regionCode": "kanto",
+      "displayOrder": 11
+    },
+    {
+      "code": "12",
+      "name": "千葉県",
+      "regionCode": "kanto",
+      "displayOrder": 12
+    },
+    {
+      "code": "13",
+      "name": "東京都",
+      "regionCode": "kanto",
+      "displayOrder": 13
+    },
+    {
+      "code": "14",
+      "name": "神奈川県",
+      "regionCode": "kanto",
+      "displayOrder": 14
+    },
+    {
+      "code": "15",
+      "name": "新潟県",
+      "regionCode": "chubu",
+      "displayOrder": 15
+    },
+    {
+      "code": "16",
+      "name": "富山県",
+      "regionCode": "chubu",
+      "displayOrder": 16
+    },
+    {
+      "code": "17",
+      "name": "石川県",
+      "regionCode": "chubu",
+      "displayOrder": 17
+    },
+    {
+      "code": "18",
+      "name": "福井県",
+      "regionCode": "chubu",
+      "displayOrder": 18
+    },
+    {
+      "code": "19",
+      "name": "山梨県",
+      "regionCode": "chubu",
+      "displayOrder": 19
+    },
+    {
+      "code": "20",
+      "name": "長野県",
+      "regionCode": "chubu",
+      "displayOrder": 20
+    },
+    {
+      "code": "21",
+      "name": "岐阜県",
+      "regionCode": "chubu",
+      "displayOrder": 21
+    },
+    {
+      "code": "22",
+      "name": "静岡県",
+      "regionCode": "chubu",
+      "displayOrder": 22
+    },
+    {
+      "code": "23",
+      "name": "愛知県",
+      "regionCode": "chubu",
+      "displayOrder": 23
+    },
+    {
+      "code": "24",
+      "name": "三重県",
+      "regionCode": "kinki",
+      "displayOrder": 24
+    },
+    {
+      "code": "25",
+      "name": "滋賀県",
+      "regionCode": "kinki",
+      "displayOrder": 25
+    },
+    {
+      "code": "26",
+      "name": "京都府",
+      "regionCode": "kinki",
+      "displayOrder": 26
+    },
+    {
+      "code": "27",
+      "name": "大阪府",
+      "regionCode": "kinki",
+      "displayOrder": 27
+    },
+    {
+      "code": "28",
+      "name": "兵庫県",
+      "regionCode": "kinki",
+      "displayOrder": 28
+    },
+    {
+      "code": "29",
+      "name": "奈良県",
+      "regionCode": "kinki",
+      "displayOrder": 29
+    },
+    {
+      "code": "30",
+      "name": "和歌山県",
+      "regionCode": "kinki",
+      "displayOrder": 30
+    },
+    {
+      "code": "31",
+      "name": "鳥取県",
+      "regionCode": "chugoku",
+      "displayOrder": 31
+    },
+    {
+      "code": "32",
+      "name": "島根県",
+      "regionCode": "chugoku",
+      "displayOrder": 32
+    },
+    {
+      "code": "33",
+      "name": "岡山県",
+      "regionCode": "chugoku",
+      "displayOrder": 33
+    },
+    {
+      "code": "34",
+      "name": "広島県",
+      "regionCode": "chugoku",
+      "displayOrder": 34
+    },
+    {
+      "code": "35",
+      "name": "山口県",
+      "regionCode": "chugoku",
+      "displayOrder": 35
+    },
+    {
+      "code": "36",
+      "name": "徳島県",
+      "regionCode": "shikoku",
+      "displayOrder": 36
+    },
+    {
+      "code": "37",
+      "name": "香川県",
+      "regionCode": "shikoku",
+      "displayOrder": 37
+    },
+    {
+      "code": "38",
+      "name": "愛媛県",
+      "regionCode": "shikoku",
+      "displayOrder": 38
+    },
+    {
+      "code": "39",
+      "name": "高知県",
+      "regionCode": "shikoku",
+      "displayOrder": 39
+    },
+    {
+      "code": "40",
+      "name": "福岡県",
+      "regionCode": "kyushu_okinawa",
+      "displayOrder": 40
+    },
+    {
+      "code": "41",
+      "name": "佐賀県",
+      "regionCode": "kyushu_okinawa",
+      "displayOrder": 41
+    },
+    {
+      "code": "42",
+      "name": "長崎県",
+      "regionCode": "kyushu_okinawa",
+      "displayOrder": 42
+    },
+    {
+      "code": "43",
+      "name": "熊本県",
+      "regionCode": "kyushu_okinawa",
+      "displayOrder": 43
+    },
+    {
+      "code": "44",
+      "name": "大分県",
+      "regionCode": "kyushu_okinawa",
+      "displayOrder": 44
+    },
+    {
+      "code": "45",
+      "name": "宮崎県",
+      "regionCode": "kyushu_okinawa",
+      "displayOrder": 45
+    },
+    {
+      "code": "46",
+      "name": "鹿児島県",
+      "regionCode": "kyushu_okinawa",
+      "displayOrder": 46
+    },
+    {
+      "code": "47",
+      "name": "沖縄県",
+      "regionCode": "kyushu_okinawa",
+      "displayOrder": 47
+    }
+  ]
+}

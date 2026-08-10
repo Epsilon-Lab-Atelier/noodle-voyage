@@ -1,0 +1,71 @@
+{
+  "noodleCategories": {
+    "ramen": "ラーメン",
+    "udon": "うどん",
+    "soba": "そば",
+    "yakisoba": "焼きそば",
+    "world_noodle": "世界の麺料理",
+    "other": "その他"
+  },
+  "culturalScopes": {
+    "regional": "ご当地",
+    "standard": "定番スタイル",
+    "international": "世界の地域料理",
+    "contemporary": "現代スタイル"
+  },
+  "forms": {
+    "soup": "汁あり",
+    "dry": "汁なし・まぜ麺",
+    "dipping": "つけ麺",
+    "cold": "冷製",
+    "fried": "炒め・焼き",
+    "instant": "即席麺文化",
+    "hybrid": "複合形式",
+    "stew": "煮込み",
+    "hot_pot": "鍋仕立て",
+    "sauce": "たれ・つゆだく"
+  },
+  "contextualLabels": {
+    "japan.regional.other": "その他のご当地麺類",
+    "japan.standard.ramen": "定番ラーメン",
+    "japan.standard.udon": "定番うどん",
+    "japan.standard.soba": "定番そば",
+    "japan.standard.yakisoba": "定番焼きそば",
+    "japan.contemporary.ramen": "現代のラーメン"
+  },
+  "scoreMethods": {
+    "editorial_source_review_v1": "公的・専門資料と典型的な調理構成を照合したEpsilonLabの編集値です。公式評価や官能試験の測定値ではありません。"
+  },
+  "relationTypes": {
+    "regional_example": "代表的なご当地料理",
+    "related_style": "近い定番スタイル",
+    "bridge": "麺の種類をまたぐ橋渡し"
+  },
+  "tasteLabels": {
+    "richness": "濃厚さ",
+    "oiliness": "油分",
+    "saltiness": "塩味",
+    "sweetness": "甘味",
+    "sourness": "酸味",
+    "heat": "辛味",
+    "umami": "うま味",
+    "animalIntensity": "動物系の強さ",
+    "seafoodIntensity": "魚介感",
+    "spiceIntensity": "香辛料",
+    "herbalIntensity": "香草",
+    "fermentation": "発酵感",
+    "roastedAroma": "香ばしさ",
+    "garlicIntensity": "にんにく",
+    "dashiIntensity": "だしの強さ",
+    "sauceIntensity": "ソース・たれの強さ",
+    "noodleAroma": "麺そのものの香り"
+  },
+  "noodleLabels": {
+    "thickness": "太さ",
+    "width": "平打ち度",
+    "firmness": "硬さ",
+    "elasticity": "弾力",
+    "chewiness": "もちもち感・噛みごたえ",
+    "smoothness": "なめらかさ"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "specVersion": "1.0",
+  "release": "2.2.1",
+  "checks": [
+    {
+      "name": "currentEnglishTagsMapped",
+      "status": "PASS",
+      "detail": {
+        "mapped": 249,
+        "expected": 249
+      }
+    },
+    {
+      "name": "toyohashiNewTagsMapped",
+      "status": "PASS",
+      "detail": [
+        "homemade_noodle",
+        "layered",
+        "pickles",
+        "quail_egg",
+        "tororo"
+      ]
+    },
+    {
+      "name": "rawTagEntriesUnique",
+      "status": "PASS",
+      "detail": 254
+    },
+    {
+      "name": "filterIdsUnique",
+      "status": "PASS",
+      "detail": 69
+    },
+    {
+      "name": "allFilterRawTagsKnown",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "quickFiltersExist",
+      "status": "PASS",
+      "detail": [
+        "light",
+        "rich",
+        "spicy",
+        "roasted",
+        "garlic",
+        "soy_sauce",
+        "salt",
+        "miso",
+        "curry",
+        "sauce",
+        "pork_bone",
+        "niboshi",
+        "dashi_forward",
+        "seafood_forward",
+        "animal_forward",
+        "thin_noodle",
+        "thick_noodle",
+        "flat_noodle",
+        "firm_noodle",
+        "soft_noodle",
+        "soup",
+        "dipping",
+        "brothless",
+        "fried_griddle",
+        "stew",
+        "cold",
+        "vegetables",
+        "seafood_ingredient",
+        "meat_ingredient"
+      ]
+    },
+    {
+      "name": "toyohashiIdNoCollision",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "toyohashiParentStyleExists",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "name": "expectedCounts",
+      "status": "PASS",
+      "detail": {
+        "v2_1_2_existing_catalog": 215,
+        "researched_regional_additions": 54,
+        "regional_udon": 19,
+        "regional_soba": 15,
+        "regional_yakisoba": 12,
+        "other_regional_noodles": 8,
+        "researched_standard_styles": 20,
+        "expected_public_catalog_if_world_30_remain_published": 289,
+        "expected_regional_example_relations": 86
+      }
+    },
+    {
+      "name": "noRawEnglishRenderingPolicy",
+      "status": "PASS",
+      "detail": ""
+    }
+  ]
+}

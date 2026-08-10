@@ -1,0 +1,60 @@
+{
+  "release": "2.3.0",
+  "baseline": "2.2.1",
+  "source": "data/facets/merge-manifest.json",
+  "note": "公開件数と関連件数の期待値です。check:data とテストはこの値を参照し、件数をコードへ直接書きません。",
+  "counts": {
+    "legacyCatalog": 215,
+    "researchedRegionalAdditions": 54,
+    "researchedRegionalByCategory": {
+      "udon": 19,
+      "soba": 15,
+      "yakisoba": 12,
+      "other": 8
+    },
+    "standardStyles": 20,
+    "standardByCategory": {
+      "ramen": 8,
+      "udon": 5,
+      "soba": 4,
+      "yakisoba": 3
+    },
+    "publicCatalog": 291,
+    "regionalExampleRelations": 86,
+    "contemporaryStyles": 2
+  },
+  "catalogTotals": {
+    "note": "ご当地の焼きそばとその他は、v2.2.0で既存3件・6件を編集判断で再分類したぶん、調査追加分より多くなります。",
+    "regionalByCategory": {
+      "udon": 19,
+      "soba": 15,
+      "yakisoba": 15,
+      "other": 14
+    }
+  },
+  "relationRules": {
+    "standardToRegionalExampleCardinality": "0..n",
+    "stylesAllowedWithoutRegionalExample": [
+      "jp-style-soba-tempura",
+      "jp-style-soba-kamo-nanban"
+    ],
+    "allPublishedRelationTargetsMustResolve": true,
+    "contemporaryStylesExcludedFromMapAndPassport": true
+  },
+  "regressions": {
+    "richAndThick": {
+      "note": "根拠のあるfacetから2件以上。件数を大きく見せるために特徴を付けない。",
+      "minimumMatches": 2,
+      "mustInclude": [
+        "jp-075",
+        "jp-style-ramen-tsukemen-rich-pork-seafood"
+      ],
+      "base215Matches": [
+        "jp-072",
+        "jp-075",
+        "jp-087",
+        "jp-147"
+      ]
+    }
+  }
+}
